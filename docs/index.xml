@@ -7,9 +7,42 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0900</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Masscat in Looking Glass</title>
+      <link>/project/masscat-follows-ball/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/masscat-follows-ball/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;li&gt;リリース: &lt;a href=&#34;https://lookingglassfactory.com/downloads/app-library-for-the-looking-glass/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
+
+&lt;p&gt;Masscat in Looking Glassは、ますきゃっと様と戯れることができるアプリです。Looking Glassによって、裸眼視聴にも関わらず、まるでそこにますきゃっと様が実在するかのように感じます。&lt;/p&gt;
+
+&lt;p&gt;マウス・キーボードは不要で、Looking Glass本体のボタンのみで操作できるため、バックパックPCと組み合わせれば、歩きながらデモすることができます！&lt;/p&gt;
+
+&lt;h2 id=&#34;tweet&#34;&gt;Tweet&lt;/h2&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！&lt;a href=&#34;https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#lookingglass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/2Cl3qIv6Ng&#34;&gt;pic.twitter.com/2Cl3qIv6Ng&lt;/a&gt;&lt;/p&gt;&amp;mdash; せぎゅ (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw&#34;&gt;2019年2月7日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; data-lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー&lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/4J9jPU8hcP&#34;&gt;pic.twitter.com/4J9jPU8hcP&lt;/a&gt;&lt;/p&gt;&amp;mdash; せぎゅ (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw&#34;&gt;2019年4月12日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
