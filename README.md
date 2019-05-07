@@ -3,7 +3,34 @@
 
 
 
-## 開発環境構築方法
+## 利用技術
+
+- [Hugo](https://gohugo.io/)
+- [Academic theme](https://sourcethemes.com/academic/)
+
+
+
+# Usage
+
+## 開発ツール導入
+
+Hugoをインストールしてください。Macの場合、Homebrewでインストールできます。
+
+```bash
+brew install hugo
+```
+
+Windowsの場合、ChocolateyでHugo Extendedをインストールします。
+
+```bash
+choco install hugo-extended
+```
+
+
+
+## 開発環境構築
+
+以下のコマンドでソースコードをダウンロードします。本プロジェクトには、Gitサブモジュールが含まれるので、再帰的にダウンロードします。
 
 ```bash
 git clone --recursive https://github.com/segurvita/segurvita.github.io.git
@@ -11,18 +38,27 @@ git clone --recursive https://github.com/segurvita/segurvita.github.io.git
 
 
 
-## デプロイ方法
+## プレビュー
+
+以下のコマンドでサーバーを起動します。
+
+```bash
+hugo server
+```
+
+ブラウザで http://localhost:1313 にアクセスすれば、プレビューできます。
+
+
+
+## デプロイ
+
+`master` ブランチはGitHub Page公開用であり、開発用途では利用しません。開発用途では、デフォルトブランチ `source` を利用します。
+
+GitHub Pageにデプロイする場合は、以下のコマンドを実行します。
 
 ```bash
 git subtree push --prefix docs/ origin master
 ```
-
-
-
-## 利用技術
-
-- [Hugo](https://gohugo.io/)
-- [Academic theme](https://sourcethemes.com/academic/)
 
 
 
