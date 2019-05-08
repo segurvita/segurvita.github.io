@@ -139,5 +139,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Qiita</title>
+      <link>/project/qiita/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/qiita/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

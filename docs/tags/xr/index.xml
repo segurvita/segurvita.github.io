@@ -18,7 +18,7 @@
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/leapat/</guid>
-      <description>Leap Motion × Looking Glass [&lt;code&gt;Looking Glass&lt;/code&gt;]</description>
+      <description>Leap Motionで手をセンシングし、Looking Glassのカメラ操作を手で行うことができるアプリです。</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/masscat-follows-ball/</guid>
-      <description>Masscat Follows Ball [&lt;code&gt;Looking Glass&lt;/code&gt;]</description>
+      <description>ますきゃっと様と戯れるアプリです。Looking Glass Libraryで遊べます。</description>
     </item>
     
     <item>
@@ -36,7 +36,16 @@
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/shogo-in-looking-glass/</guid>
-      <description>Shogo in Looking Glass [&lt;code&gt;Looking Glass&lt;/code&gt;]</description>
+      <description>初めて作成したLooking Glassのコンテンツです。</description>
+    </item>
+    
+    <item>
+      <title>Qiita</title>
+      <link>/project/qiita/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/qiita/</guid>
+      <description>Web, IoT, xRに関する技術記事を週１ほどで投稿しています。</description>
     </item>
     
   </channel>
