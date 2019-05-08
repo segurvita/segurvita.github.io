@@ -6,7 +6,7 @@ title = "Shogo in Looking Glass"
 date = 2019-02-06T00:00:00
 
 # Project summary to display on homepage.
-summary = "Shogo in Looking Glass [`Looking Glass`]"
+summary = "初めて作成したLooking Glassのコンテンツです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
