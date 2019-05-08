@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Leap Motion</title>
+      <link>/tags/leap-motion/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/leap-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Looking Glass</title>
       <link>/tags/looking-glass/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/looking-glass/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>Unity</title>
       <link>/tags/unity/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/unity/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>xR</title>
       <link>/tags/xr/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/xr/</guid>
       <description></description>
