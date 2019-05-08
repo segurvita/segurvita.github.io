@@ -6,7 +6,7 @@ title = "Leapat"
 date = 2019-03-22T00:00:00
 
 # Project summary to display on homepage.
-summary = "Leap Motion × Looking Glass [`Looking Glass`]"
+summary = "Leap Motionで手をセンシングし、Looking Glassのカメラ操作を手で行うことができるアプリです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

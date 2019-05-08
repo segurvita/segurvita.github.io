@@ -53,6 +53,11 @@ user_groups = []
   link = "https://github.com/segurvita"
 
 [[social]]
+  icon = "link"
+  icon_pack = "fas"
+  link = "https://qiita.com/segur"
+
+[[social]]
   icon = "youtube"
   icon_pack = "fab"
   link = "https://www.youtube.com/channel/UCtYdI8T962H4-G2glkb1TYQ"

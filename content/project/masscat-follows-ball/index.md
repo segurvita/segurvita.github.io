@@ -6,7 +6,7 @@ title = "Masscat Follows Ball"
 date = 2019-02-07T00:00:00
 
 # Project summary to display on homepage.
-summary = "Masscat Follows Ball [`Looking Glass`]"
+summary = "ますきゃっと様と戯れるアプリです。Looking Glass Libraryで遊べます。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

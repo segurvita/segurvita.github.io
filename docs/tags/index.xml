@@ -48,5 +48,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>IoT</title>
+      <link>/tags/iot/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
