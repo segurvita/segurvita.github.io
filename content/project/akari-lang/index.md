@@ -10,7 +10,7 @@ summary = "独自プログラミング言語Akariを作りました。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Ruby", "Brainf*ck"]
+tags = ["Brainfxck"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "ますきゃっと様"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
