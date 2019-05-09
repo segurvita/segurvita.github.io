@@ -62,6 +62,11 @@ user_groups = []
   icon_pack = "fab"
   link = "https://www.youtube.com/channel/UCtYdI8T962H4-G2glkb1TYQ"
 
+[[social]]
+  icon = "npm"
+  icon_pack = "fab"
+  link = "https://www.npmjs.com/~segur"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
