@@ -3,50 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/girls-in-the-box/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/leap-motion/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/looking-glass/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unity/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xr/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/leapat/</loc>
     <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/looking-glass/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/unity/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/xr/</loc>
-    <lastmod>2019-03-22T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
