@@ -67,6 +67,11 @@ user_groups = []
   icon_pack = "fab"
   link = "https://www.npmjs.com/~segur"
 
+[[social]]
+  icon = "gem"
+  icon_pack = "fas"
+  link = "https://rubygems.org/profiles/segur"
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
