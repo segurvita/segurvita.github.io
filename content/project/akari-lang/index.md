@@ -10,7 +10,7 @@ summary = "独自プログラミング言語Akariを作りました。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Brainfxck"]
+tags = ["Brainfxck", "Ruby", "Library"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
