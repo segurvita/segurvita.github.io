@@ -92,3 +92,10 @@ url_code = ""
 - [Looking Glass ミートアップ](https://connpass.com/event/124916/)
 
 
+
+## ニュース
+
+エキサイトニュースにも、チラっと載りました！
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">みんなの作品と一緒に自分の作品もエキサイトニュースに載りましたー！わーいわーい。<br><br>「Looking Glass」開発者が語る日本人への期待 (2019年4月23日) - エキサイトニュース <a href="https://t.co/Q15z8v8OiP">https://t.co/Q15z8v8OiP</a> <a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ルキグラス</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1120869021052596225?ref_src=twsrc%5Etfw">2019年4月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
