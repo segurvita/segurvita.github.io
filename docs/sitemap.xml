@@ -93,6 +93,53 @@
   </url>
   
   <url>
+    <loc>/tags/aws/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/library/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/node.js/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/open-api/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/swagger/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/npm/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/swagger-rm-example/</loc>
+    <lastmod>2018-10-25T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/akari-lang/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
   </url>
@@ -112,12 +159,6 @@
   <url>
     <loc>/project/qiita/</loc>
     <lastmod>2018-01-15T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/web/</loc>
-    <lastmod>2018-01-15T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
