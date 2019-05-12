@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/application/</loc>
+    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/project/girls-in-the-box/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
   </url>
@@ -146,6 +152,12 @@
   
   <url>
     <loc>/tags/brainfxck/</loc>
+    <lastmod>2018-09-06T00:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ruby/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>

@@ -10,7 +10,7 @@ summary = "初めて作成したLooking Glassのコンテンツです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Looking Glass", "xR", "Unity"]
+tags = ["Application", "Looking Glass", "xR", "Unity"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
