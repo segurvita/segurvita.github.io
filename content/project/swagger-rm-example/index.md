@@ -10,7 +10,7 @@ summary = "Amazon API Gateway向けに、Swaggerファイルを加工するNode.
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Node.js", "npm", "Swagger", "Open API", "AWS"]
+tags = ["Node.js", "npm", "Swagger", "Open API", "AWS", "Web", "Library"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://qiita.com/segur/items/71609488d9745de998fa"
