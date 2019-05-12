@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Motion Capture on Segur / せぎゅ</title>
+    <link>/tags/virtual-motion-capture/</link>
+    <description>Recent content in Virtual Motion Capture on Segur / せぎゅ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/virtual-motion-capture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beat Saber Darth Maul Play with VMC</title>
+      <link>/project/beatsaber/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/beatsaber/</guid>
+      <description>Beat SaberというVRゲームに、アバターをMR合成しながらプレイし、動画を投稿しました。</description>
+    </item>
+    
+  </channel>
+</rss>
