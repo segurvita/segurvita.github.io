@@ -21,17 +21,25 @@ subtitle = "成果物"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   #filter_default = 0
 
-  #[[content.filter_button]]
-  #  name = "All"
-  #  tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-  #[[content.filter_button]]
-  #  name = "Looking Glass"
-  #  tag = "Looking Glass"
+  [[content.filter_button]]
+    name = "xR"
+    tag = "xR"
 
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
+  [[content.filter_button]]
+    name = "Looking Glass"
+    tag = "Looking Glass"
+
+  [[content.filter_button]]
+    name = "Application"
+    tag = "Application"
+
+  [[content.filter_button]]
+    name = "Library"
+    tag = "Library"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
