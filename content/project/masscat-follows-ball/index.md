@@ -72,7 +72,7 @@ url_code = ""
 
 おかげさまで、様々な展示会・勉強会で、歩き展示をさせていただきましたｗ
 
-[Looking Glass Library](https://lookingglassfactory.com/downloads/app-library-for-the-looking-glass/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
+[Looking Glass Library](http://lookingglassfactory.com/library/masscatfollowsball) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
 
 
 
@@ -80,7 +80,7 @@ url_code = ""
 
 - 開発環境: Unity
 - 動作環境: Looking Glass
-- リリース: [Looking Glass Library](https://lookingglassfactory.com/downloads/app-library-for-the-looking-glass/)
+- リリース: [Looking Glass Library](http://lookingglassfactory.com/library/masscatfollowsball)
 
 
 
