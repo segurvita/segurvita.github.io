@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS</title>
+      <link>/tags/aws/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>/tags/library/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node.js</title>
+      <link>/tags/node.js/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open API</title>
+      <link>/tags/open-api/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/open-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swagger</title>
+      <link>/tags/swagger/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/swagger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>/tags/web/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>/tags/npm/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/npm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Application</title>
@@ -81,69 +144,6 @@
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0900</pubDate>
       
       <guid>/tags/avatar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>/tags/aws/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Library</title>
-      <link>/tags/library/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/library/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.js</title>
-      <link>/tags/node.js/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Open API</title>
-      <link>/tags/open-api/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/open-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swagger</title>
-      <link>/tags/swagger/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/swagger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>/tags/web/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>npm</title>
-      <link>/tags/npm/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/npm/</guid>
       <description></description>
     </item>
     
