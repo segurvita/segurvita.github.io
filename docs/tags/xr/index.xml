@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/xr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ice-cream-particle-live</title>
+      <link>/project/ice-cream-particle-live/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/ice-cream-particle-live/</guid>
+      <description>STYLY ParticleLive Workshopで初めて作ったパーティクルライブです。</description>
+    </item>
     
     <item>
       <title>Girls in the Box</title>
