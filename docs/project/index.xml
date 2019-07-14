@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>swagger-scraper</title>
+      <link>/project/swagger-scraper/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/swagger-scraper/</guid>
+      <description>Swaggerファイルを軽量化するNode.jsライブラリです。</description>
+    </item>
+    
+    <item>
       <title>Girls in the Box</title>
       <link>/project/girls-in-the-box/</link>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
