@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>swagger-scraper</title>
+      <link>/project/swagger-scraper/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/swagger-scraper/</guid>
+      <description>Swaggerファイルを軽量化するNode.jsライブラリです。</description>
+    </item>
+    
+    <item>
       <title>swagger-rm-example</title>
       <link>/project/swagger-rm-example/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>

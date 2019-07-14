@@ -10,7 +10,7 @@ summary = "初めて作成したLooking Glassのコンテンツです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Looking Glass", "xR", "Unity"]
+tags = ["Application", "Looking Glass", "Unity", "VRM", "VRoid", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -56,7 +56,6 @@ url_code = ""
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LookingGlass届きました！とりあえず、うちの子を歩かせてみた。後ろに壁を置いたら、影ができて、立体感が増す気がする！やばい。楽しくてニヤニヤする。<br> <a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;ref_src=twsrc%5Etfw">#lookingglass</a> <a href="https://t.co/R5bCo7I55I">pic.twitter.com/R5bCo7I55I</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1093161548191739904?ref_src=twsrc%5Etfw">2019年2月6日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 ## 概要

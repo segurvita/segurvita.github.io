@@ -10,7 +10,7 @@ summary = "Leap Motionで手をセンシングし、Looking Glassのカメラ操
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Looking Glass", "Leap Motion", "xR", "Unity"]
+tags = ["Application", "Game", "Leap Motion", "Looking Glass", "Masscat", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -59,13 +59,10 @@ Leap Motionによって、両手の動きを検出し、ズームや回転等の
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">両手グーでズーム・回転等をできるようにしました。地図アプリのピンチアウトとかの操作の3D版という感じでしょうか。ちょっと癖はあるけど、慣れると便利！デバッグでマウス触らなくてよくなるのが地味に嬉しい。<a href="https://twitter.com/hashtag/LeapMotion?src=hash&amp;ref_src=twsrc%5Etfw">#LeapMotion</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://t.co/NhizrDS7Tj">pic.twitter.com/NhizrDS7Tj</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1109754332092624896?ref_src=twsrc%5Etfw">2019年3月24日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 バックパックPCと組み合わせて、歩き展示をしたかったので、片手操作モードも実装しましたｗ
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> 用のアプリを作成中。 <a href="https://twitter.com/hashtag/LeapMotion?src=hash&amp;ref_src=twsrc%5Etfw">#LeapMotion</a> で取得した手の動きで、Unity内のカメラを動かしてみました。手をグーの形にしている間はカメラを動かせます。グーの形じゃなくなったら終了します。マウスドラッグみたいな感覚で使えるの便利です。更に、前後にも動かせます！ <a href="https://t.co/fE8lM754vW">pic.twitter.com/fE8lM754vW</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1108794958318702592?ref_src=twsrc%5Etfw">2019年3月21日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 
 ## 概要
 

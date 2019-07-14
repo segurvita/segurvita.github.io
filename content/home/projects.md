@@ -26,22 +26,31 @@ subtitle = "成果物"
     tag = "*"
 
   [[content.filter_button]]
-    name = "xR"
-    tag = "xR"
-
-  [[content.filter_button]]
-    name = "Looking Glass"
-    tag = "Looking Glass"
-
-  [[content.filter_button]]
     name = "Application"
     tag = "Application"
+
+  [[content.filter_button]]
+    name = "Art"
+    tag = "Art"
 
   [[content.filter_button]]
     name = "Library"
     tag = "Library"
 
+  [[content.filter_button]]
+    name = "JavaScript"
+    tag = "JavaScript"
+
+  [[content.filter_button]]
+    name = "Ruby"
+    tag = "Ruby"
+
+  [[content.filter_button]]
+    name = "Unity"
+    tag = "Unity"
+
 [design]
+
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 

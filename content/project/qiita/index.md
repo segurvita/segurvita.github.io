@@ -10,7 +10,7 @@ summary = "Web, IoT, xRに関する技術記事を週１ほどで投稿してい
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["IoT", "xR", "Web"]
+tags = ["IoT", "Web", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://qiita.com/segur"
