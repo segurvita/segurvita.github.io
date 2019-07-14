@@ -10,7 +10,7 @@ summary = "ますきゃっと様と戯れるアプリです。Looking Glass Libr
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Looking Glass", "xR", "Unity"]
+tags = ["Application", "Looking Glass", "Masscat", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -61,15 +61,12 @@ url_code = ""
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！<a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;ref_src=twsrc%5Etfw">#lookingglass</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://t.co/2Cl3qIv6Ng">pic.twitter.com/2Cl3qIv6Ng</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw">2019年2月7日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが **行商スタイル（自称）** の誕生です！
 
 
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー<a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ルキグラス</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://t.co/4J9jPU8hcP">pic.twitter.com/4J9jPU8hcP</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw">2019年4月12日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 おかげさまで、様々な展示会・勉強会で、歩き展示をさせていただきましたｗ
 
 [Looking Glass Library](http://lookingglassfactory.com/library/masscatfollowsball) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。

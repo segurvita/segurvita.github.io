@@ -10,7 +10,7 @@ summary = "STYLY ParticleLive Workshopで初めて作ったパーティクルラ
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["xR", "VR", "Particle Live", "STYLY"]
+tags = ["Art", "Particle Live", "STYLY", "Unity", "VR", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0"

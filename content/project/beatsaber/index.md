@@ -10,7 +10,7 @@ summary = "Beat SaberというVRゲームに、アバターをMR合成しなが�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Virtual Motion Capture", "Beat Saber", "xR"]
+tags = ["Beat Saber", "Game", "Virtual Motion Capture", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://twitter.com/i/moments/1092012481789083651"

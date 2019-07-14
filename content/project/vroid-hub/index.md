@@ -10,7 +10,7 @@ summary = "VR用のアバターを作成し、投稿しています。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["xR", "Avatar"]
+tags = ["Avatar", "VRM", "VRoid", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://hub.vroid.com/users/36243065"

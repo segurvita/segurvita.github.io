@@ -10,7 +10,7 @@ summary = "Looking Glass ハッカソンで開発したゲームです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Looking Glass", "Leap Motion", "xR", "Unity"]
+tags = ["Application", "Game", "Hackathon", "Leap Motion", "Looking Glass", "Masscat", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -52,15 +52,12 @@ Looking Glassを複数台使用するとゲーム進行が有利になると面�
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">3台そろった！渋谷のFebCafeで展示中です！よろしくお願いします！<a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;ref_src=twsrc%5Etfw">#るきはく</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://t.co/1hWsOadV2h">pic.twitter.com/1hWsOadV2h</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1113393955817672704?ref_src=twsrc%5Etfw">2019年4月3日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 内容としては、主人公のますきゃっと様に「悪い男」がアプローチしてくるので、プレイヤーはそれを手ではじくというものになっています。
 
 ゴールしたら、顔がアップになります！かわいい！！
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Looking Glass ハッカソンおつかれさまでした！！<br>我々Team2では3つのLooking Glassを使ったゲームを作成しました！多くの方に楽しんでいただき、嬉しかったです！<br>それでは4/3のイベントで、またお会いしましょう！<br> <a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;ref_src=twsrc%5Etfw">#るきはく</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://t.co/mMlvNGAq3w">pic.twitter.com/mMlvNGAq3w</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1112346492168073216?ref_src=twsrc%5Etfw">2019年3月31日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ## 概要
 
 - 開発環境: Unity
