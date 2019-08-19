@@ -3,43 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/particle-live/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/styly/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unity/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xr/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/zepping-maguro/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/photogrammetry/</loc>
     <lastmod>2019-07-21T21:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/ramen/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/styly/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/unity/</loc>
     <lastmod>2019-07-21T21:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,19 +73,7 @@
   </url>
   
   <url>
-    <loc>/tags/xr/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/art/</loc>
-    <lastmod>2019-07-01T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/particle-live/</loc>
     <lastmod>2019-07-01T00:00:00+09:00</lastmod>
     <priority>0</priority>
   </url>
