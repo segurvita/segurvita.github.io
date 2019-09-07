@@ -52,11 +52,17 @@ STYLY ParticleLive Awards 2019 に応募するために作りました。
 
 普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30 秒の作品に収めました。
 
+Do you know Japanese fishermen flags?
+
+I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.
+
+The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.
+
+With gratitude to such fishermen, I put it in a 30-second work.
+
 ![image](https://ucarecdn.com/ac79008d-946c-4ed3-bbe7-45d233f1f75d/-/autorotate/yes/)
 
 ![image](https://ucarecdn.com/0ef0f542-b91e-44ef-8506-35029226695a/-/autorotate/yes/)
-
-
 
 ## 概要
 
