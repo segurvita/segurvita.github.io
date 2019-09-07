@@ -61,13 +61,21 @@ STYLY ParticleLive Awards 2019 に応募するために作りました。
 ## 概要
 
 - 開発環境: STYLY, Unity
-- 動作環境: STYLY
-
-
-
+- 動作環境: STYLY, Looking Glass
 
 ## リリース
+
+VR バージョンとと Looking Glass バージョンの 2 種類あります！
+
+### VR バージョン
+
 - [STYLY GALLERY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
 - [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
 
+### Looking Glass バージョン
 
+- [Looking Glass Library / Zepping Maguro](https://madewith.lookingglassfactory.com/app/97/)
+
+## 展示
+
+- [パーティクルライブミートアップ vol.2 at TIMEMACHINE](https://connpass.com/event/141161/)
