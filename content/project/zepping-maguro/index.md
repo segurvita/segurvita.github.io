@@ -10,7 +10,7 @@ summary = "大漁旗に描かれているコミカルでパワフルな景色を
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Particle Live", "STYLY", "Unity", "xR"]
+tags = ["Application", "Art", "Particle Live", "STYLY", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
