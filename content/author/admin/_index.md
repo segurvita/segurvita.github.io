@@ -34,7 +34,7 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "工学府 機械システム工学専攻 修正課程"
+  course = "工学府 機械システム工学専攻 修士課程"
   institution = "横浜国立大学大学院"
 
 [[education.courses]]
@@ -85,4 +85,4 @@ user_groups = []
 
 +++
 
-xRエンジニア。IoTエンジニア。Unity認定プログラマー。ガジェットが大好きなギーク。毎日バックパックPCを背負ってる。中学時代にベルギー、高校時代にイギリスで過ごす。日本から少年誌を毎月輸入するくらい日本のマンガ文化にのめりこみ、大学受験を機に日本へ移住。2019年にLooking Glassに感銘を受け、xR開発を始める。
+xR エンジニア。IoT エンジニア。Unity 認定プログラマー。ガジェットが大好きなギーク。毎日バックパック PC を背負ってる。中学時代にベルギー、高校時代にイギリスで過ごす。日本から少年誌を毎月輸入するくらい日本のマンガ文化にのめりこみ、大学受験を機に日本へ移住。2019 年に Looking Glass に感銘を受け、xR 開発を始める。
