@@ -44,6 +44,8 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+
 STYLY ParticleLive Awards 2019 に応募するために作りました。
 
 コンセプトは **大漁旗** ！
