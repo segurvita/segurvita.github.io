@@ -4,56 +4,62 @@
   
   <url>
     <loc>/tags/application/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/art/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/masscat/</loc>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/masscat-vs-maguro/</loc>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/particle-live/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/playmaker/</loc>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/styly/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/styly/</loc>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/unity/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/xr/</loc>
-    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
   
   <url>
@@ -64,19 +70,11 @@
   <url>
     <loc>/tags/photogrammetry/</loc>
     <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ramen/</loc>
     <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/zephyr/</loc>
-    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -85,9 +83,8 @@
   </url>
   
   <url>
-    <loc>/tags/vr/</loc>
-    <lastmod>2019-07-01T00:00:00+09:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/zephyr/</loc>
+    <lastmod>2019-07-21T21:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -96,57 +93,53 @@
   </url>
   
   <url>
+    <loc>/tags/vr/</loc>
+    <lastmod>2019-07-01T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/aws/</loc>
     <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/javascript/</loc>
     <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/library/</loc>
     <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/node.js/</loc>
     <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/open-api/</loc>
-    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/swagger/</loc>
-    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/web/</loc>
-    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/yaml/</loc>
-    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/npm/</loc>
     <lastmod>2019-06-23T00:00:00+09:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/open-api/</loc>
+    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/swagger/</loc>
+    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web/</loc>
+    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/yaml/</loc>
+    <lastmod>2019-06-23T00:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -162,7 +155,6 @@
   <url>
     <loc>/tags/game/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -173,25 +165,16 @@
   <url>
     <loc>/tags/hackathon/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/leap-motion/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/looking-glass/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/masscat/</loc>
-    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -212,19 +195,16 @@
   <url>
     <loc>/tags/vrm/</loc>
     <lastmod>2019-02-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/vroid/</loc>
     <lastmod>2019-02-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/beat-saber/</loc>
     <lastmod>2019-01-10T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -235,13 +215,11 @@
   <url>
     <loc>/tags/virtual-motion-capture/</loc>
     <lastmod>2019-01-10T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/avatar/</loc>
     <lastmod>2018-12-24T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -262,31 +240,26 @@
   <url>
     <loc>/tags/brainfxck/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/gem/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ruby/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/vtuber/</loc>
     <lastmod>2018-09-06T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/iot/</loc>
     <lastmod>2018-01-15T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -299,18 +272,15 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <priority>0</priority>
+    <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>/author/</loc>
-    <priority>0</priority>
+    <loc>/authors/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -319,7 +289,6 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -328,11 +297,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
