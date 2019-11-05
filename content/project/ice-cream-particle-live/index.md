@@ -13,7 +13,7 @@ summary = "STYLY ParticleLive Workshopで初めて作ったパーティクルラ
 tags = ["Art", "Particle Live", "STYLY", "Unity", "VR", "xR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0"
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -43,4 +43,19 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+STYLY ParticleLive Workshopで初めて作ったパーティクルライブです。
+
+<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+
+## 概要
+
+- 開発環境: STYLY, Unity
+- 動作環境: STYLY
+
+
+
+## リリース
+
+- [STYLY GALLERY / ice cream particle live workshop](https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0)
 
