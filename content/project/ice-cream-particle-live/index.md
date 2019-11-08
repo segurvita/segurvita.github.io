@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "ice-cream-particle-live"
+title = "Ice Cream Particle Live"
 
 # Date this page was created.
 date = 2019-07-01T00:00:00

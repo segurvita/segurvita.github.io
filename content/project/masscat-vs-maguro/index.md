@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "masscat-vs-maguro"
+title = "Masscat vs Maguro"
 
 # Date this page was created.
 date = 2019-11-04T23:50:00
