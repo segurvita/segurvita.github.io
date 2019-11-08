@@ -6,7 +6,7 @@ title = "masscat-vs-maguro"
 date = 2019-11-04T23:50:00
 
 # Project summary to display on homepage.
-summary = "ますきゃっと様とマグロ様の熾烈な戦いをVRで表現してみました。STYLY Avatar Diogama Awards 2019に応募した作品です。"
+summary = "ますきゃっと様とマグロ様の熾烈な戦いをVRで表現してみました。STYLY Avatar Diorama Awards 2019に応募した作品です。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
