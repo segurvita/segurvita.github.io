@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "zepping-maguro"
+title = "Zepping Maguro"
 
 # Date this page was created.
 date = 2019-08-18T04:00:00
