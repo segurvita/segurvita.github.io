@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 31 Mar 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 04:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/looking-glass/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zepping Maguro</title>
+      <link>/project/zepping-maguro/</link>
+      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
+      
+      <guid>/project/zepping-maguro/</guid>
+      <description>大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。STYLY ParticleLive Awardsに応募した作品です。</description>
+    </item>
     
     <item>
       <title>Girls in the Box</title>

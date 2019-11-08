@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Application</title>
-      <link>/tags/application/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/tags/application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Art</title>
       <link>/tags/art/</link>
       <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
@@ -81,6 +72,24 @@
       <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
       
       <guid>/tags/xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application</title>
+      <link>/tags/application/</link>
+      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
+      
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Glass</title>
+      <link>/tags/looking-glass/</link>
+      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
+      
+      <guid>/tags/looking-glass/</guid>
       <description></description>
     </item>
     
@@ -225,15 +234,6 @@
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/leap-motion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Looking Glass</title>
-      <link>/tags/looking-glass/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/looking-glass/</guid>
       <description></description>
     </item>
     
