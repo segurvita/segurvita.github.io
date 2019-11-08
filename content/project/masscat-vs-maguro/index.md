@@ -10,7 +10,7 @@ summary = "ますきゃっと様とマグロ様の熾烈な戦いをVRで表現�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Art", "Masscat", "Particle Live", "Playmaker", "STYLY", "Unity", "xR"]
+tags = ["Art", "Masscat", "Particle Live", "Playmaker", "STYLY", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
