@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/application/</loc>
-    <lastmod>2019-11-04T23:50:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/art/</loc>
     <lastmod>2019-11-04T23:50:00+09:00</lastmod>
   </url>
@@ -60,6 +55,16 @@
   <url>
     <loc>/tags/xr/</loc>
     <lastmod>2019-11-04T23:50:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/application/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/looking-glass/</loc>
+    <lastmod>2019-08-18T04:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -169,11 +174,6 @@
   
   <url>
     <loc>/tags/leap-motion/</loc>
-    <lastmod>2019-03-31T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/looking-glass/</loc>
     <lastmod>2019-03-31T00:00:00+09:00</lastmod>
   </url>
   
