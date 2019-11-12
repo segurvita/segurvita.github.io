@@ -28,4 +28,13 @@ date_format = "Jan 2006"
   date_end = "2021-08-31"
   description = "Unity認定プログラマー試験は、Unityによるソフトウェア開発・モバイルアプリケーション開発・ゲーム開発等のスキルを検証する試験です。"
 
+[[item]]
+  organization = "Looking Glass Factory Inc."
+  organization_url = "https://lookingglassfactory.com/"
+  title = "優勝 / 第2回 Looking Glass ハッカソン"
+  url = "https://lookingglass.connpass.com/event/150321/"
+  date_start = "2019-11-09"
+  date_end = "2021-11-11"
+  description = "5人のチームでLooking Glass向けのアプリを作成し、審査の結果、優勝しました！"
+
 +++
