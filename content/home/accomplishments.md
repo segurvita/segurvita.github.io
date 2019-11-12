@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "STYLY ParticleLive Awards 2019"
+  organization_url = "https://styly.cc/ja/awards_end/styly_particlelive_award_2019_finalists/"
+  title = "ファイナリスト / STYLY ParticleLive Awards 2019"
+  url = "http://localhost:1313/project/zepping-maguro/"
+  date_start = "2019-06-10"
+  date_end = "2019-08-19"
+  description = "パーティクルライブを作成し、審査の結果、ファイナリストに選ばれました！"
+
+[[item]]
   organization = "Unity Technologies"
   organization_url = "https://unity3d.com/jp/company"
   title = "Unity Certified Programmer / Unity認定プログラマー"
@@ -29,10 +38,10 @@ date_format = "Jan 2006"
   description = "Unity認定プログラマー試験は、Unityによるソフトウェア開発・モバイルアプリケーション開発・ゲーム開発等のスキルを検証する試験です。"
 
 [[item]]
-  organization = "Looking Glass Factory Inc."
-  organization_url = "https://lookingglassfactory.com/"
+  organization = "第2回 Looking Glass ハッカソン"
+  organization_url = "https://lookingglass.connpass.com/event/150321/"
   title = "優勝 / 第2回 Looking Glass ハッカソン"
-  url = "https://lookingglass.connpass.com/event/150321/"
+  url = ""
   date_start = "2019-11-09"
   date_end = "2021-11-11"
   description = "5人のチームでLooking Glass向けのアプリを作成し、審査の結果、優勝しました！"
