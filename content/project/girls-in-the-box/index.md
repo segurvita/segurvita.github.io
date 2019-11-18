@@ -68,7 +68,7 @@ Looking Glassを複数台使用するとゲーム進行が有利になると面�
 ## 展示
 
 - [第1回 Looking Glass ハッカソン](https://lookingglass.connpass.com/event/119022/)
-- [LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE](https://lookingglassfactory.com/events/looking-glass-factory-%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9-%EF%BC%A0fab-cafe/)
+- [LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE](https://lookingglassfactory.com/events/looking-glass-factory-fab-cafe)
 - [第2回 Looking Glass 勉強会](https://lookingglass.connpass.com/event/123727/)
 
 
