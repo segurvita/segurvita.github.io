@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Application</title>
+      <link>/tags/application/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Kinect</title>
+      <link>/tags/azure-kinect/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/azure-kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>/tags/game/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>/tags/hackathon/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Glass</title>
+      <link>/tags/looking-glass/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/looking-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDI</title>
+      <link>/tags/midi/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/midi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>/tags/unity/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xR</title>
+      <link>/tags/xr/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/xr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Art</title>
@@ -54,42 +126,6 @@
       <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
       
       <guid>/tags/styly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity</title>
-      <link>/tags/unity/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/tags/unity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xR</title>
-      <link>/tags/xr/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/tags/xr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Application</title>
-      <link>/tags/application/</link>
-      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
-      
-      <guid>/tags/application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Looking Glass</title>
-      <link>/tags/looking-glass/</link>
-      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
-      
-      <guid>/tags/looking-glass/</guid>
       <description></description>
     </item>
     
@@ -207,24 +243,6 @@
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/yaml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>/tags/game/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hackathon</title>
-      <link>/tags/hackathon/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/hackathon/</guid>
       <description></description>
     </item>
     
