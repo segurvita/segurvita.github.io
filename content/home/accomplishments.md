@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   title = "優勝 / 第2回 Looking Glass ハッカソン"
   url = ""
   date_start = "2019-11-09"
-  date_end = "2021-11-11"
+  date_end = "2019-11-11"
   description = "5人のチームでLooking Glass向けのアプリを作成し、審査の結果、優勝しました！"
 
 +++
