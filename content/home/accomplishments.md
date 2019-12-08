@@ -46,4 +46,13 @@ date_format = "Jan 2006"
   date_end = "2019-11-11"
   description = "5人のチームでLooking Glass向けのアプリを作成し、審査の結果、優勝しました！"
 
+[[item]]
+  organization = "STYLY Avatar Diorama Awards 2019"
+  organization_url = "https://styly.cc/ja/awards/avatar-diorama-awards-2019-finalist/"
+  title = "ファイナリスト / STYLY Avatar Diorama Awards 2019"
+  url = "/project/zepping-maguro/"
+  date_start = "2019-09-21"
+  date_end = "2019-11-04"
+  description = "アバタージオラマを作成し、審査の結果、ファイナリストに選ばれました！"
+
 +++

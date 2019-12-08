@@ -202,15 +202,6 @@
     </item>
     
     <item>
-      <title>npm</title>
-      <link>/tags/npm/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/npm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open API</title>
       <link>/tags/open-api/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
@@ -243,6 +234,15 @@
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>/tags/npm/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/npm/</guid>
       <description></description>
     </item>
     
