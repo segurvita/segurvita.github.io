@@ -10,7 +10,7 @@ summary = "12月の間に11分野のQiita Advent Calendarへ記事を投稿し�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Qiita", "Web", "xR"]
+tags = ["C++", "C#", "Docker", "Git", "Java", "JavaScript", "Node.js", "Photogrammetry", "Python", "Qiita", "Unity", "VRChat", "VTuber", "Web", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -48,8 +48,11 @@ url_code = ""
 
 2019年のアドベントカレンダーは11分野に挑戦中です！
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！<br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順<br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・<br><br>さて・・・まだ進捗40%だぞっと（震える）<br> <a href="https://twitter.com/hashtag/Qiita?src=hash&amp;ref_src=twsrc%5Etfw">#Qiita</a> <a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 |日付|カレンダー|記事|
-|-----|---|---|
+|:---|:---|:---|
 |12/01|[Photogrammetry](https://qiita.com/advent-calendar/2019/photogrammetry) 主催|[1杯のラーメンの写真をいっぱい撮って3Dモデルにした話](https://qiita.com/segur/items/c859a13a22fe1cb58739)|
 |12/02|[Docker](https://qiita.com/advent-calendar/2019/docker)|[初学者向けDockerfileハンズオン](https://qiita.com/segur/items/0c9270e0c48805c600fb)|
 |12/03|[Git](https://qiita.com/advent-calendar/2019/git) 主催|[初学者向けGitコマンドハンズオン](https://qiita.com/segur/items/1fb600400230a037587d)|
