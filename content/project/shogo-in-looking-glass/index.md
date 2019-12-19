@@ -6,7 +6,7 @@ title = "Shogo in Looking Glass"
 date = 2019-02-06T00:00:00
 
 # Project summary to display on homepage.
-summary = "初めて作成したLooking Glassのコンテンツです。"
+summary = "はじめて作成したLooking Glassのコンテンツです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -46,7 +46,7 @@ url_code = ""
 
 
 
-2019年1月9日、何気なくTwitterを見ていたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが明日には終わってしまうことを知り、衝動で発注しました。
+2019年1月9日、何気なくTwitterを見ていたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが **明日には終わってしまう** ことを知り、衝動で発注しました。
 
 2月6日に届いて、さっそく作ってみたのが、 **Shogo in Looking Glass** です。
 

@@ -46,13 +46,13 @@ url_code = ""
 
 <iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
 
-STYLY ParticleLive Awards 2019 に応募するために作りました。
+STYLY ParticleLive Awards 2019へ応募するために作りました。
 
 コンセプトは **大漁旗** ！
 
-大漁旗に描かれているコミカルでパワフルな景色を VR で再現してみました。
+大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。
 
-普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30 秒の作品に収めました。
+普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。
 
 Do you know Japanese fishermen flags?
 
@@ -73,14 +73,14 @@ With gratitude to such fishermen, I put it in a 30-second work.
 
 ## リリース
 
-VR バージョンとと Looking Glass バージョンの 2 種類あります！
+VRバージョンとLooking Glassバージョンの2種類あります！
 
-### VR バージョン
+### VRバージョン
 
 - [STYLY GALLERY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
 - [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
 
-### Looking Glass バージョン
+### Looking Glassバージョン
 
 - [Looking Glass Library / Zepping Maguro](https://madewith.lookingglassfactory.com/app/97/)
 

@@ -6,7 +6,7 @@ title = "Ice Cream Particle Live"
 date = 2019-07-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "STYLY ParticleLive Workshopで初めて作ったパーティクルライブです。"
+summary = "STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-STYLY ParticleLive Workshopで初めて作ったパーティクルライブです。
+STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。
 
 <iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
 
