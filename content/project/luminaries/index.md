@@ -6,7 +6,7 @@ title = "Luminaries"
 date = 2019-11-09T00:00:00
 
 # Project summary to display on homepage.
-summary = "第2回Looking Glass ハッカソンで優勝したゲームです！"
+summary = "第2回Looking Glassハッカソンで優勝したゲームです！"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -45,7 +45,7 @@ url_code = ""
 +++
 
 
-**第2回 Looking Glass ハッカソン で優勝した作品です！**
+**第2回Looking Glassハッカソンで優勝した作品です！**
 
 5人のチームで開発しました。
 

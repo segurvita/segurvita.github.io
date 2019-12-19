@@ -38,9 +38,9 @@ date_format = "Jan 2006"
   description = "Unity認定プログラマー試験は、Unityによるソフトウェア開発・モバイルアプリケーション開発・ゲーム開発等のスキルを検証する試験です。"
 
 [[item]]
-  organization = "第2回 Looking Glass ハッカソン"
+  organization = "第2回Looking Glassハッカソン"
   organization_url = "https://lookingglass.connpass.com/event/150321/"
-  title = "優勝 / 第2回 Looking Glass ハッカソン"
+  title = "優勝 / 第2回Looking Glassハッカソン"
   url = "/project/luminaries/"
   date_start = "2019-11-09"
   date_end = "2019-11-11"

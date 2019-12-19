@@ -6,11 +6,11 @@ title = "Qiita"
 date = 2018-01-15T00:00:00
 
 # Project summary to display on homepage.
-summary = "Web, IoT, xRに関する技術記事を週１ほどで投稿しています。"
+summary = "Web, IoT, xRに関する技術記事を週1ほどで投稿しています。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["IoT", "Web", "xR"]
+tags = ["IoT", "Qiita", "Web", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://qiita.com/segur"

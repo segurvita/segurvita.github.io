@@ -48,7 +48,7 @@ url_code = ""
 
 **かわいい女の子と戯れたい！**
 
-その想いだけで作ったのが、Masscat Follows Ball です。
+その想いだけで作ったのが、Masscat Follows Ballです。
 
 2019年2月5日に、大好きなVTuberのらきゃっとさんの量産型モデル「ますきゃっと」の3Dモデルが配布され、**これは運命だ** と思い、即購入いたしました。
 
@@ -56,7 +56,7 @@ url_code = ""
 
 ますきゃっと様と戯れるために、ユーザーが操作できる緑の玉を空中に浮かべ、それをますきゃっと様に視線で追いかけていただくという内容にしました！本当にそこに実在するように感じました！
 
-2月7日にTwitterに投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。
+2月7日にTwitterへ投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。
 
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！<a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;ref_src=twsrc%5Etfw">#lookingglass</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://t.co/2Cl3qIv6Ng">pic.twitter.com/2Cl3qIv6Ng</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw">2019年2月7日</a></blockquote>
@@ -83,9 +83,9 @@ url_code = ""
 
 ## 展示
 
-- [第1回 Looking Glass勉強会](<https://lookingglass.connpass.com/event/115508/>) （野良）
-- [第1回 VRM勉強会](https://vrm.connpass.com/event/116985/) （歩き展示）
-- [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/) （歩き展示）
+- [第1回 Looking Glass勉強会](<https://lookingglass.connpass.com/event/115508/>)（野良）
+- [第1回 VRM勉強会](https://vrm.connpass.com/event/116985/)（歩き展示）
+- [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/)（歩き展示）
 - [Looking Glass ミートアップ](https://connpass.com/event/124916/)
 
 

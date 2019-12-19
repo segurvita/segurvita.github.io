@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-STYLY Avatar Diorama Awards 2019 に応募するために作りました。
+STYLY Avatar Diorama Awards 2019へ応募するために作りました。
 
 コンセプトは **爽快感** です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！
 

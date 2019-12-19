@@ -45,9 +45,9 @@ url_code = ""
 +++
 
 
-Looking Glass ハッカソンに参加した際に、5人のチームで開発したゲームです。
+Looking Glassハッカソンに参加した際に、5人のチームで開発したゲームです。
 
-Looking Glassを複数台使用するとゲーム進行が有利になると面白いのでは？という考えから、ランゲームを作りました。
+Looking Glassを複数台使用した方がゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
 3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">3台そろった！渋谷のFebCafeで展示中です！よろしくお願いします！<a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;ref_src=twsrc%5Etfw">#るきはく</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://t.co/1hWsOadV2h">pic.twitter.com/1hWsOadV2h</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1113393955817672704?ref_src=twsrc%5Etfw">2019年4月3日</a></blockquote>

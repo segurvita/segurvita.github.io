@@ -81,7 +81,7 @@ Leap Motionによって、両手の動きを検出し、ズームや回転等の
 
 ## 展示
 
-- [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/) （野良）
+- [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/)（野良）
 - [Looking Glass ミートアップ](https://connpass.com/event/124916/)
 
 
