@@ -68,6 +68,11 @@ url_code = ""
   focal_point = ""
 +++
 
+## リンク
+
+- [YouTube](https://www.youtube.com/watch?v=yNlyg1axMRg&t=6175s)
+- [発表資料](https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya)
+
 ## バーチャル登壇について
 
 今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。
