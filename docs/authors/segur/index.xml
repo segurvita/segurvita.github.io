@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VRChat on Segur / せぎゅ</title>
-    <link>/tags/vrchat/</link>
-    <description>Recent content in VRChat on Segur / せぎゅ</description>
+    <title>Segur on Segur / せぎゅ</title>
+    <link>/authors/segur/</link>
+    <description>Recent content in Segur on Segur / せぎゅ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/vrchat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/segur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
       <description>バーチャル登壇について 今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。
 以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。
 バーチャル登壇用にスライド回転機構を作る</description>
-    </item>
-    
-    <item>
-      <title>Advent Calendar 2019</title>
-      <link>/project/advent-calendar-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/advent-calendar-2019/</guid>
-      <description>12月の間に11分野のQiita Advent Calendarへ記事を投稿しました！</description>
     </item>
     
   </channel>
