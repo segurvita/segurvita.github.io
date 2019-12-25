@@ -63,4 +63,4 @@ url_code = ""
 |12/12|[Java](https://qiita.com/advent-calendar/2019/java) 主催|[JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！](https://qiita.com/segur/items/89f1b60963c3e5333872)|
 |12/15|[VTuber Tech](https://qiita.com/advent-calendar/2019/vtuber)|[バーチャル登壇用にスライド回転機構を作る](https://qiita.com/segur/items/edaad893d06f6e27eae7)|
 |12/19|[VRChat](https://adventar.org/calendars/3950)|[【VRChat】VRC_TriggerのActions一覧](https://qiita.com/segur/items/a4520ef31ddaf9c18f87)|
-|12/25|[Unity](https://qiita.com/advent-calendar/2019/unity)||
+|12/25|[Unity](https://qiita.com/advent-calendar/2019/unity)|[AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】](https://qiita.com/segur/items/9da1dd179e4061d39e21)|
