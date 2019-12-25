@@ -57,8 +57,8 @@ user_groups = []
   link = "https://github.com/segurvita"
 
 [[social]]
-  icon = "link"
-  icon_pack = "fas"
+  icon = "quora"
+  icon_pack = "fab"
   link = "https://qiita.com/segur"
 
 [[social]]
@@ -75,6 +75,17 @@ user_groups = []
   icon = "gem"
   icon_pack = "fas"
   link = "https://rubygems.org/profiles/segur"
+
+[[social]]
+  icon = "sticky-note"
+  icon_pack = "far"
+  link = "https://note.com/segur"
+
+[[social]]
+  icon = "speaker-deck"
+  icon_pack = "fab"
+  link = "https://speakerdeck.com/segur"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
