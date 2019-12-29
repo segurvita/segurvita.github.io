@@ -32,5 +32,14 @@
       <description>12月の間に11分野のQiita Advent Calendarへ記事を投稿しました！</description>
     </item>
     
+    <item>
+      <title>Zepping Maguro</title>
+      <link>/project/zepping-maguro/</link>
+      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
+      
+      <guid>/project/zepping-maguro/</guid>
+      <description>大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。STYLY ParticleLive Awardsに応募した作品です。</description>
+    </item>
+    
   </channel>
 </rss>
