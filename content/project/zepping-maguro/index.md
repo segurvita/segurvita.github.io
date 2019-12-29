@@ -10,7 +10,7 @@ summary = "大漁旗に描かれているコミカルでパワフルな景色を
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Application", "Art", "Looking Glass", "Particle Live", "STYLY", "Unity", "xR"]
+tags = ["Application", "Art", "Looking Glass", "Particle Live", "STYLY", "Unity", "VRChat", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,7 +44,9 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xlsDVLfQ-Sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 概要
 
 STYLY ParticleLive Awards 2019へ応募するために作りました。
 
@@ -66,24 +68,37 @@ With gratitude to such fishermen, I put it in a 30-second work.
 
 ![image](https://ucarecdn.com/0ef0f542-b91e-44ef-8506-35029226695a/-/autorotate/yes/)
 
-## 概要
+
+
+## 環境
 
 - 開発環境: STYLY, Unity
-- 動作環境: STYLY, Looking Glass
+- 動作環境: STYLY, Looking Glass, VRChat
+
+
 
 ## リリース
 
 VRバージョンとLooking Glassバージョンの2種類あります！
 
-### VRバージョン
+### STYLYバージョン
 
 - [STYLY GALLERY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
 - [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
+
+<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Looking Glassバージョン
 
 - [Looking Glass Library / Zepping Maguro](https://madewith.lookingglassfactory.com/app/97/)
 
+### VRChatバージョン
+
+- [VRChat / zepping-maguro-xr-tech-nagoya](https://vrchat.com/home/world/wrld_6607a6c0-7095-4406-b645-f220ed0790e8)
+
+
+
 ## 展示
 
 - [パーティクルライブミートアップ vol.2 at TIMEMACHINE](https://connpass.com/event/141161/)
+- [夏のxR自由研究発表祭【すたみと#3 特別編】](https://standalone-vr.connpass.com/event/143354/)（野良）
