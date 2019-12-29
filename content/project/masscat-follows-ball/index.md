@@ -44,6 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GEGi-008Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **かわいい女の子と戯れたい！**
@@ -61,7 +62,7 @@ url_code = ""
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！<a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;ref_src=twsrc%5Etfw">#lookingglass</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://t.co/2Cl3qIv6Ng">pic.twitter.com/2Cl3qIv6Ng</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw">2019年2月7日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが **行商スタイル（自称）** の誕生です！
+当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが **行脚スタイル（あんぎゃ）** の誕生です！
 
 
 
@@ -87,6 +88,7 @@ url_code = ""
 - [第1回 VRM勉強会](https://vrm.connpass.com/event/116985/)（歩き展示）
 - [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/)（歩き展示）
 - [Looking Glass ミートアップ](https://connpass.com/event/124916/)
+- [夏のxR自由研究発表祭【すたみと#3 特別編】](https://standalone-vr.connpass.com/event/143354/)（歩き展示）
 
 
 
