@@ -38,8 +38,12 @@ user_groups = []
   institution = "横浜国立大学大学院"
 
 [[education.courses]]
-  course = "Unity Certified Programmer"
+  course = "Unity認定プログラマー"
   institution = "Unity Technologies"
+
+[[education.courses]]
+  course = "バーチャルリアリティ技術者"
+  institution = "日本バーチャルリアリティ学会"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

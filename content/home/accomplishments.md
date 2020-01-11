@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.youracclaim.com/badges/6e175f10-f6fb-4920-a32d-7880624831bc"
   date_start = "2019-08-31"
   date_end = "2021-08-31"
-  description = "Unity認定プログラマー試験は、Unityによるソフトウェア開発・モバイルアプリケーション開発・ゲーム開発等のスキルを検証する試験です。"
+  description = "Unity認定プログラマー試験は、Unityによるソフトウェア開発・モバイルアプリケーション開発・ゲーム開発等のスキルを確かめる試験です。"
 
 [[item]]
   organization = "第2回Looking Glassハッカソン"
@@ -54,5 +54,14 @@ date_format = "Jan 2006"
   date_start = "2019-09-21"
   date_end = "2019-11-04"
   description = "アバタージオラマを作成し、審査の結果、ファイナリストに選ばれました！"
+
+[[item]]
+  organization = "The Virtual Reality Society of Japan / 日本バーチャルリアリティ学会"
+  organization_url = "https://vrsj.org/"
+  title = "日本VR学会認定　Virtual Reality Specialist / バーチャルリアリティ技術者"
+  url = "https://vrsj.org/events/seminar/"
+  date_start = "2019-12-15"
+  date_end = "2019-12-15"
+  description = "VR技術者認定試験は、VRの理論・技術の習得を確かめる試験です。"
 
 +++
