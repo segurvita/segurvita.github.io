@@ -77,23 +77,25 @@
     </item>
     
     <item>
-      <title>Leapat</title>
-      <link>/project/leapat/</link>
+      <title>Masscat Follows Hand</title>
+      <link>/project/masscat-follows-hand/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
-      <guid>/project/leapat/</guid>
+      <guid>/project/masscat-follows-hand/</guid>
       <description>&lt;p&gt;Looking Glassにキャラクターを表示して遊んでいたときに思いました。&lt;/p&gt;
 &lt;p&gt;全身を見ようとすると、顔の解像度が下がってしまう。&lt;strong&gt;全身も見たいし、顔も見たい！！&lt;/strong&gt;
 カメラをズームイン／アウトできればいいんだけど、Looking Glassにタッチパネルは付いてないし、マウスもキーボードも使いたくない・・・&lt;/p&gt;
 &lt;p&gt;そうだ！ &lt;strong&gt;Leap Motion&lt;/strong&gt; を使おう！&lt;/p&gt;
-&lt;p&gt;そうして作ったのが、 &lt;strong&gt;Leapat&lt;/strong&gt; です。ますきゃっと様と戯れることができます。&lt;/p&gt;
+&lt;p&gt;そうして作ったのが、 &lt;strong&gt;Masscat Follows Hand&lt;/strong&gt; です。ますきゃっと様と戯れることができます。&lt;/p&gt;
 &lt;p&gt;Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34;&gt;Looking Glass Library&lt;/a&gt; にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;開発環境: Unity&lt;/li&gt;
 &lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
+&lt;li&gt;リリース: &lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
 &lt;ul&gt;
