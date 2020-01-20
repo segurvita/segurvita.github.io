@@ -19,7 +19,11 @@
       
       <guid>/project/ice-cream-particle-live/</guid>
       <description>&lt;p&gt;STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;

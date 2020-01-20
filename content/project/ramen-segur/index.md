@@ -44,26 +44,29 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+{{<styly 2d199f5a-ab07-11e9-b34d-4783bb2170d0>}}
 
 ラーメンをフォトグラメトリでメッシュ化したらどうなるの？
 
 フォトグラメトリに触れて最初に思った疑問でした。
 
-2019年7月7日にTIMEMACHINEさんで開催された [STYLY Photogrammetry Workshop](https://styly.connpass.com/event/137029/) ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動したので、さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）
+2019年7月7日にTIMEMACHINEさんで開催された [STYLY Photogrammetry Workshop](https://styly.connpass.com/event/137029/) ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動しました。さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）
 
 そうしてできたのが、こちらです。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">さっそくラーメンでフォトグラやってみましたｗ<br>写真の枚数が全然足りなくて、穴だらけのメッシュですが、懸念していたスープの透過や反射は、それほど悪影響はなさそうです。 <a href="https://t.co/HU9Mx6zig6">pic.twitter.com/HU9Mx6zig6</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1147870101594525697?ref_src=twsrc%5Etfw">July 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1147870101594525697>}}
+
 穴だらけではありますが、想像以上に綺麗にできてびっくりしました。
 
 これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今度は家系ラーメンで <a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;ref_src=twsrc%5Etfw">#フォトグラメトリ</a> やってみました！<a href="https://twitter.com/mononou?ref_src=twsrc%5Etfw">@mononou</a> さんと協力して撮りまくった280枚の写真から、ピンボケしたのを取り除いた120枚でやりました。<br>海苔のメッシュが想像よりも綺麗で嬉しいです！<br>次の課題は丼とレンゲかなぁ<a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;ref_src=twsrc%5Etfw">#Photogrammetry</a> <a href="https://t.co/14r2Z9O6eu">pic.twitter.com/14r2Z9O6eu</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1151488213543874563?ref_src=twsrc%5Etfw">July 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1151488213543874563>}}
 
 そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 **ラーメン背牛** です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">STYLYさんにアップロードしたのはこちらです。<br>丼とかごますり器とかいろいろ詰め込めこんだら、すごく重たいシーンになってしまった。。。<a href="https://t.co/wyXnAckbQ5">https://t.co/wyXnAckbQ5</a> <a href="https://twitter.com/hashtag/STYLY?src=hash&amp;ref_src=twsrc%5Etfw">#STYLY</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1152922973415698432?ref_src=twsrc%5Etfw">July 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1152922973415698432>}}
+
+
 
 ## 概要
 

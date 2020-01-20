@@ -46,7 +46,9 @@ url_code = ""
 
 STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+{{<styly 2a40f37a-9b55-11e9-b34d-4783bb2170d0>}}
+
+
 
 ## 概要
 
