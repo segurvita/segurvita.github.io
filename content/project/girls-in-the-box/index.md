@@ -6,7 +6,7 @@ title = "Girls in the Box"
 date = 2019-03-31T00:00:00
 
 # Project summary to display on homepage.
-summary = "Looking Glass ハッカソンで開発したゲームです。"
+summary = "Looking Glassハッカソンで開発したゲームです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -37,7 +37,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "ガールズ in the ぼっくす"
+  caption = "Girls in the Box"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -45,9 +45,9 @@ url_code = ""
 +++
 
 
-Looking Glassハッカソンに参加した際に、5人のチームで開発したゲームです。
+Looking Glassハッカソンに参加した際、5人のチームで開発したゲームです。
 
-Looking Glassを複数台使用した方がゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
+Looking Glassを複数台使うことでゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
 3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。
 
 {{<tweet 1113393955817672704>}}

@@ -65,7 +65,7 @@ url_code = ""
 
 {{<tweet 1116844336086302720>}}
 
-おかげさまで、様々な展示会・勉強会で、歩き展示をさせていただきましたｗ
+おかげさまで、さまざまな展示会・勉強会で、歩き展示をさせていただきましたｗ
 
 [Looking Glass Library](https://madewith.lookingglassfactory.com/app/72/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
 
