@@ -70,7 +70,7 @@ url_code = ""
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 おかげさまで、様々な展示会・勉強会で、歩き展示をさせていただきましたｗ
 
-[Looking Glass Library](http://lookingglassfactory.com/library/masscatfollowsball) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
+[Looking Glass Library](https://madewith.lookingglassfactory.com/app/72/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
 
 
 
@@ -78,7 +78,7 @@ url_code = ""
 
 - 開発環境: Unity
 - 動作環境: Looking Glass
-- リリース: [Looking Glass Library](http://lookingglassfactory.com/library/masscatfollowsball)
+- リリース: [Looking Glass Library](https://madewith.lookingglassfactory.com/app/72/)
 
 
 
