@@ -19,7 +19,9 @@
       
       <guid>/project/advent-calendar-2019/</guid>
       <description>&lt;p&gt;2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今年のアドベントカレンダーは10分野に挑戦中！！&lt;br&gt;Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br&gt;あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br&gt;&lt;br&gt;さて・・・まだ進捗40%だぞっと（震える）&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Qiita&lt;/a&gt; &lt;a href=&#34;https://t.co/qbJFReZR3x&#34;&gt;pic.twitter.com/qbJFReZR3x&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw&#34;&gt;November 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -95,16 +97,27 @@
       <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
       
       <guid>/project/ramen-segur/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;ラーメンをフォトグラメトリでメッシュ化したらどうなるの？&lt;/p&gt;
 &lt;p&gt;フォトグラメトリに触れて最初に思った疑問でした。&lt;/p&gt;
-&lt;p&gt;2019年7月7日にTIMEMACHINEさんで開催された &lt;a href=&#34;https://styly.connpass.com/event/137029/&#34;&gt;STYLY Photogrammetry Workshop&lt;/a&gt; ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動したので、さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p&gt;
+&lt;p&gt;2019年7月7日にTIMEMACHINEさんで開催された &lt;a href=&#34;https://styly.connpass.com/event/137029/&#34;&gt;STYLY Photogrammetry Workshop&lt;/a&gt; ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動しました。さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p&gt;
 &lt;p&gt;そうしてできたのが、こちらです。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;さっそくラーメンでフォトグラやってみましたｗ&lt;br&gt;写真の枚数が全然足りなくて、穴だらけのメッシュですが、懸念していたスープの透過や反射は、それほど悪影響はなさそうです。 &lt;a href=&#34;https://t.co/HU9Mx6zig6&#34;&gt;pic.twitter.com/HU9Mx6zig6&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1147870101594525697?ref_src=twsrc%5Etfw&#34;&gt;July 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;穴だらけではありますが、想像以上に綺麗にできてびっくりしました。&lt;/p&gt;
 &lt;p&gt;これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今度は家系ラーメンで &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#フォトグラメトリ&lt;/a&gt; やってみました！&lt;a href=&#34;https://twitter.com/mononou?ref_src=twsrc%5Etfw&#34;&gt;@mononou&lt;/a&gt; さんと協力して撮りまくった280枚の写真から、ピンボケしたのを取り除いた120枚でやりました。&lt;br&gt;海苔のメッシュが想像よりも綺麗で嬉しいです！&lt;br&gt;次の課題は丼とレンゲかなぁ&lt;a href=&#34;https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Photogrammetry&lt;/a&gt; &lt;a href=&#34;https://t.co/14r2Z9O6eu&#34;&gt;pic.twitter.com/14r2Z9O6eu&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1151488213543874563?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 &lt;p&gt;そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 &lt;strong&gt;ラーメン背牛&lt;/strong&gt; です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;STYLYさんにアップロードしたのはこちらです。&lt;br&gt;丼とかごますり器とかいろいろ詰め込めこんだら、すごく重たいシーンになってしまった。。。&lt;a href=&#34;https://t.co/wyXnAckbQ5&#34;&gt;https://t.co/wyXnAckbQ5&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#STYLY&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1152922973415698432?ref_src=twsrc%5Etfw&#34;&gt;July 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;開発環境: Zephyr, Unity&lt;/li&gt;

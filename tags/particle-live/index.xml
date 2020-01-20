@@ -20,7 +20,11 @@
       <guid>/project/masscat-vs-maguro/</guid>
       <description>&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
 &lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
 &lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
 みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
@@ -46,7 +50,11 @@
       <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
       
       <guid>/project/zepping-maguro/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/xlsDVLfQ-Sw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;p&gt;STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p&gt;
 &lt;p&gt;コンセプトは &lt;strong&gt;大漁旗&lt;/strong&gt; ！&lt;/p&gt;
@@ -70,7 +78,11 @@
 &lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8619295&#34;&gt;STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;looking-glassバージョン&#34;&gt;Looking Glassバージョン&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/97/&#34;&gt;Looking Glass Library / Zepping Maguro&lt;/a&gt;&lt;/li&gt;
@@ -94,7 +106,11 @@
       
       <guid>/project/ice-cream-particle-live/</guid>
       <description>&lt;p&gt;STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
