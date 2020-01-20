@@ -20,7 +20,11 @@
       <guid>/project/masscat-vs-maguro/</guid>
       <description>&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
 &lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
 &lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
 みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
