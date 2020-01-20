@@ -4,12 +4,12 @@
     <title>IoT on Segur / せぎゅ</title>
     <link>/tags/iot/</link>
     <description>Recent content in IoT on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,7 @@
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
       
       <guid>/project/qiita/</guid>
-      <description>Web, IoT, xRに関する技術記事を週1ほどで投稿しています。</description>
+      <description></description>
     </item>
     
   </channel>
