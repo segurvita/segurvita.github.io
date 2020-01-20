@@ -44,8 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1GEGi-008Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+{{<youtube 1GEGi-008Sk>}}
 
 **かわいい女の子と戯れたい！**
 
