@@ -4,12 +4,12 @@
     <title>Brainfxck on Segur / せぎゅ</title>
     <link>/tags/brainfxck/</link>
     <description>Recent content in Brainfxck on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/brainfxck/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/brainfxck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,93 @@
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0900</pubDate>
       
       <guid>/project/akari-lang/</guid>
-      <description>独自プログラミング言語Akariを作りました。</description>
+      <description>&lt;p&gt;大好きなVTuberミライアカリちゃんの独自プログラミング言語 &lt;strong&gt;Akari&lt;/strong&gt; を作りました。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Hello, world!&lt;/code&gt; を表示するサンプルコードはこんな感じです！&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+いきま→しょう！ピロリンッハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+ハロー！ハロー！ピロリンッハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！ハロー！ピロリンッハロー！ハロー！ハロー！
+ハロー！ハロー！悪い子ちゃん悪い子ちゃん悪い子ちゃんヤミ卍ピロリンッ
+あ、カラスだピロリンッハロー！ハロー！あ、カラスだハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！あ、カラスだあ、カラスだハロー！ハロー！
+ハロー！あ、カラスだピロリンッヤミあ、カラスだヤミヤミヤミヤミヤミヤミヤミ
+ヤミヤミヤミヤミヤミあ、カラスだ悪い子ちゃんハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！ハロー！あ、カラスだヤミヤミヤミヤミヤミ
+ヤミヤミヤミあ、カラスだハロー！ハロー！ハロー！あ、カラスだヤミヤミヤミ
+ヤミヤミヤミあ、カラスだヤミヤミヤミヤミヤミヤミヤミヤミあ、カラスだ
+ピロリンッハロー！あ、カラスだ
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;実はBrainf*ckという言語の派生言語なんです。以下の8つの命令のみで構成されています。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Akari命令&lt;/th&gt;
+&lt;th&gt;Brainf*ck命令&lt;/th&gt;
+&lt;th&gt;動作&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ピロリンッ&lt;/td&gt;
+&lt;td&gt;&amp;gt;&lt;/td&gt;
+&lt;td&gt;ポインターをインクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;悪い子ちゃん&lt;/td&gt;
+&lt;td&gt;&amp;lt;&lt;/td&gt;
+&lt;td&gt;ポインターをデクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ハロー！&lt;/td&gt;
+&lt;td&gt;+&lt;/td&gt;
+&lt;td&gt;ポインターが指す値をインクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ヤミ&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;ポインターが指す値をデクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;あ、カラスだ&lt;/td&gt;
+&lt;td&gt;.&lt;/td&gt;
+&lt;td&gt;ポインターが指す値を出力に書き出す。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;おけまる&lt;/td&gt;
+&lt;td&gt;,&lt;/td&gt;
+&lt;td&gt;入力から1バイト読み込んで、ポインターが指す先に代入する。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;いきま→しょう！&lt;/td&gt;
+&lt;td&gt;[&lt;/td&gt;
+&lt;td&gt;ポインターが指す値が0なら、対応する &lt;code&gt; 卍&lt;/code&gt; の直後にジャンプする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;卍&lt;/td&gt;
+&lt;td&gt;]&lt;/td&gt;
+&lt;td&gt;ポインターが指す値が0でないなら、対応する &lt;code&gt;いきま→しょう！&lt;/code&gt; にジャンプする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Ruby Gemとしてリリースしていますので、試してみたい方は、こちらからインストールしてみてください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/segurvita/akari&#34;&gt;akari | GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Ruby&lt;/li&gt;
+&lt;li&gt;動作環境: Windows, Mac, Linux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/eaca10475d7a9f7dda78&#34;&gt;ミライアカリちゃんの独自プログラミング言語Akariを作ってみた【Brainf*ck】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/96989fc1dc282d0a02bd&#34;&gt;Akari言語のインタプリタを作ってみた【祝VTuberアニメ化】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubygems.org/gems/akari&#34;&gt;akari | RubyGem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/segurvita/akari&#34;&gt;akari | GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

@@ -4,12 +4,12 @@
     <title>Ramen on Segur / せぎゅ</title>
     <link>/tags/ramen/</link>
     <description>Recent content in Ramen on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 21 Jul 2019 21:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,27 @@
       <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
       
       <guid>/project/ramen-segur/</guid>
-      <description>フォトグラメトリでラーメン屋台を作りました。STYLY Photogrammetry Awardsに応募した作品です。</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ラーメンをフォトグラメトリでメッシュ化したらどうなるの？&lt;/p&gt;
+&lt;p&gt;フォトグラメトリに触れて最初に思った疑問でした。&lt;/p&gt;
+&lt;p&gt;2019年7月7日にTIMEMACHINEさんで開催された &lt;a href=&#34;https://styly.connpass.com/event/137029/&#34;&gt;STYLY Photogrammetry Workshop&lt;/a&gt; ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動したので、さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p&gt;
+&lt;p&gt;そうしてできたのが、こちらです。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 &lt;strong&gt;ラーメン背牛&lt;/strong&gt; です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Zephyr, Unity&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / ramen-segur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8525236&#34;&gt;STYLY Photogrammetry Awards / ラーメン背牛&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

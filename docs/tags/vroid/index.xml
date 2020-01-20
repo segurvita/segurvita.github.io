@@ -4,12 +4,12 @@
     <title>VRoid on Segur / せぎゅ</title>
     <link>/tags/vroid/</link>
     <description>Recent content in VRoid on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/vroid/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/vroid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,16 @@
       <pubDate>Wed, 06 Feb 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/shogo-in-looking-glass/</guid>
-      <description>はじめて作成したLooking Glassのコンテンツです。</description>
+      <description>&lt;p&gt;2019年1月9日、何気なくTwitterを見ていたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが &lt;strong&gt;明日には終わってしまう&lt;/strong&gt; ことを知り、衝動で発注しました。&lt;/p&gt;
+&lt;p&gt;2月6日に届いて、さっそく作ってみたのが、 &lt;strong&gt;Shogo in Looking Glass&lt;/strong&gt; です。&lt;/p&gt;
+&lt;p&gt;私のメインアバターでもある &lt;a href=&#34;https://hub.vroid.com/characters/4381082594801486356&#34;&gt;今里尚吾&lt;/a&gt; 君がひたすら歩くだけという内容でしたが、まるでそこに実在するかのような立体感に衝撃を受けました。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Mon, 24 Dec 2018 00:00:00 +0900</pubDate>
       
       <guid>/project/vroid-hub/</guid>
-      <description>VR用のアバターを作成し、投稿しています。</description>
+      <description></description>
     </item>
     
   </channel>
