@@ -4,12 +4,12 @@
     <title>Playmaker on Segur / せぎゅ</title>
     <link>/tags/playmaker/</link>
     <description>Recent content in Playmaker on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/playmaker/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/playmaker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,26 @@
       <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
       
       <guid>/project/masscat-vs-maguro/</guid>
-      <description>ますきゃっと様とマグロ様の熾烈な戦いをVRで表現してみました。STYLY Avatar Diorama Awards 2019に応募した作品です。</description>
+      <description>&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
+&lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
+&lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
+みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
+がんばれますきゃっと！&lt;/p&gt;
+&lt;p&gt;Tuna (Tuna Monster) has attacked the city! Come on! Everyone&#39;s hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image01.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image03.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: STYLY, Unity, Playmaker&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;STYLY GALLERY / Masscat vs Maguro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

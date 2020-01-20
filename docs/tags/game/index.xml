@@ -4,12 +4,12 @@
     <title>Game on Segur / せぎゅ</title>
     <link>/tags/game/</link>
     <description>Recent content in Game on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,36 @@
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/luminaries/</guid>
-      <description>第2回Looking Glassハッカソンで優勝したゲームです！</description>
+      <description>&lt;p&gt;&lt;strong&gt;第2回Looking Glassハッカソンで優勝した作品です！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;5人のチームで開発しました。&lt;/p&gt;
+&lt;p&gt;メンバーが持ち込んだ機材の中に、&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Looking Glass Large&lt;/li&gt;
+&lt;li&gt;Azure Kinect&lt;/li&gt;
+&lt;li&gt;MIDIキーボード (AKAI mpk mini play)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;がありましたので、これらを組み合わせてゲームを作りました！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide04.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide05.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide07.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！&lt;/p&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;li&gt;担当箇所: ステージ制作・シェーダー・シーン制御プログラム・プレゼン資料作成等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/150321/&#34;&gt;第2回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/events/464961161032180/&#34;&gt;Looking Glass Factory ハッカソンショーケース ＠FabCafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://effectorhack.connpass.com/event/155846/&#34;&gt;サウンドミニハッカソン＃７ルキグラスもくもく会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +56,24 @@
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/girls-in-the-box/</guid>
-      <description>Looking Glass ハッカソンで開発したゲームです。</description>
+      <description>&lt;p&gt;Looking Glassハッカソンに参加した際に、5人のチームで開発したゲームです。&lt;/p&gt;
+&lt;p&gt;Looking Glassを複数台使用した方がゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
+3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;ゴールしたら、顔がアップになります！かわいい！！&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
+&lt;li&gt;担当箇所: ハードウェア準備、一部ソフトウェア（LeapMotion制御等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/119022/&#34;&gt;第1回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglassfactory.com/events/looking-glass-factory-fab-cafe&#34;&gt;LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/123727/&#34;&gt;第2回 Looking Glass 勉強会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +82,30 @@
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/leapat/</guid>
-      <description>Leap Motionで手をセンシングし、Looking Glassのカメラ操作を手で行うことができるアプリです。</description>
+      <description>&lt;p&gt;Looking Glassにキャラクターを表示して遊んでいたときに思いました。&lt;/p&gt;
+&lt;p&gt;全身を見ようとすると、顔の解像度が下がってしまう。&lt;strong&gt;全身も見たいし、顔も見たい！！&lt;/strong&gt;
+カメラをズームイン／アウトできればいいんだけど、Looking Glassにタッチパネルは付いてないし、マウスもキーボードも使いたくない・・・&lt;/p&gt;
+&lt;p&gt;そうだ！ &lt;strong&gt;Leap Motion&lt;/strong&gt; を使おう！&lt;/p&gt;
+&lt;p&gt;そうして作ったのが、 &lt;strong&gt;Leapat&lt;/strong&gt; です。ますきゃっと様と戯れることができます。&lt;/p&gt;
+&lt;p&gt;Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/13d22727c913f8159990&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/4d9947db66d70def9762&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす：両手編&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrtokyo.connpass.com/event/121561/&#34;&gt;xR Tech Tokyo #15&lt;/a&gt;（野良）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/124916/&#34;&gt;Looking Glass ミートアップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -45,7 +114,7 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/beatsaber/</guid>
-      <description>Beat SaberというVRゲームに、アバターをMR合成しながらプレイし、動画を投稿しました。</description>
+      <description></description>
     </item>
     
   </channel>

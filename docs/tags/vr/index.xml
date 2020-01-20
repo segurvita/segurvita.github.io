@@ -4,12 +4,12 @@
     <title>VR on Segur / せぎゅ</title>
     <link>/tags/vr/</link>
     <description>Recent content in VR on Segur / せぎゅ</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,18 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0900</pubDate>
       
       <guid>/project/ice-cream-particle-live/</guid>
-      <description>STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。</description>
+      <description>&lt;p&gt;STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / ice cream particle live workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
