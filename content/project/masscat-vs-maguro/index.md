@@ -48,7 +48,7 @@ STYLY Avatar Diorama Awards 2019へ応募するために作りました。
 
 コンセプトは **爽快感** です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6" allowfullscreen="allowfullscreen"></iframe>
+{{<styly 2d37c169-fdec-11e9-bea5-06540631ffe6>}}
 
 
 

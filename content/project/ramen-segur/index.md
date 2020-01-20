@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+{{<styly 2d199f5a-ab07-11e9-b34d-4783bb2170d0>}}
 
 ラーメンをフォトグラメトリでメッシュ化したらどうなるの？
 

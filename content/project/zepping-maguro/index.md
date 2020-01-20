@@ -86,7 +86,7 @@ VRバージョンとLooking Glassバージョンの2種類あります！
 - [STYLY GALLERY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
 - [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
 
-<iframe height="360" width="640" frameborder="0" src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0" allowfullscreen="allowfullscreen"></iframe>
+{{<styly 6092f32f-be92-11e9-b34d-4783bb2170d0>}}
 
 ### Looking Glassバージョン
 
