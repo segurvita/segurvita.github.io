@@ -59,15 +59,12 @@ url_code = ""
 
 2月7日にTwitterへ投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。
 
+{{<tweet 1093508279504842752>}}
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！<a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;ref_src=twsrc%5Etfw">#lookingglass</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://t.co/2Cl3qIv6Ng">pic.twitter.com/2Cl3qIv6Ng</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw">2019年2月7日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが **行脚スタイル（あんぎゃ）** の誕生です！
 
+{{<tweet 1116844336086302720>}}
 
-
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー<a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ルキグラス</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> <a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ますきゃっと</a> <a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと</a> <a href="https://t.co/4J9jPU8hcP">pic.twitter.com/4J9jPU8hcP</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw">2019年4月12日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 おかげさまで、様々な展示会・勉強会で、歩き展示をさせていただきましたｗ
 
 [Looking Glass Library](https://madewith.lookingglassfactory.com/app/72/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
@@ -96,5 +93,4 @@ url_code = ""
 
 エキサイトニュースにも、チラっと載りました！
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">みんなの作品と一緒に自分の作品もエキサイトニュースに載りましたー！わーいわーい。<br><br>「Looking Glass」開発者が語る日本人への期待 (2019年4月23日) - エキサイトニュース <a href="https://t.co/Q15z8v8OiP">https://t.co/Q15z8v8OiP</a> <a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#ルキグラス</a> <a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1120869021052596225?ref_src=twsrc%5Etfw">2019年4月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1120869021052596225>}}

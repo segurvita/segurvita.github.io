@@ -65,7 +65,7 @@ url_code = ""
 
 MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今回、チーム5はこんなんつくりましたー<br>VFXとサウンドにこだわってます！<a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;ref_src=twsrc%5Etfw">#るきはく</a>　おつかれさまでしたー <a href="https://t.co/J635SATkfN">pic.twitter.com/J635SATkfN</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1193491843352129542?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1193491843352129542>}}
 
 加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！
 

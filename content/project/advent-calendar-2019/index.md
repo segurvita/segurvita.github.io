@@ -48,8 +48,7 @@ url_code = ""
 
 2019年のアドベントカレンダーは11分野に挑戦中です！
 
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！<br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順<br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・<br><br>さて・・・まだ進捗40%だぞっと（震える）<br> <a href="https://twitter.com/hashtag/Qiita?src=hash&amp;ref_src=twsrc%5Etfw">#Qiita</a> <a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{<tweet 1200682329364025347>}}
 
 |日付|カレンダー|記事|
 |:---|:---|:---|
