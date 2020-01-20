@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Leapat"
+title = "Masscat Follows Hand"
 
 # Date this page was created.
 date = 2019-03-22T00:00:00
@@ -53,7 +53,7 @@ Looking Glassにキャラクターを表示して遊んでいたときに思い�
 
 そうだ！ **Leap Motion** を使おう！
 
-そうして作ったのが、 **Leapat** です。ますきゃっと様と戯れることができます。
+そうして作ったのが、 **Masscat Follows Hand** です。ますきゃっと様と戯れることができます。
 
 Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！
 
@@ -64,10 +64,14 @@ Leap Motionによって、両手の動きを検出し、ズームや回転等の
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;ref_src=twsrc%5Etfw">#LookingGlass</a> 用のアプリを作成中。 <a href="https://twitter.com/hashtag/LeapMotion?src=hash&amp;ref_src=twsrc%5Etfw">#LeapMotion</a> で取得した手の動きで、Unity内のカメラを動かしてみました。手をグーの形にしている間はカメラを動かせます。グーの形じゃなくなったら終了します。マウスドラッグみたいな感覚で使えるの便利です。更に、前後にも動かせます！ <a href="https://t.co/fE8lM754vW">pic.twitter.com/fE8lM754vW</a></p>&mdash; せぎゅ (@segur_vita) <a href="https://twitter.com/segur_vita/status/1108794958318702592?ref_src=twsrc%5Etfw">2019年3月21日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[Looking Glass Library](https://madewith.lookingglassfactory.com/app/128/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
+
+
 ## 概要
 
 - 開発環境: Unity
 - 動作環境: Looking Glass, Leap Motion
+- リリース: [Looking Glass Library](https://madewith.lookingglassfactory.com/app/128/)
 
 
 
