@@ -18,6 +18,9 @@ jobs:
           hugo-version: '0.62.2'
           extended: true
 
+      - name: Install academic theme
+        run: git submodule update --init --recursive
+
       - name: Build
         run: hugo --minify
 
