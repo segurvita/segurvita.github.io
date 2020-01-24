@@ -11,15 +11,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v1
+        with:
+          submodules: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.62.2'
           extended: true
-
-      - name: Install academic theme
-        run: git submodule update --init --recursive
 
       - name: Build
         run: hugo --minify
