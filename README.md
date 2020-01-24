@@ -36,6 +36,12 @@ choco install hugo-extended
 git clone --recursive https://github.com/segurvita/segurvita.github.io.git
 ```
 
+もし `recursive` をつけ忘れてクローンしてしまった場合は、以下のコマンドを実行してください。
+
+```bash
+git submodule update --init --recursive
+```
+
 
 
 ## プレビュー
@@ -54,11 +60,7 @@ hugo server
 
 `master` ブランチはGitHub Page公開用であり、開発用途では利用しません。開発用途では、デフォルトブランチ `source` を利用します。
 
-GitHub Pageにデプロイする場合は、以下のコマンドを実行します。
-
-```bash
-git subtree push --prefix docs/ origin master
-```
+GitHub Actionsにより、 `source` ブランチを更新すれば、自動でデプロイされます。
 
 
 
