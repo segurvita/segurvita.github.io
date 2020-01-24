@@ -1,45 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VRoid on Segur / せぎゅ</title>
-    <link>/tags/vroid/</link>
-    <description>Recent content in VRoid on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/vroid/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Shogo in Looking Glass</title>
-      <link>/project/shogo-in-looking-glass/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/shogo-in-looking-glass/</guid>
-      <description>&lt;p&gt;2019年1月9日、何気なくTwitterを見ていました。そしたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが &lt;strong&gt;明日には終わってしまう&lt;/strong&gt; ことを知り、衝動で発注しました。&lt;/p&gt;
-&lt;p&gt;2月6日に届いて、さっそく作ってみたのが、 &lt;strong&gt;Shogo in Looking Glass&lt;/strong&gt; です。&lt;/p&gt;
-&lt;p&gt;当時の私のメインアバターである &lt;a href=&#34;https://hub.vroid.com/characters/4381082594801486356&#34;&gt;今里尚吾&lt;/a&gt; 君がひたすら歩くだけという内容でしたが、まるでそこに実在するかのような立体感に衝撃を受けました。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;LookingGlass届きました！とりあえず、うちの子を歩かせてみた。後ろに壁を置いたら、影ができて、立体感が増す気がする！やばい。楽しくてニヤニヤする。&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#lookingglass&lt;/a&gt; &lt;a href=&#34;https://t.co/R5bCo7I55I&#34;&gt;pic.twitter.com/R5bCo7I55I&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1093161548191739904?ref_src=twsrc%5Etfw&#34;&gt;February 6, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Unity&lt;/li&gt;
-&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>VRoid Hub</title>
-      <link>/project/vroid-hub/</link>
-      <pubDate>Mon, 24 Dec 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/project/vroid-hub/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VRoid on Segur / せぎゅ</title><link>/tags/vroid/</link><description>Recent content in VRoid on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vroid/index.xml" rel="self" type="application/rss+xml"/><item><title>Shogo in Looking Glass</title><link>/project/shogo-in-looking-glass/</link><pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate><guid>/project/shogo-in-looking-glass/</guid><description>&lt;p>2019年1月9日、何気なくTwitterを見ていました。そしたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが &lt;strong>明日には終わってしまう&lt;/strong> ことを知り、衝動で発注しました。&lt;/p>
+&lt;p>2月6日に届いて、さっそく作ってみたのが、 &lt;strong>Shogo in Looking Glass&lt;/strong> です。&lt;/p>
+&lt;p>当時の私のメインアバターである &lt;a href="https://hub.vroid.com/characters/4381082594801486356">今里尚吾&lt;/a> 君がひたすら歩くだけという内容でしたが、まるでそこに実在するかのような立体感に衝撃を受けました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">LookingGlass届きました！とりあえず、うちの子を歩かせてみた。後ろに壁を置いたら、影ができて、立体感が増す気がする！やばい。楽しくてニヤニヤする。&lt;br> &lt;a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#lookingglass&lt;/a> &lt;a href="https://t.co/R5bCo7I55I">pic.twitter.com/R5bCo7I55I&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1093161548191739904?ref_src=twsrc%5Etfw">February 6, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Looking Glass&lt;/li>
+&lt;/ul></description></item><item><title>VRoid Hub</title><link>/project/vroid-hub/</link><pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate><guid>/project/vroid-hub/</guid><description/></item></channel></rss>

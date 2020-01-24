@@ -1,167 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Art on Segur / せぎゅ</title>
-    <link>/tags/art/</link>
-    <description>Recent content in Art on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Masscat vs Maguro</title>
-      <link>/project/masscat-vs-maguro/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/project/masscat-vs-maguro/</guid>
-      <description>&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
-&lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
-        src=&#34;https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
-&lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Art on Segur / せぎゅ</title><link>/tags/art/</link><description>Recent content in Art on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0000</lastBuildDate><atom:link href="/tags/art/index.xml" rel="self" type="application/rss+xml"/><item><title>Masscat vs Maguro</title><link>/project/masscat-vs-maguro/</link><pubDate>Mon, 04 Nov 2019 23:50:00 +0000</pubDate><guid>/project/masscat-vs-maguro/</guid><description>&lt;p>STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p>
+&lt;p>コンセプトは &lt;strong>爽快感&lt;/strong> です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6">
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="ストーリー">ストーリー&lt;/h3>
+&lt;p>マグロのモンスターが街に攻めてきました！さあ大変！
 みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
-がんばれますきゃっと！&lt;/p&gt;
-&lt;p&gt;Tuna (Tuna Monster) has attacked the city! Come on! Everyone&#39;s hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image01.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image03.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: STYLY, Unity, Playmaker&lt;/li&gt;
-&lt;li&gt;動作環境: STYLY&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;STYLY GALLERY / Masscat vs Maguro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zepping Maguro</title>
-      <link>/project/zepping-maguro/</link>
-      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
-      
-      <guid>/project/zepping-maguro/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/xlsDVLfQ-Sw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;p&gt;STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p&gt;
-&lt;p&gt;コンセプトは &lt;strong&gt;大漁旗&lt;/strong&gt; ！&lt;/p&gt;
-&lt;p&gt;大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。&lt;/p&gt;
-&lt;p&gt;普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。&lt;/p&gt;
-&lt;p&gt;Do you know Japanese fishermen flags?&lt;/p&gt;
-&lt;p&gt;I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.&lt;/p&gt;
-&lt;p&gt;The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.&lt;/p&gt;
-&lt;p&gt;With gratitude to such fishermen, I put it in a 30-second work.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ucarecdn.com/ac79008d-946c-4ed3-bbe7-45d233f1f75d/-/autorotate/yes/&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ucarecdn.com/0ef0f542-b91e-44ef-8506-35029226695a/-/autorotate/yes/&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;環境&#34;&gt;環境&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
-&lt;li&gt;動作環境: STYLY, Looking Glass, VRChat&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
-&lt;p&gt;VRバージョンとLooking Glassバージョンの2種類あります！&lt;/p&gt;
-&lt;h3 id=&#34;stylyバージョン&#34;&gt;STYLYバージョン&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8619295&#34;&gt;STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
-        src=&#34;https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;looking-glassバージョン&#34;&gt;Looking Glassバージョン&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/97/&#34;&gt;Looking Glass Library / Zepping Maguro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;vrchatバージョン&#34;&gt;VRChatバージョン&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vrchat.com/home/world/wrld_6607a6c0-7095-4406-b645-f220ed0790e8&#34;&gt;VRChat / zepping-maguro-xr-tech-nagoya&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/141161/&#34;&gt;パーティクルライブミートアップ vol.2 at TIMEMACHINE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://standalone-vr.connpass.com/event/143354/&#34;&gt;夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a&gt;（野良）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ramen Segur</title>
-      <link>/project/ramen-segur/</link>
-      <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
-      
-      <guid>/project/ramen-segur/</guid>
-      <description>&lt;div class=&#34;embed video-player&#34;&gt;
-    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
-        src=&#34;https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;ラーメンをフォトグラメトリでメッシュ化したらどうなるの？&lt;/p&gt;
-&lt;p&gt;フォトグラメトリに触れて最初に思った疑問でした。&lt;/p&gt;
-&lt;p&gt;2019年7月7日にTIMEMACHINEさんで開催された &lt;a href=&#34;https://styly.connpass.com/event/137029/&#34;&gt;STYLY Photogrammetry Workshop&lt;/a&gt; ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動しました。さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p&gt;
-&lt;p&gt;そうしてできたのが、こちらです。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;さっそくラーメンでフォトグラやってみましたｗ&lt;br&gt;写真の枚数が全然足りなくて、穴だらけのメッシュですが、懸念していたスープの透過や反射は、それほど悪影響はなさそうです。 &lt;a href=&#34;https://t.co/HU9Mx6zig6&#34;&gt;pic.twitter.com/HU9Mx6zig6&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1147870101594525697?ref_src=twsrc%5Etfw&#34;&gt;July 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;穴だらけではありますが、想像以上に綺麗にできてびっくりしました。&lt;/p&gt;
-&lt;p&gt;これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今度は家系ラーメンで &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#フォトグラメトリ&lt;/a&gt; やってみました！&lt;a href=&#34;https://twitter.com/mononou?ref_src=twsrc%5Etfw&#34;&gt;@mononou&lt;/a&gt; さんと協力して撮りまくった280枚の写真から、ピンボケしたのを取り除いた120枚でやりました。&lt;br&gt;海苔のメッシュが想像よりも綺麗で嬉しいです！&lt;br&gt;次の課題は丼とレンゲかなぁ&lt;a href=&#34;https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Photogrammetry&lt;/a&gt; &lt;a href=&#34;https://t.co/14r2Z9O6eu&#34;&gt;pic.twitter.com/14r2Z9O6eu&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1151488213543874563?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 &lt;strong&gt;ラーメン背牛&lt;/strong&gt; です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;STYLYさんにアップロードしたのはこちらです。&lt;br&gt;丼とかごますり器とかいろいろ詰め込めこんだら、すごく重たいシーンになってしまった。。。&lt;a href=&#34;https://t.co/wyXnAckbQ5&#34;&gt;https://t.co/wyXnAckbQ5&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#STYLY&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1152922973415698432?ref_src=twsrc%5Etfw&#34;&gt;July 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Zephyr, Unity&lt;/li&gt;
-&lt;li&gt;動作環境: STYLY&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / ramen-segur&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8525236&#34;&gt;STYLY Photogrammetry Awards / ラーメン背牛&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ice Cream Particle Live</title>
-      <link>/project/ice-cream-particle-live/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/ice-cream-particle-live/</guid>
-      <description>&lt;p&gt;STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
-        src=&#34;https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
-&lt;li&gt;動作環境: STYLY&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;STYLY GALLERY / ice cream particle live workshop&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+がんばれますきゃっと！&lt;/p>
+&lt;p>Tuna (Tuna Monster) has attacked the city! Come on! Everyone's hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p>
+&lt;p>&lt;img src="/img/masscat-vs-maguro/image01.PNG" alt="image">&lt;/p>
+&lt;p>&lt;img src="/img/masscat-vs-maguro/image03.PNG" alt="image">&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: STYLY, Unity, Playmaker&lt;/li>
+&lt;li>動作環境: STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6">STYLY GALLERY / Masscat vs Maguro&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Zepping Maguro</title><link>/project/zepping-maguro/</link><pubDate>Sun, 18 Aug 2019 04:00:00 +0000</pubDate><guid>/project/zepping-maguro/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/xlsDVLfQ-Sw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p>
+&lt;p>コンセプトは &lt;strong>大漁旗&lt;/strong> ！&lt;/p>
+&lt;p>大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。&lt;/p>
+&lt;p>普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。&lt;/p>
+&lt;p>Do you know Japanese fishermen flags?&lt;/p>
+&lt;p>I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.&lt;/p>
+&lt;p>The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.&lt;/p>
+&lt;p>With gratitude to such fishermen, I put it in a 30-second work.&lt;/p>
+&lt;p>&lt;img src="https://ucarecdn.com/ac79008d-946c-4ed3-bbe7-45d233f1f75d/-/autorotate/yes/" alt="image">&lt;/p>
+&lt;p>&lt;img src="https://ucarecdn.com/0ef0f542-b91e-44ef-8506-35029226695a/-/autorotate/yes/" alt="image">&lt;/p>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: STYLY, Unity&lt;/li>
+&lt;li>動作環境: STYLY, Looking Glass, VRChat&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;p>VRバージョンとLooking Glassバージョンの2種類あります！&lt;/p>
+&lt;h3 id="stylyバージョン">STYLYバージョン&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0">STYLY GALLERY / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://awrd.com/creatives/detail/8619295">STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0">
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="looking-glassバージョン">Looking Glassバージョン&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://madewith.lookingglassfactory.com/app/97/">Looking Glass Library / Zepping Maguro&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="vrchatバージョン">VRChatバージョン&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://vrchat.com/home/world/wrld_6607a6c0-7095-4406-b645-f220ed0790e8">VRChat / zepping-maguro-xr-tech-nagoya&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://connpass.com/event/141161/">パーティクルライブミートアップ vol.2 at TIMEMACHINE&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a>（野良）&lt;/li>
+&lt;/ul></description></item><item><title>Ramen Segur</title><link>/project/ramen-segur/</link><pubDate>Sun, 21 Jul 2019 21:00:00 +0000</pubDate><guid>/project/ramen-segur/</guid><description>&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0">
+&lt;/iframe>
+&lt;/div>
+&lt;p>ラーメンをフォトグラメトリでメッシュ化したらどうなるの？&lt;/p>
+&lt;p>フォトグラメトリに触れて最初に思った疑問でした。&lt;/p>
+&lt;p>2019年7月7日にTIMEMACHINEさんで開催された &lt;a href="https://styly.connpass.com/event/137029/">STYLY Photogrammetry Workshop&lt;/a> ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動しました。さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p>
+&lt;p>そうしてできたのが、こちらです。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">さっそくラーメンでフォトグラやってみましたｗ&lt;br>写真の枚数が全然足りなくて、穴だらけのメッシュですが、懸念していたスープの透過や反射は、それほど悪影響はなさそうです。 &lt;a href="https://t.co/HU9Mx6zig6">pic.twitter.com/HU9Mx6zig6&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1147870101594525697?ref_src=twsrc%5Etfw">July 7, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>穴だらけではありますが、想像以上に綺麗にできてびっくりしました。&lt;/p>
+&lt;p>これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は家系ラーメンで &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> やってみました！&lt;a href="https://twitter.com/mononou?ref_src=twsrc%5Etfw">@mononou&lt;/a> さんと協力して撮りまくった280枚の写真から、ピンボケしたのを取り除いた120枚でやりました。&lt;br>海苔のメッシュが想像よりも綺麗で嬉しいです！&lt;br>次の課題は丼とレンゲかなぁ&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://t.co/14r2Z9O6eu">pic.twitter.com/14r2Z9O6eu&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1151488213543874563?ref_src=twsrc%5Etfw">July 17, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 &lt;strong>ラーメン背牛&lt;/strong> です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">STYLYさんにアップロードしたのはこちらです。&lt;br>丼とかごますり器とかいろいろ詰め込めこんだら、すごく重たいシーンになってしまった。。。&lt;a href="https://t.co/wyXnAckbQ5">https://t.co/wyXnAckbQ5&lt;/a> &lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1152922973415698432?ref_src=twsrc%5Etfw">July 21, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Zephyr, Unity&lt;/li>
+&lt;li>動作環境: STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gallery.styly.cc/segur/2d199f5a-ab07-11e9-b34d-4783bb2170d0">STYLY GALLERY / ramen-segur&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://awrd.com/creatives/detail/8525236">STYLY Photogrammetry Awards / ラーメン背牛&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Ice Cream Particle Live</title><link>/project/ice-cream-particle-live/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>/project/ice-cream-particle-live/</guid><description>&lt;p>STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: STYLY, Unity&lt;/li>
+&lt;li>動作環境: STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0">STYLY GALLERY / ice cream particle live workshop&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

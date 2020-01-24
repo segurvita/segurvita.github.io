@@ -1,167 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Masscat on Segur / せぎゅ</title>
-    <link>/tags/masscat/</link>
-    <description>Recent content in Masscat on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/masscat/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Masscat vs Maguro</title>
-      <link>/project/masscat-vs-maguro/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/project/masscat-vs-maguro/</guid>
-      <description>&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
-&lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
-&lt;div class=&#34;embed video-player&#34;&gt;
-    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
-        src=&#34;https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
-&lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Masscat on Segur / せぎゅ</title><link>/tags/masscat/</link><description>Recent content in Masscat on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Mon, 04 Nov 2019 23:50:00 +0000</lastBuildDate><atom:link href="/tags/masscat/index.xml" rel="self" type="application/rss+xml"/><item><title>Masscat vs Maguro</title><link>/project/masscat-vs-maguro/</link><pubDate>Mon, 04 Nov 2019 23:50:00 +0000</pubDate><guid>/project/masscat-vs-maguro/</guid><description>&lt;p>STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p>
+&lt;p>コンセプトは &lt;strong>爽快感&lt;/strong> です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6">
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="ストーリー">ストーリー&lt;/h3>
+&lt;p>マグロのモンスターが街に攻めてきました！さあ大変！
 みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
-がんばれますきゃっと！&lt;/p&gt;
-&lt;p&gt;Tuna (Tuna Monster) has attacked the city! Come on! Everyone&#39;s hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image01.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image03.PNG&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: STYLY, Unity, Playmaker&lt;/li&gt;
-&lt;li&gt;動作環境: STYLY&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;STYLY GALLERY / Masscat vs Maguro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Girls in the Box</title>
-      <link>/project/girls-in-the-box/</link>
-      <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/girls-in-the-box/</guid>
-      <description>&lt;p&gt;Looking Glassハッカソンに参加した際、5人のチームで開発したゲームです。&lt;/p&gt;
-&lt;p&gt;Looking Glassを複数台使うことでゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
-3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;3台そろった！渋谷のFebCafeで展示中です！よろしくお願いします！&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/1hWsOadV2h&#34;&gt;pic.twitter.com/1hWsOadV2h&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1113393955817672704?ref_src=twsrc%5Etfw&#34;&gt;April 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;内容としては、主人公のますきゃっと様に「悪い男」がアプローチしてくるので、プレイヤーはそれを手ではじくというものになっています。&lt;/p&gt;
-&lt;p&gt;ゴールしたら、顔がアップになります！かわいい！！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Looking Glass ハッカソンおつかれさまでした！！&lt;br&gt;我々Team2では3つのLooking Glassを使ったゲームを作成しました！多くの方に楽しんでいただき、嬉しかったです！&lt;br&gt;それでは4/3のイベントで、またお会いしましょう！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/mMlvNGAq3w&#34;&gt;pic.twitter.com/mMlvNGAq3w&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1112346492168073216?ref_src=twsrc%5Etfw&#34;&gt;March 31, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Unity&lt;/li&gt;
-&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
-&lt;li&gt;担当箇所: ハードウェア準備、一部ソフトウェア（LeapMotion制御等）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/119022/&#34;&gt;第1回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lookingglassfactory.com/events/looking-glass-factory-fab-cafe&#34;&gt;LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/123727/&#34;&gt;第2回 Looking Glass 勉強会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Masscat Follows Hand</title>
-      <link>/project/masscat-follows-hand/</link>
-      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/masscat-follows-hand/</guid>
-      <description>&lt;p&gt;Looking Glassにキャラクターを表示して遊んでいたときに思いました。&lt;/p&gt;
-&lt;p&gt;全身を見ようとすると、顔の解像度が下がってしまう。&lt;strong&gt;全身も見たいし、顔も見たい！！&lt;/strong&gt;
-カメラをズームイン／アウトできればいいんだけど、Looking Glassにタッチパネルは付いてないし、マウスもキーボードも使いたくない・・・&lt;/p&gt;
-&lt;p&gt;そうだ！ &lt;strong&gt;Leap Motion&lt;/strong&gt; を使おう！&lt;/p&gt;
-&lt;p&gt;そうして作ったのが、 &lt;strong&gt;Masscat Follows Hand&lt;/strong&gt; です。ますきゃっと様と戯れることができます。&lt;/p&gt;
-&lt;p&gt;Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;両手グーでズーム・回転等をできるようにしました。地図アプリのピンチアウトとかの操作の3D版という感じでしょうか。ちょっと癖はあるけど、慣れると便利！デバッグでマウス触らなくてよくなるのが地味に嬉しい。&lt;a href=&#34;https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LeapMotion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/NhizrDS7Tj&#34;&gt;pic.twitter.com/NhizrDS7Tj&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1109754332092624896?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;バックパックPCと組み合わせて、歩き展示をしたかったので、片手操作モードも実装しましたｗ&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; 用のアプリを作成中。 &lt;a href=&#34;https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LeapMotion&lt;/a&gt; で取得した手の動きで、Unity内のカメラを動かしてみました。手をグーの形にしている間はカメラを動かせます。グーの形じゃなくなったら終了します。マウスドラッグみたいな感覚で使えるの便利です。更に、前後にも動かせます！ &lt;a href=&#34;https://t.co/fE8lM754vW&#34;&gt;pic.twitter.com/fE8lM754vW&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1108794958318702592?ref_src=twsrc%5Etfw&#34;&gt;March 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34;&gt;Looking Glass Library&lt;/a&gt; にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Unity&lt;/li&gt;
-&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
-&lt;li&gt;リリース: &lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/13d22727c913f8159990&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/4d9947db66d70def9762&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす：両手編&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vrtokyo.connpass.com/event/121561/&#34;&gt;xR Tech Tokyo #15&lt;/a&gt;（野良）&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/124916/&#34;&gt;Looking Glass ミートアップ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Masscat Follows Ball</title>
-      <link>/project/masscat-follows-ball/</link>
-      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/masscat-follows-ball/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/1GEGi-008Sk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;かわいい女の子と戯れたい！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;その想いだけで作ったのが、Masscat Follows Ballです。&lt;/p&gt;
-&lt;p&gt;2019年2月5日に、大好きなVTuberのらきゃっとさんの量産型モデル「ますきゃっと」の3Dモデルが配布され、&lt;strong&gt;これは運命だ&lt;/strong&gt; と思い、即購入いたしました。&lt;/p&gt;
-&lt;p&gt;あまりにもかわいくて、**これは顔をちゃんと魅せなあかん！**と思い、Looking Glassの限られた解像度をフルに活用し、顔がきれいに映るバストアップの構図を採用しました。&lt;/p&gt;
-&lt;p&gt;ますきゃっと様と戯れるために、ユーザーが操作できる緑の玉を空中に浮かべ、それをますきゃっと様に視線で追いかけていただくという内容にしました！本当にそこに実在するように感じました！&lt;/p&gt;
-&lt;p&gt;2月7日にTwitterへ投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！&lt;a href=&#34;https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#lookingglass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/2Cl3qIv6Ng&#34;&gt;pic.twitter.com/2Cl3qIv6Ng&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが &lt;strong&gt;行脚スタイル（あんぎゃ）&lt;/strong&gt; の誕生です！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー&lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/4J9jPU8hcP&#34;&gt;pic.twitter.com/4J9jPU8hcP&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw&#34;&gt;April 12, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;おかげさまで、さまざまな展示会・勉強会で、歩き展示をさせていただきましたｗ&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/72/&#34;&gt;Looking Glass Library&lt;/a&gt; にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Unity&lt;/li&gt;
-&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
-&lt;li&gt;リリース: &lt;a href=&#34;https://madewith.lookingglassfactory.com/app/72/&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/115508/&#34;&gt;第1回 Looking Glass勉強会&lt;/a&gt;（野良）&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vrm.connpass.com/event/116985/&#34;&gt;第1回 VRM勉強会&lt;/a&gt;（歩き展示）&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vrtokyo.connpass.com/event/121561/&#34;&gt;xR Tech Tokyo #15&lt;/a&gt;（歩き展示）&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/124916/&#34;&gt;Looking Glass ミートアップ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://standalone-vr.connpass.com/event/143354/&#34;&gt;夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a&gt;（歩き展示）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;ニュース&#34;&gt;ニュース&lt;/h2&gt;
-&lt;p&gt;エキサイトニュースにも、チラっと載りました！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;みんなの作品と一緒に自分の作品もエキサイトニュースに載りましたー！わーいわーい。&lt;br&gt;&lt;br&gt;「Looking Glass」開発者が語る日本人への期待 (2019年4月23日) - エキサイトニュース &lt;a href=&#34;https://t.co/Q15z8v8OiP&#34;&gt;https://t.co/Q15z8v8OiP&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1120869021052596225?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-</description>
-    </item>
-    
-  </channel>
-</rss>
+がんばれますきゃっと！&lt;/p>
+&lt;p>Tuna (Tuna Monster) has attacked the city! Come on! Everyone's hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p>
+&lt;p>&lt;img src="/img/masscat-vs-maguro/image01.PNG" alt="image">&lt;/p>
+&lt;p>&lt;img src="/img/masscat-vs-maguro/image03.PNG" alt="image">&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: STYLY, Unity, Playmaker&lt;/li>
+&lt;li>動作環境: STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6">STYLY GALLERY / Masscat vs Maguro&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Girls in the Box</title><link>/project/girls-in-the-box/</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate><guid>/project/girls-in-the-box/</guid><description>&lt;p>Looking Glassハッカソンに参加した際、5人のチームで開発したゲームです。&lt;/p>
+&lt;p>Looking Glassを複数台使うことでゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
+3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">3台そろった！渋谷のFebCafeで展示中です！よろしくお願いします！&lt;a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw">#るきはく&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> &lt;a href="https://t.co/1hWsOadV2h">pic.twitter.com/1hWsOadV2h&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1113393955817672704?ref_src=twsrc%5Etfw">April 3, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>内容としては、主人公のますきゃっと様に「悪い男」がアプローチしてくるので、プレイヤーはそれを手ではじくというものになっています。&lt;/p>
+&lt;p>ゴールしたら、顔がアップになります！かわいい！！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">Looking Glass ハッカソンおつかれさまでした！！&lt;br>我々Team2では3つのLooking Glassを使ったゲームを作成しました！多くの方に楽しんでいただき、嬉しかったです！&lt;br>それでは4/3のイベントで、またお会いしましょう！&lt;br> &lt;a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw">#るきはく&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> &lt;a href="https://t.co/mMlvNGAq3w">pic.twitter.com/mMlvNGAq3w&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1112346492168073216?ref_src=twsrc%5Etfw">March 31, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Looking Glass, Leap Motion&lt;/li>
+&lt;li>担当箇所: ハードウェア準備、一部ソフトウェア（LeapMotion制御等）&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lookingglass.connpass.com/event/119022/">第1回 Looking Glass ハッカソン&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lookingglassfactory.com/events/looking-glass-factory-fab-cafe">LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lookingglass.connpass.com/event/123727/">第2回 Looking Glass 勉強会&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Masscat Follows Hand</title><link>/project/masscat-follows-hand/</link><pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate><guid>/project/masscat-follows-hand/</guid><description>&lt;p>Looking Glassにキャラクターを表示して遊んでいたときに思いました。&lt;/p>
+&lt;p>全身を見ようとすると、顔の解像度が下がってしまう。&lt;strong>全身も見たいし、顔も見たい！！&lt;/strong>
+カメラをズームイン／アウトできればいいんだけど、Looking Glassにタッチパネルは付いてないし、マウスもキーボードも使いたくない・・・&lt;/p>
+&lt;p>そうだ！ &lt;strong>Leap Motion&lt;/strong> を使おう！&lt;/p>
+&lt;p>そうして作ったのが、 &lt;strong>Masscat Follows Hand&lt;/strong> です。ますきゃっと様と戯れることができます。&lt;/p>
+&lt;p>Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">両手グーでズーム・回転等をできるようにしました。地図アプリのピンチアウトとかの操作の3D版という感じでしょうか。ちょっと癖はあるけど、慣れると便利！デバッグでマウス触らなくてよくなるのが地味に嬉しい。&lt;a href="https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LeapMotion&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> &lt;a href="https://t.co/NhizrDS7Tj">pic.twitter.com/NhizrDS7Tj&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1109754332092624896?ref_src=twsrc%5Etfw">March 24, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>バックパックPCと組み合わせて、歩き展示をしたかったので、片手操作モードも実装しましたｗ&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">&lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> 用のアプリを作成中。 &lt;a href="https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LeapMotion&lt;/a> で取得した手の動きで、Unity内のカメラを動かしてみました。手をグーの形にしている間はカメラを動かせます。グーの形じゃなくなったら終了します。マウスドラッグみたいな感覚で使えるの便利です。更に、前後にも動かせます！ &lt;a href="https://t.co/fE8lM754vW">pic.twitter.com/fE8lM754vW&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1108794958318702592?ref_src=twsrc%5Etfw">March 21, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>&lt;a href="https://madewith.lookingglassfactory.com/app/128/">Looking Glass Library&lt;/a> にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Looking Glass, Leap Motion&lt;/li>
+&lt;li>リリース: &lt;a href="https://madewith.lookingglassfactory.com/app/128/">Looking Glass Library&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="技術記事">技術記事&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://qiita.com/segur/items/13d22727c913f8159990">【LeapMotion+UniRx】手の動きでカメラを動かす&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://qiita.com/segur/items/4d9947db66d70def9762">【LeapMotion+UniRx】手の動きでカメラを動かす：両手編&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://vrtokyo.connpass.com/event/121561/">xR Tech Tokyo #15&lt;/a>（野良）&lt;/li>
+&lt;li>&lt;a href="https://connpass.com/event/124916/">Looking Glass ミートアップ&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Masscat Follows Ball</title><link>/project/masscat-follows-ball/</link><pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate><guid>/project/masscat-follows-ball/</guid><description>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1GEGi-008Sk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;strong>かわいい女の子と戯れたい！&lt;/strong>&lt;/p>
+&lt;p>その想いだけで作ったのが、Masscat Follows Ballです。&lt;/p>
+&lt;p>2019年2月5日に、大好きなVTuberのらきゃっとさんの量産型モデル「ますきゃっと」の3Dモデルが配布され、&lt;strong>これは運命だ&lt;/strong> と思い、即購入いたしました。&lt;/p>
+&lt;p>あまりにもかわいくて、**これは顔をちゃんと魅せなあかん！**と思い、Looking Glassの限られた解像度をフルに活用し、顔がきれいに映るバストアップの構図を採用しました。&lt;/p>
+&lt;p>ますきゃっと様と戯れるために、ユーザーが操作できる緑の玉を空中に浮かべ、それをますきゃっと様に視線で追いかけていただくという内容にしました！本当にそこに実在するように感じました！&lt;/p>
+&lt;p>2月7日にTwitterへ投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！&lt;a href="https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#lookingglass&lt;/a> &lt;a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ますきゃっと&lt;/a> &lt;a href="https://t.co/2Cl3qIv6Ng">pic.twitter.com/2Cl3qIv6Ng&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw">February 7, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが &lt;strong>行脚スタイル（あんぎゃ）&lt;/strong> の誕生です！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー&lt;a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ルキグラス&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ますきゃっと&lt;/a> &lt;a href="https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw">#量産型のらきゃっと&lt;/a> &lt;a href="https://t.co/4J9jPU8hcP">pic.twitter.com/4J9jPU8hcP&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw">April 12, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>おかげさまで、さまざまな展示会・勉強会で、歩き展示をさせていただきましたｗ&lt;/p>
+&lt;p>&lt;a href="https://madewith.lookingglassfactory.com/app/72/">Looking Glass Library&lt;/a> にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Looking Glass&lt;/li>
+&lt;li>リリース: &lt;a href="https://madewith.lookingglassfactory.com/app/72/">Looking Glass Library&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lookingglass.connpass.com/event/115508/">第1回 Looking Glass勉強会&lt;/a>（野良）&lt;/li>
+&lt;li>&lt;a href="https://vrm.connpass.com/event/116985/">第1回 VRM勉強会&lt;/a>（歩き展示）&lt;/li>
+&lt;li>&lt;a href="https://vrtokyo.connpass.com/event/121561/">xR Tech Tokyo #15&lt;/a>（歩き展示）&lt;/li>
+&lt;li>&lt;a href="https://connpass.com/event/124916/">Looking Glass ミートアップ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a>（歩き展示）&lt;/li>
+&lt;/ul>
+&lt;h2 id="ニュース">ニュース&lt;/h2>
+&lt;p>エキサイトニュースにも、チラっと載りました！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">みんなの作品と一緒に自分の作品もエキサイトニュースに載りましたー！わーいわーい。&lt;br>&lt;br>「Looking Glass」開発者が語る日本人への期待 (2019年4月23日) - エキサイトニュース &lt;a href="https://t.co/Q15z8v8OiP">https://t.co/Q15z8v8OiP&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ルキグラス&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1120869021052596225?ref_src=twsrc%5Etfw">April 24, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script></description></item></channel></rss>

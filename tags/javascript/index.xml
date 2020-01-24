@@ -1,122 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>JavaScript on Segur / せぎゅ</title>
-    <link>/tags/javascript/</link>
-    <description>Recent content in JavaScript on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Advent Calendar 2019</title>
-      <link>/project/advent-calendar-2019/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/advent-calendar-2019/</guid>
-      <description>&lt;p&gt;2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今年のアドベントカレンダーは10分野に挑戦中！！&lt;br&gt;Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br&gt;あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br&gt;&lt;br&gt;さて・・・まだ進捗40%だぞっと（震える）&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Qiita&lt;/a&gt; &lt;a href=&#34;https://t.co/qbJFReZR3x&#34;&gt;pic.twitter.com/qbJFReZR3x&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw&#34;&gt;November 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;日付&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;カレンダー&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;記事&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/01&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/photogrammetry&#34;&gt;Photogrammetry&lt;/a&gt; 主催&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/c859a13a22fe1cb58739&#34;&gt;1杯のラーメンの写真をいっぱい撮って3Dモデルにした話&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/02&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/docker&#34;&gt;Docker&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/0c9270e0c48805c600fb&#34;&gt;初学者向けDockerfileハンズオン&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/03&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/git&#34;&gt;Git&lt;/a&gt; 主催&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/1fb600400230a037587d&#34;&gt;初学者向けGitコマンドハンズオン&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/05&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/c-sharp-2&#34;&gt;C#&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/b13045e6f3a9949e0503&#34;&gt;【Unity】シーンの重複読み込みをLINQで防ぐ&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/07&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/python&#34;&gt;Python&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/e470e13196daa01093ee&#34;&gt;Blenderを使わずにPythonだけで3Dアニメーションを作ってみよう！【FBX SDK Python】&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/08&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/nodejs&#34;&gt;Node.js&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/6eebb70ec2de03016dde&#34;&gt;初学者向けpackage.jsonハンズオン&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/10&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/cpp&#34;&gt;C++&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/9e20a1d29bf397f1f843&#34;&gt;C++版FBX SDK入りのDockerイメージを作ってみる&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/12&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/java&#34;&gt;Java&lt;/a&gt; 主催&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/89f1b60963c3e5333872&#34;&gt;JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/15&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/vtuber&#34;&gt;VTuber Tech&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/19&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://adventar.org/calendars/3950&#34;&gt;VRChat&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/a4520ef31ddaf9c18f87&#34;&gt;【VRChat】VRC_TriggerのActions一覧&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12/25&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/unity&#34;&gt;Unity&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/9da1dd179e4061d39e21&#34;&gt;AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>yaml-scraper</title>
-      <link>/project/yaml-scraper/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/yaml-scraper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swagger-scraper</title>
-      <link>/project/swagger-scraper/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/swagger-scraper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swagger-rm-example</title>
-      <link>/project/swagger-rm-example/</link>
-      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
-      
-      <guid>/project/swagger-rm-example/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Segur / せぎゅ</title><link>/tags/javascript/</link><description>Recent content in JavaScript on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Advent Calendar 2019</title><link>/project/advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！&lt;br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br>&lt;br>さて・・・まだ進捗40%だぞっと（震える）&lt;br> &lt;a href="https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Qiita&lt;/a> &lt;a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">日付&lt;/th>
+&lt;th align="left">カレンダー&lt;/th>
+&lt;th align="left">記事&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">12/01&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/photogrammetry">Photogrammetry&lt;/a> 主催&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/c859a13a22fe1cb58739">1杯のラーメンの写真をいっぱい撮って3Dモデルにした話&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/02&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/docker">Docker&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/0c9270e0c48805c600fb">初学者向けDockerfileハンズオン&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/03&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/git">Git&lt;/a> 主催&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/1fb600400230a037587d">初学者向けGitコマンドハンズオン&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/05&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/c-sharp-2">C#&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/b13045e6f3a9949e0503">【Unity】シーンの重複読み込みをLINQで防ぐ&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/07&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/python">Python&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/e470e13196daa01093ee">Blenderを使わずにPythonだけで3Dアニメーションを作ってみよう！【FBX SDK Python】&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/08&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/nodejs">Node.js&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/6eebb70ec2de03016dde">初学者向けpackage.jsonハンズオン&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/10&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/cpp">C++&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/9e20a1d29bf397f1f843">C++版FBX SDK入りのDockerイメージを作ってみる&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/12&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/java">Java&lt;/a> 主催&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/89f1b60963c3e5333872">JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/15&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/vtuber">VTuber Tech&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/19&lt;/td>
+&lt;td align="left">&lt;a href="https://adventar.org/calendars/3950">VRChat&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/a4520ef31ddaf9c18f87">【VRChat】VRC_TriggerのActions一覧&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">12/25&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/unity">Unity&lt;/a>&lt;/td>
+&lt;td align="left">&lt;a href="https://qiita.com/segur/items/9da1dd179e4061d39e21">AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>yaml-scraper</title><link>/project/yaml-scraper/</link><pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate><guid>/project/yaml-scraper/</guid><description/></item><item><title>swagger-scraper</title><link>/project/swagger-scraper/</link><pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate><guid>/project/swagger-scraper/</guid><description/></item><item><title>swagger-rm-example</title><link>/project/swagger-rm-example/</link><pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate><guid>/project/swagger-rm-example/</guid><description/></item></channel></rss>

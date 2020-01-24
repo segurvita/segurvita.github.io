@@ -1,34 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ParticleLive on Segur / せぎゅ</title>
-    <link>/tags/particlelive/</link>
-    <description>Recent content in ParticleLive on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/particlelive/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>マグロ様のパーティクルライブを作ってみた</title>
-      <link>/talk/2019-12-21/</link>
-      <pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate>
-      
-      <guid>/talk/2019-12-21/</guid>
-      <description>&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya&#34;&gt;発表資料&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;バーチャル登壇について&#34;&gt;バーチャル登壇について&lt;/h2&gt;
-&lt;p&gt;今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p&gt;
-&lt;p&gt;以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ParticleLive on Segur / せぎゅ</title><link>/tags/particlelive/</link><description>Recent content in ParticleLive on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate><atom:link href="/tags/particlelive/index.xml" rel="self" type="application/rss+xml"/><item><title>マグロ様のパーティクルライブを作ってみた</title><link>/talk/2019-12-21/</link><pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate><guid>/talk/2019-12-21/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s">YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya">発表資料&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="バーチャル登壇について">バーチャル登壇について&lt;/h2>
+&lt;p>今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p>
+&lt;p>以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p>
+&lt;p>&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,56 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MIDI on Segur / せぎゅ</title>
-    <link>/tags/midi/</link>
-    <description>Recent content in MIDI on Segur / せぎゅ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0900</lastBuildDate>
-    
-	    <atom:link href="/tags/midi/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Luminaries</title>
-      <link>/project/luminaries/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/project/luminaries/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;第2回Looking Glassハッカソンで優勝した作品です！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;5人のチームで開発しました。&lt;/p&gt;
-&lt;p&gt;メンバーが持ち込んだ機材の中に、&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Looking Glass Large&lt;/li&gt;
-&lt;li&gt;Azure Kinect&lt;/li&gt;
-&lt;li&gt;MIDIキーボード (AKAI mpk mini play)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;がありましたので、これらを組み合わせてゲームを作りました！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide04.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide05.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今回、チーム5はこんなんつくりましたー&lt;br&gt;VFXとサウンドにこだわってます！&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt;　おつかれさまでしたー &lt;a href=&#34;https://t.co/J635SATkfN&#34;&gt;pic.twitter.com/J635SATkfN&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1193491843352129542?ref_src=twsrc%5Etfw&#34;&gt;November 10, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide07.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！&lt;/p&gt;
-&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;開発環境: Unity&lt;/li&gt;
-&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
-&lt;li&gt;担当箇所: ステージ制作・シェーダー・シーン制御プログラム・プレゼン資料作成等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/150321/&#34;&gt;第2回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/events/464961161032180/&#34;&gt;Looking Glass Factory ハッカソンショーケース ＠FabCafe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://effectorhack.connpass.com/event/155846/&#34;&gt;サウンドミニハッカソン＃７ルキグラスもくもく会&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MIDI on Segur / せぎゅ</title><link>/tags/midi/</link><description>Recent content in MIDI on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/midi/index.xml" rel="self" type="application/rss+xml"/><item><title>Luminaries</title><link>/project/luminaries/</link><pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate><guid>/project/luminaries/</guid><description>&lt;p>&lt;strong>第2回Looking Glassハッカソンで優勝した作品です！&lt;/strong>&lt;/p>
+&lt;p>5人のチームで開発しました。&lt;/p>
+&lt;p>メンバーが持ち込んだ機材の中に、&lt;/p>
+&lt;ul>
+&lt;li>Looking Glass Large&lt;/li>
+&lt;li>Azure Kinect&lt;/li>
+&lt;li>MIDIキーボード (AKAI mpk mini play)&lt;/li>
+&lt;/ul>
+&lt;p>がありましたので、これらを組み合わせてゲームを作りました！&lt;/p>
+&lt;p>&lt;img src="/img/luminaries/slide04.png" alt="image">&lt;/p>
+&lt;p>プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！&lt;/p>
+&lt;p>&lt;img src="/img/luminaries/slide05.png" alt="image">&lt;/p>
+&lt;p>MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今回、チーム5はこんなんつくりましたー&lt;br>VFXとサウンドにこだわってます！&lt;a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw">#るきはく&lt;/a>　おつかれさまでしたー &lt;a href="https://t.co/J635SATkfN">pic.twitter.com/J635SATkfN&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1193491843352129542?ref_src=twsrc%5Etfw">November 10, 2019&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！&lt;/p>
+&lt;p>&lt;img src="/img/luminaries/slide07.png" alt="image">&lt;/p>
+&lt;p>このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！&lt;/p>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Looking Glass&lt;/li>
+&lt;li>担当箇所: ステージ制作・シェーダー・シーン制御プログラム・プレゼン資料作成等&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lookingglass.connpass.com/event/150321/">第2回 Looking Glass ハッカソン&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.facebook.com/events/464961161032180/">Looking Glass Factory ハッカソンショーケース ＠FabCafe&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://effectorhack.connpass.com/event/155846/">サウンドミニハッカソン＃７ルキグラスもくもく会&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
