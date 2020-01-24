@@ -50,6 +50,9 @@ user_groups = []
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
+# Font Awesome Icons
+# https://fontawesome.com/icons?d=gallery
+
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
@@ -79,6 +82,11 @@ user_groups = []
   icon = "gem"
   icon_pack = "fas"
   link = "https://rubygems.org/profiles/segur"
+
+[[social]]
+  icon = "docker"
+  icon_pack = "fab"
+  link = "https://hub.docker.com/u/seguropus"
 
 [[social]]
   icon = "sticky-note"
