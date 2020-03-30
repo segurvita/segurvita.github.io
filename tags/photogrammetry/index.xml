@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photogrammetry on Segur / せぎゅ</title><link>/tags/photogrammetry/</link><description>Recent content in Photogrammetry on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml"/><item><title>Advent Calendar 2019</title><link>/project/advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photogrammetry on Segur / せぎゅ</title><link>/tags/photogrammetry/</link><description>Recent content in Photogrammetry on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 28 Mar 2020 14:00:00 +0000</lastBuildDate><atom:link href="/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml"/><item><title>Kumano Shrine</title><link>/project/kumano-shrine/</link><pubDate>Sat, 28 Mar 2020 14:00:00 +0000</pubDate><guid>/project/kumano-shrine/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p>
+&lt;p>まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p>
+&lt;p>その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br>結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://t.co/CksRQXFEN9">pic.twitter.com/CksRQXFEN9&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw">January 15, 2020&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>Blenderでちまちまとメッシュを修正し（3か月かかりましたｗ）、完成したのがこちらです。STYLYに投稿してありますので、ぜひご覧ください。&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
+&lt;/iframe>
+&lt;/div>
+&lt;p>ちょうどその頃、 &lt;strong>xR Tech Nagoya #11&lt;/strong> にて &lt;strong>フォトグラメトリコンペ&lt;/strong> が開催されるということで、応募してみることにしました。&lt;/p>
+&lt;p>OBJ形式のメッシュとテクスチャ画像を合わせて15MBまでという厳しい制約がありましたので、神社の雰囲気が損なわれない範囲ギリギリの圧縮具合を探し、締切ギリギリに何とか提出しました。&lt;/p>
+&lt;p>おかげさまで、 &lt;strong>最優秀賞&lt;/strong> を受賞させていただきました！とても嬉しいです！&lt;/p>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Blender, FFmpeg, Unity, 3DF Zephyr&lt;/li>
+&lt;li>動作環境: cluster, STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;p>clusterバージョンとSTYLYバージョンの2種類あります！&lt;/p>
+&lt;h3 id="clusterバージョン">clusterバージョン&lt;/h3>
+&lt;p>xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclusterワールドに、Kumano Shrineの低ポリゴン版（10万ポリゴン）が展示されています。
+エレベーターの上にありますので、是非ご覧になってください。&lt;/p>
+&lt;p>&lt;a href="https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55">cluster / Vナゴヤドーム&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55">&lt;!-- raw HTML omitted -->&lt;/a>&lt;/p>
+&lt;h3 id="stylyバージョン">STYLYバージョン&lt;/h3>
+&lt;p>高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。&lt;/p>
+&lt;p>&lt;a href="https://madewith.lookingglassfactory.com/app/97/">STYLY / Kumano Shrine&lt;/a>&lt;/p>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/170700/">xR Tech Nagoya #11&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>広域フォトグラメトリーやってみた</title><link>/talk/2020-03-28/</link><pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate><guid>/talk/2020-03-28/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=jgb9BcYHSoo&amp;amp;t=3176s">YouTube&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Advent Calendar 2019</title><link>/project/advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！&lt;br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br>&lt;br>さて・・・まだ進捗40%だぞっと（震える）&lt;br> &lt;a href="https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Qiita&lt;/a> &lt;a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;table>
