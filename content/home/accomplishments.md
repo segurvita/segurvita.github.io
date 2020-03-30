@@ -64,4 +64,13 @@ date_format = "Jan 2006"
   date_end = "2019-12-15"
   description = "VR技術者認定試験は、VRの理論・技術の習得を確かめる試験です。"
 
+[[item]]
+  organization = "xR Tech Nagoya 11"
+  organization_url = "https://vrm-nagoya.connpass.com/event/170700/"
+  title = "最優秀賞 / xR Tech Nagoya 11 フォトグラメトリコンペ"
+  url = "/project/kumano-shrine/"
+  date_start = "2020-03-28"
+  date_end = "2020-03-28"
+  description = "広域フォトグラメトリ作品を作成し、審査の結果、優勝しました！"
+
 +++
