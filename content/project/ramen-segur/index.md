@@ -10,7 +10,7 @@ summary = "フォトグラメトリでラーメン屋台を作りました。STY
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Art", "Photogrammetry", "Ramen", "STYLY", "Unity", "xR", "Zephyr"]
+tags = ["Art", "Food", "Photogrammetry", "Ramen", "STYLY", "Unity", "xR", "Zephyr"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

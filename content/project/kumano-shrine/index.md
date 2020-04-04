@@ -10,7 +10,7 @@ summary = "神社をフォトグラメトリーで再現しました。xR Tech N
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Art", "Blender", "cluster", "Photogrammetry", "STYLY", "Unity", "xR"]
+tags = ["Art", "Blender", "cluster", "Photogrammetry", "STYLY", "Unity", "xR", "Zephyr"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
