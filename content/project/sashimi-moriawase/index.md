@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "刺身盛合せ"
+title = "sashimi moriawase"
 
 # Date this page was created.
 date = 2020-04-04T12:45:00
