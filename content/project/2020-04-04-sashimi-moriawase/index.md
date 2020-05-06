@@ -51,7 +51,7 @@ external_link = ""
 以下のイベントで展示させていただきました。
 
 - [xR Tech Nagoya #10](https://vrm-nagoya.connpass.com/event/167144/)
-- [xR Tech Nagoya #11](https://vrm-nagoya.connpass.com/event/167144/)
+- [xR Tech Nagoya #11](https://vrm-nagoya.connpass.com/event/170700/)
 - [バーチャルマーケット4 / 鮮魚せぎゅ](https://www.v-market.work/v4/catalog/circle/932)
 
 
