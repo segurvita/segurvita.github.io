@@ -70,7 +70,7 @@ url_code = ""
 
 
 
-## 概要
+## 環境
 
 - 開発環境: Unity
 - 動作環境: Looking Glass
@@ -80,7 +80,7 @@ url_code = ""
 
 ## 展示
 
-- [第1回 Looking Glass勉強会](<https://lookingglass.connpass.com/event/115508/>)（野良）
+- [第1回 Looking Glass勉強会](https://lookingglass.connpass.com/event/115508/)（野良）
 - [第1回 VRM勉強会](https://vrm.connpass.com/event/116985/)（歩き展示）
 - [xR Tech Tokyo #15](https://vrtokyo.connpass.com/event/121561/)（歩き展示）
 - [Looking Glass ミートアップ](https://connpass.com/event/124916/)
