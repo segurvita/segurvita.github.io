@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FBX on Segur / せぎゅ</title>
+    <link>/tags/fbx/</link>
+    <description>Recent content in FBX on Segur / せぎゅ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 04 Apr 2020 12:45:00 +0900</lastBuildDate>
+    
+	    <atom:link href="/tags/fbx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sashimi moriawase</title>
+      <link>/project/sashimi-moriawase/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/project/sashimi-moriawase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

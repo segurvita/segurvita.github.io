@@ -18,15 +18,22 @@
       <pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate>
       
       <guid>/talk/2019-12-21/</guid>
-      <description>&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+      <description>
+
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya&#34;&gt;発表資料&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s&#34; target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya&#34; target=&#34;_blank&#34;&gt;発表資料&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h2 id=&#34;バーチャル登壇について&#34;&gt;バーチャル登壇について&lt;/h2&gt;
+
 &lt;p&gt;今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p&gt;
+
 &lt;p&gt;以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34; target=&#34;_blank&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

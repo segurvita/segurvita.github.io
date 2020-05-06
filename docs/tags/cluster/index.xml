@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cluster on Segur / せぎゅ</title>
+    <link>/tags/cluster/</link>
+    <description>Recent content in cluster on Segur / せぎゅ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 28 Mar 2020 19:00:00 +0900</lastBuildDate>
+    
+	    <atom:link href="/tags/cluster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>広域フォトグラメトリーやってみた</title>
+      <link>/talk/2020-03-28/</link>
+      <pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate>
+      
+      <guid>/talk/2020-03-28/</guid>
+      <description>
+
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jgb9BcYHSoo&amp;amp;t=3176s&#34; target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kumano Shrine</title>
+      <link>/project/kumano-shrine/</link>
+      <pubDate>Sat, 28 Mar 2020 14:00:00 +0900</pubDate>
+      
+      <guid>/project/kumano-shrine/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p&gt;
+
+&lt;p&gt;まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p&gt;
+
+&lt;p&gt;その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br&gt;結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href=&#34;https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Photogrammetry&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#フォトグラメトリ&lt;/a&gt; &lt;a href=&#34;https://t.co/CksRQXFEN9&#34;&gt;pic.twitter.com/CksRQXFEN9&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw&#34;&gt;January 15, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Blenderでちまちまとメッシュを修正し（3か月かかりましたｗ）、完成したのがこちらです。STYLYに投稿してありますので、ぜひご覧ください。&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ちょうどその頃、 &lt;strong&gt;xR Tech Nagoya #11&lt;/strong&gt; にて &lt;strong&gt;フォトグラメトリコンペ&lt;/strong&gt; が開催されるということで、応募してみることにしました。&lt;/p&gt;
+
+&lt;p&gt;OBJ形式のメッシュとテクスチャ画像を合わせて15MBまでという厳しい制約がありましたので、神社の雰囲気が損なわれない範囲ギリギリの圧縮具合を探し、締切ギリギリに何とか提出しました。&lt;/p&gt;
+
+&lt;p&gt;おかげさまで、 &lt;strong&gt;最優秀賞&lt;/strong&gt; を受賞させていただきました！とても嬉しいです！&lt;/p&gt;
+
+&lt;h2 id=&#34;環境&#34;&gt;環境&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Blender, FFmpeg, Unity, 3DF Zephyr&lt;/li&gt;
+&lt;li&gt;動作環境: cluster, STYLY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;p&gt;clusterバージョンとSTYLYバージョンの2種類あります！&lt;/p&gt;
+
+&lt;h3 id=&#34;clusterバージョン&#34;&gt;clusterバージョン&lt;/h3&gt;
+
+&lt;p&gt;xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclusterワールドに、Kumano Shrineの低ポリゴン版（10万ポリゴン）が展示されています。
+エレベーターの上にありますので、是非ご覧になってください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55&#34; target=&#34;_blank&#34;&gt;cluster / Vナゴヤドーム&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;400&#34; src=&#34;/img/kumano-shrine/cluster-shrine.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;stylyバージョン&#34;&gt;STYLYバージョン&lt;/h3&gt;
+
+&lt;p&gt;高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/97/&#34; target=&#34;_blank&#34;&gt;STYLY / Kumano Shrine&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrm-nagoya.connpass.com/event/170700/&#34; target=&#34;_blank&#34;&gt;xR Tech Nagoya #11&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
