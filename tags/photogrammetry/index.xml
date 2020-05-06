@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photogrammetry on Segur / せぎゅ</title><link>/tags/photogrammetry/</link><description>Recent content in Photogrammetry on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Thu, 30 Apr 2020 21:32:00 +0000</lastBuildDate><atom:link href="/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml"/><item><title>iwashi yamamori</title><link>/project/iwashi-yamamori/</link><pubDate>Thu, 30 Apr 2020 21:32:00 +0000</pubDate><guid>/project/iwashi-yamamori/</guid><description/></item><item><title>鮮魚せぎゅ@VKet4</title><link>/project/vket4/</link><pubDate>Wed, 29 Apr 2020 11:00:00 +0000</pubDate><guid>/project/vket4/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photogrammetry on Segur / せぎゅ</title><link>/tags/photogrammetry/</link><description>Recent content in Photogrammetry on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Thu, 30 Apr 2020 21:32:00 +0000</lastBuildDate><atom:link href="/tags/photogrammetry/index.xml" rel="self" type="application/rss+xml"/><item><title>iwashi yamamori</title><link>/project/2020-04-30-iwashi-yamamori/</link><pubDate>Thu, 30 Apr 2020 21:32:00 +0000</pubDate><guid>/project/2020-04-30-iwashi-yamamori/</guid><description/></item><item><title>鮮魚せぎゅ@VKet4</title><link>/project/2020-04-29-vket4/</link><pubDate>Wed, 29 Apr 2020 11:00:00 +0000</pubDate><guid>/project/2020-04-29-vket4/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>バーチャルマーケット4へ出店させていただきました。&lt;/p>
 &lt;p>場所は、 &lt;a href="https://www.v-market.work/v4/catalog/world/18/4">&lt;strong>阿頼屋敷 - 蓮 - 23&lt;/strong>&lt;/a> です。
 目印は回転する巨大な刺身盛合せです。&lt;/p>
@@ -12,7 +12,7 @@
 &lt;ul>
 &lt;li>開発環境: Blender, Unity&lt;/li>
 &lt;li>動作環境: VRChat&lt;/li>
-&lt;/ul></description></item><item><title>sashimi moriawase</title><link>/project/sashimi-moriawase/</link><pubDate>Sat, 04 Apr 2020 12:45:00 +0000</pubDate><guid>/project/sashimi-moriawase/</guid><description/></item><item><title>Kumano Shrine</title><link>/project/kumano-shrine/</link><pubDate>Sat, 28 Mar 2020 14:00:00 +0000</pubDate><guid>/project/kumano-shrine/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;/ul></description></item><item><title>sashimi moriawase</title><link>/project/2020-04-04-sashimi-moriawase/</link><pubDate>Sat, 04 Apr 2020 12:45:00 +0000</pubDate><guid>/project/2020-04-04-sashimi-moriawase/</guid><description/></item><item><title>Kumano Shrine</title><link>/project/2020-03-28-kumano-shrine/</link><pubDate>Sat, 28 Mar 2020 14:00:00 +0000</pubDate><guid>/project/2020-03-28-kumano-shrine/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p>
 &lt;p>まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p>
 &lt;p>その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p>
@@ -48,7 +48,7 @@ src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
 &lt;/ul></description></item><item><title>広域フォトグラメトリーやってみた</title><link>/talk/2020-03-28/</link><pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate><guid>/talk/2020-03-28/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=jgb9BcYHSoo&amp;amp;t=3176s">YouTube&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Advent Calendar 2019</title><link>/project/advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
+&lt;/ul></description></item><item><title>Advent Calendar 2019</title><link>/project/2019-12-01-advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/2019-12-01-advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！&lt;br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br>&lt;br>さて・・・まだ進捗40%だぞっと（震える）&lt;br> &lt;a href="https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Qiita&lt;/a> &lt;a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;table>
@@ -116,7 +116,7 @@ src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
 &lt;td align="left">&lt;a href="https://qiita.com/segur/items/9da1dd179e4061d39e21">AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Ramen Segur</title><link>/project/ramen-segur/</link><pubDate>Sun, 21 Jul 2019 21:00:00 +0000</pubDate><guid>/project/ramen-segur/</guid><description>&lt;div class="embed video-player">
+&lt;/table></description></item><item><title>Ramen Segur</title><link>/project/2019-07-21-ramen-segur/</link><pubDate>Sun, 21 Jul 2019 21:00:00 +0000</pubDate><guid>/project/2019-07-21-ramen-segur/</guid><description>&lt;div class="embed video-player">
 &lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
 src="https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0">
 &lt;/iframe>
