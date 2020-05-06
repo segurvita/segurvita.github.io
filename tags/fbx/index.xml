@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FBX on Segur / せぎゅ</title><link>/tags/fbx/</link><description>Recent content in FBX on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Thu, 30 Apr 2020 21:32:00 +0000</lastBuildDate><atom:link href="/tags/fbx/index.xml" rel="self" type="application/rss+xml"/><item><title>iwashi yamamori</title><link>/project/2020-04-30-iwashi-yamamori/</link><pubDate>Thu, 30 Apr 2020 21:32:00 +0000</pubDate><guid>/project/2020-04-30-iwashi-yamamori/</guid><description/></item><item><title>sashimi moriawase</title><link>/project/2020-04-04-sashimi-moriawase/</link><pubDate>Sat, 04 Apr 2020 12:45:00 +0000</pubDate><guid>/project/2020-04-04-sashimi-moriawase/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FBX on Segur / せぎゅ</title><link>/tags/fbx/</link><description>Recent content in FBX on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Thu, 30 Apr 2020 21:32:00 +0000</lastBuildDate><atom:link href="/tags/fbx/index.xml" rel="self" type="application/rss+xml"/><item><title>iwashi yamamori</title><link>/project/2020-04-30-iwashi-yamamori/</link><pubDate>Thu, 30 Apr 2020 21:32:00 +0000</pubDate><guid>/project/2020-04-30-iwashi-yamamori/</guid><description/></item><item><title>刺身盛合せ</title><link>/project/2020-04-04-sashimi-moriawase/</link><pubDate>Sat, 04 Apr 2020 12:45:00 +0000</pubDate><guid>/project/2020-04-04-sashimi-moriawase/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>刺身の盛合せの3Dデータです！
+フォトグラメトリで作成したデータを元に、Blenderで調整しました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">結局、手書きでテクスチャとUV直しました。もはやフォトグラメトリーではないかもしれない。 &lt;a href="https://t.co/dKREaL7yvd">pic.twitter.com/dKREaL7yvd&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1246375743354851328?ref_src=twsrc%5Etfw">April 4, 2020&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;p>下記のオンラインショップで販売しております。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://booth.pm/ja/items/1947294">BOOTH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.v-market.work/ec/items/789/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;p>以下のイベントで展示させていただきました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/167144/">xR Tech Nagoya #10&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/167144/">xR Tech Nagoya #11&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.v-market.work/v4/catalog/circle/932">バーチャルマーケット4 / 鮮魚せぎゅ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
+&lt;li>動作環境: VRChat&lt;/li>
+&lt;/ul></description></item></channel></rss>
