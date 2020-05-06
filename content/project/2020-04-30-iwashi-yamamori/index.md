@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "iwashi yamamori"
+title = "イワシ山盛り"
 
 # Date this page was created.
 date = 2020-04-30T21:32:00
@@ -13,7 +13,7 @@ summary = "山盛りにしたイワシの3Dデータです。BOOTHで販売し�
 tags = ["BOOTH", "Blender", "FBX", "Fish", "Food", "Photogrammetry", "Trnio", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://booth.pm/ja/items/2024989"
+external_link = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -26,3 +26,40 @@ external_link = "https://booth.pm/ja/items/2024989"
   focal_point = "Smart"
 
 +++
+
+
+
+## 概要
+
+まな板の上に山盛りのイワシの3Dデータです！
+
+スーパーの鮮魚売り場でいわしが安売りしていたので衝動買いし、フォトグラメトリで作成しました。
+
+{{<tweet 1228577507453984768>}}
+
+
+
+## リリース
+下記のオンラインショップで販売しております。
+
+- [BOOTH](https://booth.pm/ja/items/2024989)
+- [バーチャルマーケットβ](https://www.v-market.work/ec/items/2504/detail/)
+
+
+
+## 展示
+
+以下のイベントで展示させていただきました。
+
+- [xR Tech Nagoya #10](https://vrm-nagoya.connpass.com/event/167144/)
+- [xR Tech Nagoya #11](https://vrm-nagoya.connpass.com/event/167144/)
+- [バーチャルマーケット4 / 鮮魚せぎゅ](https://www.v-market.work/v4/catalog/circle/932)
+
+
+
+## 環境
+
+- 開発環境: Blender, Photoshop, Unity
+- 動作環境: VRChat
+
+
