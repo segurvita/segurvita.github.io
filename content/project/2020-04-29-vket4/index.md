@@ -48,7 +48,7 @@ url_code = ""
 
 ## 概要
 
-バーチャルマーケット4へ出店させていただきました。
+[バーチャルマーケット4](https://www.v-market.work/v4/catalog/circle/932)へ出店させていただきました。
 
 場所は、 [**阿頼屋敷 - 蓮 - 23**](https://www.v-market.work/v4/catalog/world/18/4) です。
 目印は回転する巨大な刺身盛合せです。
