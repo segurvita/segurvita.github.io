@@ -7,44 +7,890 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 12:45:00 +0900</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <title>sashimi moriawase</title>
+      <link>/project/sashimi-moriawase/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/project/sashimi-moriawase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>広域フォトグラメトリーやってみた</title>
+      <link>/talk/2020-03-28/</link>
+      <pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate>
+      
+      <guid>/talk/2020-03-28/</guid>
+      <description>
+
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jgb9BcYHSoo&amp;amp;t=3176s&#34; target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kumano Shrine</title>
+      <link>/project/kumano-shrine/</link>
+      <pubDate>Sat, 28 Mar 2020 14:00:00 +0900</pubDate>
+      
+      <guid>/project/kumano-shrine/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p&gt;
+
+&lt;p&gt;まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p&gt;
+
+&lt;p&gt;その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br&gt;結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href=&#34;https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Photogrammetry&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#フォトグラメトリ&lt;/a&gt; &lt;a href=&#34;https://t.co/CksRQXFEN9&#34;&gt;pic.twitter.com/CksRQXFEN9&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw&#34;&gt;January 15, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Blenderでちまちまとメッシュを修正し（3か月かかりましたｗ）、完成したのがこちらです。STYLYに投稿してありますので、ぜひご覧ください。&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ちょうどその頃、 &lt;strong&gt;xR Tech Nagoya #11&lt;/strong&gt; にて &lt;strong&gt;フォトグラメトリコンペ&lt;/strong&gt; が開催されるということで、応募してみることにしました。&lt;/p&gt;
+
+&lt;p&gt;OBJ形式のメッシュとテクスチャ画像を合わせて15MBまでという厳しい制約がありましたので、神社の雰囲気が損なわれない範囲ギリギリの圧縮具合を探し、締切ギリギリに何とか提出しました。&lt;/p&gt;
+
+&lt;p&gt;おかげさまで、 &lt;strong&gt;最優秀賞&lt;/strong&gt; を受賞させていただきました！とても嬉しいです！&lt;/p&gt;
+
+&lt;h2 id=&#34;環境&#34;&gt;環境&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Blender, FFmpeg, Unity, 3DF Zephyr&lt;/li&gt;
+&lt;li&gt;動作環境: cluster, STYLY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;p&gt;clusterバージョンとSTYLYバージョンの2種類あります！&lt;/p&gt;
+
+&lt;h3 id=&#34;clusterバージョン&#34;&gt;clusterバージョン&lt;/h3&gt;
+
+&lt;p&gt;xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclusterワールドに、Kumano Shrineの低ポリゴン版（10万ポリゴン）が展示されています。
+エレベーターの上にありますので、是非ご覧になってください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55&#34; target=&#34;_blank&#34;&gt;cluster / Vナゴヤドーム&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55&#34; target=&#34;_blank&#34;&gt;&lt;img width=&#34;400&#34; src=&#34;/img/kumano-shrine/cluster-shrine.png&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;stylyバージョン&#34;&gt;STYLYバージョン&lt;/h3&gt;
+
+&lt;p&gt;高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/97/&#34; target=&#34;_blank&#34;&gt;STYLY / Kumano Shrine&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrm-nagoya.connpass.com/event/170700/&#34; target=&#34;_blank&#34;&gt;xR Tech Nagoya #11&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tsuki no Hana</title>
+      <link>/project/tsuki-no-hana/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/project/tsuki-no-hana/</guid>
+      <description>
+
+&lt;p&gt;Global Game Jam 2020に参加した際、4人のチームで開発したゲームです。&lt;/p&gt;
+
+&lt;p&gt;ルービックキューブのような立体的なパズルは、2Dのディスプレイでは表現が難しいですが、Looking Glassならそのまま立体視で表現できるのでは？という考えから、立体パズルゲームを作りました。&lt;/p&gt;
+
+&lt;p&gt;完成したのがこちらです。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今回のグローバルゲームジャムで作ったゲームです！テ○リスとウボ○ゴ3Dが融合したようなルール！通信対戦もできます！すごく楽しかった！おつかれさまでした！&lt;a href=&#34;https://twitter.com/hashtag/ggjmd?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ggjmd&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ggj20?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ggj20&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ggj20jp?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ggj20jp&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt;　&lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/DchDKFPNqx&#34;&gt;pic.twitter.com/DchDKFPNqx&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1223960352846561281?ref_src=twsrc%5Etfw&#34;&gt;February 2, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;パズルゲームを開発した経験がなかったので、ブロックの設置や衝突の判定に苦労しましたが、何とかメンバーの助けを借りて実装できました。&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;li&gt;担当箇所: ハードウェア準備、一部ソフトウェア開発（パズル落下制御等）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://globalgamejam.org/2020/games/flower-moon-5&#34; target=&#34;_blank&#34;&gt;Global Game Jam 2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>マグロ様のパーティクルライブを作ってみた</title>
+      <link>/talk/2019-12-21/</link>
       <pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
+      <guid>/talk/2019-12-21/</guid>
+      <description>
+
+&lt;h2 id=&#34;リンク&#34;&gt;リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s&#34; target=&#34;_blank&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya&#34; target=&#34;_blank&#34;&gt;発表資料&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;バーチャル登壇について&#34;&gt;バーチャル登壇について&lt;/h2&gt;
+
+&lt;p&gt;今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p&gt;
+
+&lt;p&gt;以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34; target=&#34;_blank&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Advent Calendar 2019</title>
+      <link>/project/advent-calendar-2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
       
-      <guid>/project/</guid>
+      <guid>/project/advent-calendar-2019/</guid>
+      <description>&lt;p&gt;2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今年のアドベントカレンダーは10分野に挑戦中！！&lt;br&gt;Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br&gt;あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br&gt;&lt;br&gt;さて・・・まだ進捗40%だぞっと（震える）&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Qiita&lt;/a&gt; &lt;a href=&#34;https://t.co/qbJFReZR3x&#34;&gt;pic.twitter.com/qbJFReZR3x&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw&#34;&gt;November 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;日付&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;カレンダー&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;記事&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/photogrammetry&#34; target=&#34;_blank&#34;&gt;Photogrammetry&lt;/a&gt; 主催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/c859a13a22fe1cb58739&#34; target=&#34;_blank&#34;&gt;1杯のラーメンの写真をいっぱい撮って3Dモデルにした話&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/docker&#34; target=&#34;_blank&#34;&gt;Docker&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/0c9270e0c48805c600fb&#34; target=&#34;_blank&#34;&gt;初学者向けDockerfileハンズオン&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/git&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; 主催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/1fb600400230a037587d&#34; target=&#34;_blank&#34;&gt;初学者向けGitコマンドハンズオン&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;05&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/c-sharp-2&#34; target=&#34;_blank&#34;&gt;C#&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/b13045e6f3a9949e0503&#34; target=&#34;_blank&#34;&gt;【Unity】シーンの重複読み込みをLINQで防ぐ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;07&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/python&#34; target=&#34;_blank&#34;&gt;Python&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/e470e13196daa01093ee&#34; target=&#34;_blank&#34;&gt;Blenderを使わずにPythonだけで3Dアニメーションを作ってみよう！【FBX SDK Python】&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;08&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/nodejs&#34; target=&#34;_blank&#34;&gt;Node.js&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/6eebb70ec2de03016dde&#34; target=&#34;_blank&#34;&gt;初学者向けpackage.jsonハンズオン&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/cpp&#34; target=&#34;_blank&#34;&gt;C++&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/9e20a1d29bf397f1f843&#34; target=&#34;_blank&#34;&gt;C++版FBX SDK入りのDockerイメージを作ってみる&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;12&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/java&#34; target=&#34;_blank&#34;&gt;Java&lt;/a&gt; 主催&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/89f1b60963c3e5333872&#34; target=&#34;_blank&#34;&gt;JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;15&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/vtuber&#34; target=&#34;_blank&#34;&gt;VTuber Tech&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/edaad893d06f6e27eae7&#34; target=&#34;_blank&#34;&gt;バーチャル登壇用にスライド回転機構を作る&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;19&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://adventar.org/calendars/3950&#34; target=&#34;_blank&#34;&gt;VRChat&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/a4520ef31ddaf9c18f87&#34; target=&#34;_blank&#34;&gt;【VRChat】VRC_TriggerのActions一覧&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;sup&gt;12&lt;/sup&gt;&amp;frasl;&lt;sub&gt;25&lt;/sub&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/advent-calendar/2019/unity&#34; target=&#34;_blank&#34;&gt;Unity&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://qiita.com/segur/items/9da1dd179e4061d39e21&#34; target=&#34;_blank&#34;&gt;AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Luminaries</title>
+      <link>/project/luminaries/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/luminaries/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;第2回Looking Glassハッカソンで優勝した作品です！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;5人のチームで開発しました。&lt;/p&gt;
+
+&lt;p&gt;メンバーが持ち込んだ機材の中に、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Looking Glass Large&lt;/li&gt;
+&lt;li&gt;Azure Kinect&lt;/li&gt;
+&lt;li&gt;MIDIキーボード (AKAI mpk mini play)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;がありましたので、これらを組み合わせてゲームを作りました！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide04.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide05.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今回、チーム5はこんなんつくりましたー&lt;br&gt;VFXとサウンドにこだわってます！&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt;　おつかれさまでしたー &lt;a href=&#34;https://t.co/J635SATkfN&#34;&gt;pic.twitter.com/J635SATkfN&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1193491843352129542?ref_src=twsrc%5Etfw&#34;&gt;November 10, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/luminaries/slide07.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;li&gt;担当箇所: ステージ制作・シェーダー・シーン制御プログラム・プレゼン資料作成等&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/150321/&#34; target=&#34;_blank&#34;&gt;第2回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/events/464961161032180/&#34; target=&#34;_blank&#34;&gt;Looking Glass Factory ハッカソンショーケース ＠FabCafe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://effectorhack.connpass.com/event/155846/&#34; target=&#34;_blank&#34;&gt;サウンドミニハッカソン＃７ルキグラスもくもく会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masscat vs Maguro</title>
+      <link>/project/masscat-vs-maguro/</link>
+      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
+      
+      <guid>/project/masscat-vs-maguro/</guid>
+      <description>
+
+&lt;p&gt;STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p&gt;
+
+&lt;p&gt;コンセプトは &lt;strong&gt;爽快感&lt;/strong&gt; です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;ストーリー&#34;&gt;ストーリー&lt;/h3&gt;
+
+&lt;p&gt;マグロのモンスターが街に攻めてきました！さあ大変！
+みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
+がんばれますきゃっと！&lt;/p&gt;
+
+&lt;p&gt;Tuna (Tuna Monster) has attacked the city! Come on! Everyone&amp;rsquo;s hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image01.PNG&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/masscat-vs-maguro/image03.PNG&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: STYLY, Unity, Playmaker&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6&#34; target=&#34;_blank&#34;&gt;STYLY GALLERY / Masscat vs Maguro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zepping Maguro</title>
+      <link>/project/zepping-maguro/</link>
+      <pubDate>Sun, 18 Aug 2019 04:00:00 +0900</pubDate>
+      
+      <guid>/project/zepping-maguro/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/xlsDVLfQ-Sw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p&gt;
+
+&lt;p&gt;コンセプトは &lt;strong&gt;大漁旗&lt;/strong&gt; ！&lt;/p&gt;
+
+&lt;p&gt;大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。&lt;/p&gt;
+
+&lt;p&gt;普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。&lt;/p&gt;
+
+&lt;p&gt;Do you know Japanese fishermen flags?&lt;/p&gt;
+
+&lt;p&gt;I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.&lt;/p&gt;
+
+&lt;p&gt;The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.&lt;/p&gt;
+
+&lt;p&gt;With gratitude to such fishermen, I put it in a 30-second work.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ucarecdn.com/ac79008d-946c-4ed3-bbe7-45d233f1f75d/-/autorotate/yes/&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ucarecdn.com/0ef0f542-b91e-44ef-8506-35029226695a/-/autorotate/yes/&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;環境&#34;&gt;環境&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY, Looking Glass, VRChat&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;p&gt;VRバージョンとLooking Glassバージョンの2種類あります！&lt;/p&gt;
+
+&lt;h3 id=&#34;stylyバージョン&#34;&gt;STYLYバージョン&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0&#34; target=&#34;_blank&#34;&gt;STYLY GALLERY / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8619295&#34; target=&#34;_blank&#34;&gt;STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;looking-glassバージョン&#34;&gt;Looking Glassバージョン&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/97/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library / Zepping Maguro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;vrchatバージョン&#34;&gt;VRChatバージョン&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrchat.com/home/world/wrld_6607a6c0-7095-4406-b645-f220ed0790e8&#34; target=&#34;_blank&#34;&gt;VRChat / zepping-maguro-xr-tech-nagoya&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/141161/&#34; target=&#34;_blank&#34;&gt;パーティクルライブミートアップ vol.2 at TIMEMACHINE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://standalone-vr.connpass.com/event/143354/&#34; target=&#34;_blank&#34;&gt;夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a&gt;（野良）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ramen Segur</title>
+      <link>/project/ramen-segur/</link>
+      <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
+      
+      <guid>/project/ramen-segur/</guid>
+      <description>
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ラーメンをフォトグラメトリでメッシュ化したらどうなるの？&lt;/p&gt;
+
+&lt;p&gt;フォトグラメトリに触れて最初に思った疑問でした。&lt;/p&gt;
+
+&lt;p&gt;2019年7月7日にTIMEMACHINEさんで開催された &lt;a href=&#34;https://styly.connpass.com/event/137029/&#34; target=&#34;_blank&#34;&gt;STYLY Photogrammetry Workshop&lt;/a&gt; ではじめてフォトグラメトリに触れ、あまりにも簡単に実写風のメッシュが生成できて感動しました。さっそく、帰り道にラーメン屋へ立ち寄り、ラーメンの写真を12枚ほど撮影しました。（店員さんにお許しをいただきました。）&lt;/p&gt;
+
+&lt;p&gt;そうしてできたのが、こちらです。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;さっそくラーメンでフォトグラやってみましたｗ&lt;br&gt;写真の枚数が全然足りなくて、穴だらけのメッシュですが、懸念していたスープの透過や反射は、それほど悪影響はなさそうです。 &lt;a href=&#34;https://t.co/HU9Mx6zig6&#34;&gt;pic.twitter.com/HU9Mx6zig6&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1147870101594525697?ref_src=twsrc%5Etfw&#34;&gt;July 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;穴だらけではありますが、想像以上に綺麗にできてびっくりしました。&lt;/p&gt;
+
+&lt;p&gt;これをきっかけに、ラーメンや食器を日々メッシュ化するようになりました。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;今度は家系ラーメンで &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#フォトグラメトリ&lt;/a&gt; やってみました！&lt;a href=&#34;https://twitter.com/mononou?ref_src=twsrc%5Etfw&#34;&gt;@mononou&lt;/a&gt; さんと協力して撮りまくった280枚の写真から、ピンボケしたのを取り除いた120枚でやりました。&lt;br&gt;海苔のメッシュが想像よりも綺麗で嬉しいです！&lt;br&gt;次の課題は丼とレンゲかなぁ&lt;a href=&#34;https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Photogrammetry&lt;/a&gt; &lt;a href=&#34;https://t.co/14r2Z9O6eu&#34;&gt;pic.twitter.com/14r2Z9O6eu&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1151488213543874563?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;そうして、メッシュ化してきたものを1つのVR空間に集結させたのが、 &lt;strong&gt;ラーメン背牛&lt;/strong&gt; です。STYLY Photogrammetry Awardsに応募しましたので、ぜひご覧ください。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;STYLYさんにアップロードしたのはこちらです。&lt;br&gt;丼とかごますり器とかいろいろ詰め込めこんだら、すごく重たいシーンになってしまった。。。&lt;a href=&#34;https://t.co/wyXnAckbQ5&#34;&gt;https://t.co/wyXnAckbQ5&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#STYLY&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1152922973415698432?ref_src=twsrc%5Etfw&#34;&gt;July 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Zephyr, Unity&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2d199f5a-ab07-11e9-b34d-4783bb2170d0&#34; target=&#34;_blank&#34;&gt;STYLY GALLERY / ramen-segur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://awrd.com/creatives/detail/8525236&#34; target=&#34;_blank&#34;&gt;STYLY Photogrammetry Awards / ラーメン背牛&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ice Cream Particle Live</title>
+      <link>/project/ice-cream-particle-live/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/ice-cream-particle-live/</guid>
+      <description>
+
+&lt;p&gt;STYLY ParticleLive Workshopではじめて作ったパーティクルライブです。&lt;/p&gt;
+
+&lt;div class=&#34;embed video-player&#34;&gt;
+    &lt;iframe height=&#34;360&#34; width=&#34;640&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;allowfullscreen&#34;
+        src=&#34;https://gallery.styly.cc/embed?g=2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34;&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: STYLY, Unity&lt;/li&gt;
+&lt;li&gt;動作環境: STYLY&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gallery.styly.cc/segur/2a40f37a-9b55-11e9-b34d-4783bb2170d0&#34; target=&#34;_blank&#34;&gt;STYLY GALLERY / ice cream particle live workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>yaml-scraper</title>
+      <link>/project/yaml-scraper/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/yaml-scraper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>swagger-scraper</title>
+      <link>/project/swagger-scraper/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0900</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/project/swagger-scraper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Girls in the Box</title>
+      <link>/project/girls-in-the-box/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0900</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/project/girls-in-the-box/</guid>
+      <description>
+
+&lt;p&gt;Looking Glassハッカソンに参加した際、5人のチームで開発したゲームです。&lt;/p&gt;
+
+&lt;p&gt;Looking Glassを複数台使うことでゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
+3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;3台そろった！渋谷のFebCafeで展示中です！よろしくお願いします！&lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/1hWsOadV2h&#34;&gt;pic.twitter.com/1hWsOadV2h&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1113393955817672704?ref_src=twsrc%5Etfw&#34;&gt;April 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;内容としては、主人公のますきゃっと様に「悪い男」がアプローチしてくるので、プレイヤーはそれを手ではじくというものになっています。&lt;/p&gt;
+
+&lt;p&gt;ゴールしたら、顔がアップになります！かわいい！！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;Looking Glass ハッカソンおつかれさまでした！！&lt;br&gt;我々Team2では3つのLooking Glassを使ったゲームを作成しました！多くの方に楽しんでいただき、嬉しかったです！&lt;br&gt;それでは4/3のイベントで、またお会いしましょう！&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#るきはく&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/mMlvNGAq3w&#34;&gt;pic.twitter.com/mMlvNGAq3w&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1112346492168073216?ref_src=twsrc%5Etfw&#34;&gt;March 31, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
+&lt;li&gt;担当箇所: ハードウェア準備、一部ソフトウェア（LeapMotion制御等）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/119022/&#34; target=&#34;_blank&#34;&gt;第1回 Looking Glass ハッカソン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglassfactory.com/events/looking-glass-factory-fab-cafe&#34; target=&#34;_blank&#34;&gt;LOOKING GLASS FACTORY ハッカソンショーケース ＠FAB CAFE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/123727/&#34; target=&#34;_blank&#34;&gt;第2回 Looking Glass 勉強会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masscat Follows Hand</title>
+      <link>/project/masscat-follows-hand/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/masscat-follows-hand/</guid>
+      <description>
+
+&lt;p&gt;Looking Glassにキャラクターを表示して遊んでいたときに思いました。&lt;/p&gt;
+
+&lt;p&gt;全身を見ようとすると、顔の解像度が下がってしまう。&lt;strong&gt;全身も見たいし、顔も見たい！！&lt;/strong&gt;
+カメラをズームイン／アウトできればいいんだけど、Looking Glassにタッチパネルは付いてないし、マウスもキーボードも使いたくない・・・&lt;/p&gt;
+
+&lt;p&gt;そうだ！ &lt;strong&gt;Leap Motion&lt;/strong&gt; を使おう！&lt;/p&gt;
+
+&lt;p&gt;そうして作ったのが、 &lt;strong&gt;Masscat Follows Hand&lt;/strong&gt; です。ますきゃっと様と戯れることができます。&lt;/p&gt;
+
+&lt;p&gt;Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;両手グーでズーム・回転等をできるようにしました。地図アプリのピンチアウトとかの操作の3D版という感じでしょうか。ちょっと癖はあるけど、慣れると便利！デバッグでマウス触らなくてよくなるのが地味に嬉しい。&lt;a href=&#34;https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LeapMotion&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://t.co/NhizrDS7Tj&#34;&gt;pic.twitter.com/NhizrDS7Tj&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1109754332092624896?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;バックパックPCと組み合わせて、歩き展示をしたかったので、片手操作モードも実装しましたｗ&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; 用のアプリを作成中。 &lt;a href=&#34;https://twitter.com/hashtag/LeapMotion?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LeapMotion&lt;/a&gt; で取得した手の動きで、Unity内のカメラを動かしてみました。手をグーの形にしている間はカメラを動かせます。グーの形じゃなくなったら終了します。マウスドラッグみたいな感覚で使えるの便利です。更に、前後にも動かせます！ &lt;a href=&#34;https://t.co/fE8lM754vW&#34;&gt;pic.twitter.com/fE8lM754vW&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1108794958318702592?ref_src=twsrc%5Etfw&#34;&gt;March 21, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library&lt;/a&gt; にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass, Leap Motion&lt;/li&gt;
+&lt;li&gt;リリース: &lt;a href=&#34;https://madewith.lookingglassfactory.com/app/128/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/13d22727c913f8159990&#34; target=&#34;_blank&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/4d9947db66d70def9762&#34; target=&#34;_blank&#34;&gt;【LeapMotion+UniRx】手の動きでカメラを動かす：両手編&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrtokyo.connpass.com/event/121561/&#34; target=&#34;_blank&#34;&gt;xR Tech Tokyo #15&lt;/a&gt;（野良）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/124916/&#34; target=&#34;_blank&#34;&gt;Looking Glass ミートアップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masscat Follows Ball</title>
+      <link>/project/masscat-follows-ball/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/masscat-follows-ball/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/1GEGi-008Sk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;strong&gt;かわいい女の子と戯れたい！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;その想いだけで作ったのが、Masscat Follows Ballです。&lt;/p&gt;
+
+&lt;p&gt;2019年2月5日に、大好きなVTuberのらきゃっとさんの量産型モデル「ますきゃっと」の3Dモデルが配布され、&lt;strong&gt;これは運命だ&lt;/strong&gt; と思い、即購入いたしました。&lt;/p&gt;
+
+&lt;p&gt;あまりにもかわいくて、&lt;strong&gt;これは顔をちゃんと魅せなあかん！&lt;/strong&gt;と思い、Looking Glassの限られた解像度をフルに活用し、顔がきれいに映るバストアップの構図を採用しました。&lt;/p&gt;
+
+&lt;p&gt;ますきゃっと様と戯れるために、ユーザーが操作できる緑の玉を空中に浮かべ、それをますきゃっと様に視線で追いかけていただくという内容にしました！本当にそこに実在するように感じました！&lt;/p&gt;
+
+&lt;p&gt;2月7日にTwitterへ投稿したところ、ありがたいことに、1000いいねを超える反響をいただきました。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;LookingGlassでますきゃーーーーーーっと！！たーーのしーー！！&lt;a href=&#34;https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#lookingglass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/2Cl3qIv6Ng&#34;&gt;pic.twitter.com/2Cl3qIv6Ng&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1093508279504842752?ref_src=twsrc%5Etfw&#34;&gt;February 7, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;当初、緑の玉はマウスやキーボードで操作していましたが、Looking Glass本体のボタンのみで操作できるように改良したところ、バックパックPCと組み合わせれば、歩きながらデモすることができるようになりました！これが &lt;strong&gt;行脚スタイル（あんぎゃ）&lt;/strong&gt; の誕生です！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;こんな感じのものをライブラリに登録しました！本体のボタンで緑の玉を動かすと、ますきゃっと様が追いかけてくれます！たのしいー&lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%81%BE%E3%81%99%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ますきゃっと&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E9%87%8F%E7%94%A3%E5%9E%8B%E3%81%AE%E3%82%89%E3%81%8D%E3%82%83%E3%81%A3%E3%81%A8?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#量産型のらきゃっと&lt;/a&gt; &lt;a href=&#34;https://t.co/4J9jPU8hcP&#34;&gt;pic.twitter.com/4J9jPU8hcP&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1116844336086302720?ref_src=twsrc%5Etfw&#34;&gt;April 12, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;おかげさまで、さまざまな展示会・勉強会で、歩き展示をさせていただきましたｗ&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://madewith.lookingglassfactory.com/app/72/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library&lt;/a&gt; にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。&lt;/p&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;li&gt;リリース: &lt;a href=&#34;https://madewith.lookingglassfactory.com/app/72/&#34; target=&#34;_blank&#34;&gt;Looking Glass Library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;展示&#34;&gt;展示&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lookingglass.connpass.com/event/115508/&#34; target=&#34;_blank&#34;&gt;第1回 Looking Glass勉強会&lt;/a&gt;（野良）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrm.connpass.com/event/116985/&#34; target=&#34;_blank&#34;&gt;第1回 VRM勉強会&lt;/a&gt;（歩き展示）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vrtokyo.connpass.com/event/121561/&#34; target=&#34;_blank&#34;&gt;xR Tech Tokyo #15&lt;/a&gt;（歩き展示）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connpass.com/event/124916/&#34; target=&#34;_blank&#34;&gt;Looking Glass ミートアップ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://standalone-vr.connpass.com/event/143354/&#34; target=&#34;_blank&#34;&gt;夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a&gt;（歩き展示）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ニュース&#34;&gt;ニュース&lt;/h2&gt;
+
+&lt;p&gt;エキサイトニュースにも、チラっと載りました！&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;みんなの作品と一緒に自分の作品もエキサイトニュースに載りましたー！わーいわーい。&lt;br&gt;&lt;br&gt;「Looking Glass」開発者が語る日本人への期待 (2019年4月23日) - エキサイトニュース &lt;a href=&#34;https://t.co/Q15z8v8OiP&#34;&gt;https://t.co/Q15z8v8OiP&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/%E3%83%AB%E3%82%AD%E3%82%B0%E3%83%A9%E3%82%B9?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ルキグラス&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LookingGlass&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1120869021052596225?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Shogo in Looking Glass</title>
+      <link>/project/shogo-in-looking-glass/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/shogo-in-looking-glass/</guid>
+      <description>
+
+&lt;p&gt;2019年1月9日、何気なくTwitterを見ていました。そしたら、なんと前々から気になっていたLooking Glassが期間限定価格であり、それが &lt;strong&gt;明日には終わってしまう&lt;/strong&gt; ことを知り、衝動で発注しました。&lt;/p&gt;
+
+&lt;p&gt;2月6日に届いて、さっそく作ってみたのが、 &lt;strong&gt;Shogo in Looking Glass&lt;/strong&gt; です。&lt;/p&gt;
+
+&lt;p&gt;当時の私のメインアバターである &lt;a href=&#34;https://hub.vroid.com/characters/4381082594801486356&#34; target=&#34;_blank&#34;&gt;今里尚吾&lt;/a&gt; 君がひたすら歩くだけという内容でしたが、まるでそこに実在するかのような立体感に衝撃を受けました。&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;LookingGlass届きました！とりあえず、うちの子を歩かせてみた。後ろに壁を置いたら、影ができて、立体感が増す気がする！やばい。楽しくてニヤニヤする。&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/lookingglass?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#lookingglass&lt;/a&gt; &lt;a href=&#34;https://t.co/R5bCo7I55I&#34;&gt;pic.twitter.com/R5bCo7I55I&lt;/a&gt;&lt;/p&gt;&amp;mdash; segur(せぎゅ)@VKet4阿頼屋敷-蓮-23 (@segur_vita) &lt;a href=&#34;https://twitter.com/segur_vita/status/1093161548191739904?ref_src=twsrc%5Etfw&#34;&gt;February 6, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Unity&lt;/li&gt;
+&lt;li&gt;動作環境: Looking Glass&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beat Saber Darth Maul Play with VMC</title>
+      <link>/project/beatsaber/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/project/beatsaber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VRoid Hub</title>
+      <link>/project/vroid-hub/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/vroid-hub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swagger-rm-example</title>
+      <link>/project/swagger-rm-example/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/swagger-rm-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akari Language</title>
+      <link>/project/akari-lang/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/akari-lang/</guid>
+      <description>
+
+&lt;p&gt;大好きなVTuberミライアカリちゃんの独自プログラミング言語 &lt;strong&gt;Akari&lt;/strong&gt; を作りました。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Hello, world!&lt;/code&gt; を表示するサンプルコードはこんな感じです！&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+いきま→しょう！ピロリンッハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+ハロー！ハロー！ピロリンッハロー！ハロー！ハロー！ハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！ハロー！ピロリンッハロー！ハロー！ハロー！
+ハロー！ハロー！悪い子ちゃん悪い子ちゃん悪い子ちゃんヤミ卍ピロリンッ
+あ、カラスだピロリンッハロー！ハロー！あ、カラスだハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！あ、カラスだあ、カラスだハロー！ハロー！
+ハロー！あ、カラスだピロリンッヤミあ、カラスだヤミヤミヤミヤミヤミヤミヤミ
+ヤミヤミヤミヤミヤミあ、カラスだ悪い子ちゃんハロー！ハロー！ハロー！
+ハロー！ハロー！ハロー！ハロー！ハロー！あ、カラスだヤミヤミヤミヤミヤミ
+ヤミヤミヤミあ、カラスだハロー！ハロー！ハロー！あ、カラスだヤミヤミヤミ
+ヤミヤミヤミあ、カラスだヤミヤミヤミヤミヤミヤミヤミヤミあ、カラスだ
+ピロリンッハロー！あ、カラスだ
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;実はBrainf*ckという言語の派生言語なんです。以下の8つの命令のみで構成されています。&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Akari命令&lt;/th&gt;
+&lt;th&gt;Brainf*ck命令&lt;/th&gt;
+&lt;th&gt;動作&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ピロリンッ&lt;/td&gt;
+&lt;td&gt;&amp;gt;&lt;/td&gt;
+&lt;td&gt;ポインターをインクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;悪い子ちゃん&lt;/td&gt;
+&lt;td&gt;&amp;lt;&lt;/td&gt;
+&lt;td&gt;ポインターをデクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ハロー！&lt;/td&gt;
+&lt;td&gt;+&lt;/td&gt;
+&lt;td&gt;ポインターが指す値をインクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ヤミ&lt;/td&gt;
+&lt;td&gt;-&lt;/td&gt;
+&lt;td&gt;ポインターが指す値をデクリメントする。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;あ、カラスだ&lt;/td&gt;
+&lt;td&gt;.&lt;/td&gt;
+&lt;td&gt;ポインターが指す値を出力に書き出す。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;おけまる&lt;/td&gt;
+&lt;td&gt;,&lt;/td&gt;
+&lt;td&gt;入力から1バイト読み込んで、ポインターが指す先に代入する。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;いきま→しょう！&lt;/td&gt;
+&lt;td&gt;[&lt;/td&gt;
+&lt;td&gt;ポインターが指す値が0なら、対応する &lt;code&gt;卍&lt;/code&gt; の直後にジャンプする。&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;卍&lt;/td&gt;
+&lt;td&gt;]&lt;/td&gt;
+&lt;td&gt;ポインターが指す値が0でないなら、対応する &lt;code&gt;いきま→しょう！&lt;/code&gt; にジャンプする。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Ruby Gemとしてリリースしていますので、試してみたい方は、こちらからインストールしてみてください。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/segurvita/akari&#34; target=&#34;_blank&#34;&gt;akari | GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;開発環境: Ruby&lt;/li&gt;
+&lt;li&gt;動作環境: Windows, Mac, Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;技術記事&#34;&gt;技術記事&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/eaca10475d7a9f7dda78&#34; target=&#34;_blank&#34;&gt;ミライアカリちゃんの独自プログラミング言語Akariを作ってみた【Brainf*ck】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/segur/items/96989fc1dc282d0a02bd&#34; target=&#34;_blank&#34;&gt;Akari言語のインタプリタを作ってみた【祝VTuberアニメ化】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;リリース&#34;&gt;リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://rubygems.org/gems/akari&#34; target=&#34;_blank&#34;&gt;akari | RubyGem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/segurvita/akari&#34; target=&#34;_blank&#34;&gt;akari | GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Qiita</title>
+      <link>/project/qiita/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/project/qiita/</guid>
       <description></description>
     </item>
     

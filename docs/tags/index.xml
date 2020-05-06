@@ -7,10 +7,181 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 12:45:00 +0900</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BOOTH</title>
+      <link>/tags/booth/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/booth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>/tags/blender/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FBX</title>
+      <link>/tags/fbx/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/fbx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>/tags/fish/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>/tags/food/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photogrammetry</title>
+      <link>/tags/photogrammetry/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/photogrammetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trnio</title>
+      <link>/tags/trnio/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/trnio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>/tags/unity/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xR</title>
+      <link>/tags/xr/</link>
+      <pubDate>Sat, 04 Apr 2020 12:45:00 +0900</pubDate>
+      
+      <guid>/tags/xr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cluster</title>
+      <link>/tags/cluster/</link>
+      <pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate>
+      
+      <guid>/tags/cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>/tags/art/</link>
+      <pubDate>Sat, 28 Mar 2020 14:00:00 +0900</pubDate>
+      
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STYLY</title>
+      <link>/tags/styly/</link>
+      <pubDate>Sat, 28 Mar 2020 14:00:00 +0900</pubDate>
+      
+      <guid>/tags/styly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zephyr</title>
+      <link>/tags/zephyr/</link>
+      <pubDate>Sat, 28 Mar 2020 14:00:00 +0900</pubDate>
+      
+      <guid>/tags/zephyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application</title>
+      <link>/tags/application/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>/tags/game/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Jam</title>
+      <link>/tags/game-jam/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/game-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Game Jam</title>
+      <link>/tags/global-game-jam/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/global-game-jam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Looking Glass</title>
+      <link>/tags/looking-glass/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/looking-glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzle</title>
+      <link>/tags/puzzle/</link>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0900</pubDate>
+      
+      <guid>/tags/puzzle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ParticleLive</title>
@@ -94,15 +265,6 @@
     </item>
     
     <item>
-      <title>Photogrammetry</title>
-      <link>/tags/photogrammetry/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/photogrammetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>/tags/python/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
@@ -117,15 +279,6 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/qiita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unity</title>
-      <link>/tags/unity/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/unity/</guid>
       <description></description>
     </item>
     
@@ -148,38 +301,11 @@
     </item>
     
     <item>
-      <title>xR</title>
-      <link>/tags/xr/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/xr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Application</title>
-      <link>/tags/application/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Azure Kinect</title>
       <link>/tags/azure-kinect/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/azure-kinect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>/tags/game/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/game/</guid>
       <description></description>
     </item>
     
@@ -193,29 +319,11 @@
     </item>
     
     <item>
-      <title>Looking Glass</title>
-      <link>/tags/looking-glass/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/looking-glass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MIDI</title>
       <link>/tags/midi/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/midi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>/tags/art/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/tags/art/</guid>
       <description></description>
     </item>
     
@@ -247,29 +355,11 @@
     </item>
     
     <item>
-      <title>STYLY</title>
-      <link>/tags/styly/</link>
-      <pubDate>Mon, 04 Nov 2019 23:50:00 +0900</pubDate>
-      
-      <guid>/tags/styly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ramen</title>
       <link>/tags/ramen/</link>
       <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
       
       <guid>/tags/ramen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zephyr</title>
-      <link>/tags/zephyr/</link>
-      <pubDate>Sun, 21 Jul 2019 21:00:00 +0900</pubDate>
-      
-      <guid>/tags/zephyr/</guid>
       <description></description>
     </item>
     
@@ -301,15 +391,6 @@
     </item>
     
     <item>
-      <title>npm</title>
-      <link>/tags/npm/</link>
-      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
-      
-      <guid>/tags/npm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open API</title>
       <link>/tags/open-api/</link>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
@@ -333,6 +414,15 @@
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
       
       <guid>/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>npm</title>
+      <link>/tags/npm/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0900</pubDate>
+      
+      <guid>/tags/npm/</guid>
       <description></description>
     </item>
     
