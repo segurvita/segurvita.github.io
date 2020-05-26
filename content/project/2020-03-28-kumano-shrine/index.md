@@ -89,7 +89,7 @@ xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclust
 ### STYLYバージョン
 高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。
 
-[STYLY / Kumano Shrine](https://madewith.lookingglassfactory.com/app/97/)
+[STYLY / Kumano Shrine](https://gallery.styly.cc/scene/a2f51be0-7085-11ea-834c-06540631ffe6)
 
 
 
