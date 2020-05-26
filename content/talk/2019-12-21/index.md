@@ -50,7 +50,7 @@ url_slides = "https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["zepping-maguro"]
+projects = ["2019-08-18-zepping-maguro"]
 
 # Links (optional).
 url_pdf = ""

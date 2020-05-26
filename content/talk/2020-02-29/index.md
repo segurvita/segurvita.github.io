@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["2020-04-04-sashimi-moriawase", "2020-04-30-iwashi-yamamori"]
+projects = ["2020-04-30-iwashi-yamamori"]
 
 # Links (optional).
 url_pdf = ""

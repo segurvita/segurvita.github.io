@@ -50,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["kumano-shrine"]
+projects = ["2020-03-28-kumano-shrine"]
 
 # Links (optional).
 url_pdf = ""
