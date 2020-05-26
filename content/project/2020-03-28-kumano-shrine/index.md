@@ -75,7 +75,7 @@ OBJ形式のメッシュとテクスチャ画像を合わせて15MBまでとい�
 
 ## リリース
 
-clusterバージョンとSTYLYバージョンの2種類あります！
+clusterバージョン、STYLYバージョン、VRChatバージョンの3種類あります！
 
 ### clusterバージョン
 xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclusterワールドに、Kumano Shrineの低ポリゴン版（10万ポリゴン）が展示されています。
@@ -87,9 +87,15 @@ xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclust
 
 
 ### STYLYバージョン
-高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。
+高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。VR機材がなくても、PCさえあれば、Webブラウザで視聴可能です！
 
 [STYLY / Kumano Shrine](https://gallery.styly.cc/scene/a2f51be0-7085-11ea-834c-06540631ffe6)
+
+
+### VRChatバージョン
+高ポリゴン版（140万ポリゴン）をVRChatにも投稿しております。視聴にはVR機材が必要です。
+
+[VRChat / Kumano Shrine](https://vrchat.com/home/launch?worldId=wrld_1fb8caf4-b035-4991-be46-5fed071d8061)
 
 
 
