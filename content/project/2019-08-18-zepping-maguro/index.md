@@ -77,28 +77,27 @@ With gratitude to such fishermen, I put it in a 30-second work.
 
 
 
-## リリース
+## 視聴
 
-VRバージョンとLooking Glassバージョンの2種類あります！
-
-### STYLYバージョン
-
-- [STYLY GALLERY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
-- [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
+ブラウザで以下からご覧いただけます。
 
 {{<styly 6092f32f-be92-11e9-b34d-4783bb2170d0>}}
 
-### Looking Glassバージョン
 
-- [Looking Glass Library / Zepping Maguro](https://madewith.lookingglassfactory.com/app/97/)
 
-### VRChatバージョン
+## リリース
 
+5種類のプラットフォームにリリースしています！
+
+- [STYLY / Zepping Maguro (Exquisite tuna)](https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0)
+- [Looking Glass / Zepping Maguro](https://madewith.lookingglassfactory.com/app/97/)
 - [VRChat / zepping-maguro-xr-tech-nagoya](https://vrchat.com/home/world/wrld_6607a6c0-7095-4406-b645-f220ed0790e8)
+- [Cluster / zepping-maguro](https://cluster.mu/w/a9bc8395-1837-4d6a-a201-511a83516349)
 
 
 
 ## 展示
 
+- [STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)](https://awrd.com/creatives/detail/8619295)
 - [パーティクルライブミートアップ vol.2 at TIMEMACHINE](https://connpass.com/event/141161/)
 - [夏のxR自由研究発表祭【すたみと#3 特別編】](https://standalone-vr.connpass.com/event/143354/)（野良）
