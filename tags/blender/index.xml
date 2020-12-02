@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on Segur / せぎゅ</title><link>/tags/blender/</link><description>Recent content in Blender on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Tue, 03 Nov 2020 23:02:00 +0000</lastBuildDate><atom:link href="/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>赤海老</title><link>/project/2020-11-03-akaebi/</link><pubDate>Tue, 03 Nov 2020 23:02:00 +0000</pubDate><guid>/project/2020-11-03-akaebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
-&lt;p>赤海老（アカエビ）の3Dデータです！&lt;/p>
-&lt;p>甲殻類のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on Segur / せぎゅ</title><link>/tags/blender/</link><description>Recent content in Blender on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 21 Nov 2020 23:14:17 +0000</lastBuildDate><atom:link href="/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>バナメイ海老</title><link>/project/2020-11-21-vannamei-ebi/</link><pubDate>Sat, 21 Nov 2020 23:14:17 +0000</pubDate><guid>/project/2020-11-21-vannamei-ebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>バナメイ海老（バナメイエビ）の3Dデータです！&lt;/p>
+&lt;p>皮をむいた海老のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/5hYt0qu9a5M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/2DyCFgJQSAA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="リリース">リリース&lt;/h2>
 &lt;p>下記のオンラインショップで販売しております。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.v-market.work/ec/items/3907/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://booth.pm/ja/items/2501347">BOOTH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.v-market.work/ec/items/4131/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/2541205">BOOTH&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="展示">展示&lt;/h2>
 &lt;p>以下のイベントで展示させていただきました。&lt;/p>
@@ -24,16 +24,43 @@ src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
 &lt;h2 id="環境">環境&lt;/h2>
 &lt;ul>
 &lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
-&lt;li>動作環境: VRChat&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
+&lt;/ul></description></item><item><title>赤海老</title><link>/project/2020-11-03-akaebi/</link><pubDate>Tue, 03 Nov 2020 23:02:00 +0000</pubDate><guid>/project/2020-11-03-akaebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>赤海老（アカエビ）の3Dデータです！&lt;/p>
+&lt;p>甲殻類のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/5hYt0qu9a5M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;p>下記のオンラインショップで販売しております。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.v-market.work/ec/items/3907/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/2501347">BOOTH&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;p>以下のイベントで展示させていただきました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.v-market.work/v5/">バーチャルマーケット5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newview.design/cypher/photogrammetry/">NEWVIEW CYPHER Photogrammetry&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
 &lt;/ul></description></item><item><title>イワシ山盛り</title><link>/project/2020-04-30-iwashi-yamamori/</link><pubDate>Thu, 30 Apr 2020 21:32:00 +0000</pubDate><guid>/project/2020-04-30-iwashi-yamamori/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>まな板の上に山盛りのイワシの3Dデータです！&lt;/p>
 &lt;p>スーパーの鮮魚売り場でいわしが安売りしていたので衝動買いし、フォトグラメトリで作成しました。&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">本日の食材はイワシ！&lt;br>それではこちらを、さばいていくっ！&lt;br>(某YouTuber風)&lt;br>いっぱいあるから、いっぱい練習するよ！&lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://t.co/gp96Eyt84C">pic.twitter.com/gp96Eyt84C&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ) (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1228577507453984768?ref_src=twsrc%5Etfw">February 15, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">本日の食材はイワシ！&lt;br>それではこちらを、さばいていくっ！&lt;br>(某YouTuber風)&lt;br>いっぱいあるから、いっぱい練習するよ！&lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://t.co/gp96Eyt84C">pic.twitter.com/gp96Eyt84C&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@Vket5祝祭のマルシェ (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1228577507453984768?ref_src=twsrc%5Etfw">February 15, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;h2 id="リリース">リリース&lt;/h2>
 &lt;p>下記のオンラインショップで販売しております。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://booth.pm/ja/items/2024989">BOOTH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/2024989">BOOTH&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.v-market.work/ec/items/2504/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="展示">展示&lt;/h2>
@@ -42,20 +69,26 @@ src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
 &lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/167144/">xR Tech Nagoya #10&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/170700/">xR Tech Nagoya #11&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.v-market.work/v4/catalog/circle/932">バーチャルマーケット4 / 鮮魚せぎゅ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newview.design/cypher/photogrammetry/">NEWVIEW CYPHER Photogrammetry&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
+&lt;/iframe>
+&lt;/div>
 &lt;h2 id="環境">環境&lt;/h2>
 &lt;ul>
 &lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
-&lt;li>動作環境: VRChat&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
 &lt;/ul></description></item><item><title>刺身盛合せ</title><link>/project/2020-04-04-sashimi-moriawase/</link><pubDate>Sat, 04 Apr 2020 12:45:00 +0000</pubDate><guid>/project/2020-04-04-sashimi-moriawase/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>刺身の盛合せの3Dデータです！
 フォトグラメトリで作成したデータを元に、Blenderで調整しました。&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">結局、手書きでテクスチャとUV直しました。もはやフォトグラメトリーではないかもしれない。 &lt;a href="https://t.co/dKREaL7yvd">pic.twitter.com/dKREaL7yvd&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ) (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1246375743354851328?ref_src=twsrc%5Etfw">April 4, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">結局、手書きでテクスチャとUV直しました。もはやフォトグラメトリーではないかもしれない。 &lt;a href="https://t.co/dKREaL7yvd">pic.twitter.com/dKREaL7yvd&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@Vket5祝祭のマルシェ (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1246375743354851328?ref_src=twsrc%5Etfw">April 4, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;h2 id="リリース">リリース&lt;/h2>
 &lt;p>下記のオンラインショップで販売しております。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://booth.pm/ja/items/1947294">BOOTH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/1947294">BOOTH&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.v-market.work/ec/items/789/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="展示">展示&lt;/h2>
@@ -64,16 +97,22 @@ src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
 &lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/167144/">xR Tech Nagoya #10&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/170700/">xR Tech Nagoya #11&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.v-market.work/v4/catalog/circle/932">バーチャルマーケット4 / 鮮魚せぎゅ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newview.design/cypher/photogrammetry/">NEWVIEW CYPHER Photogrammetry&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
+&lt;/iframe>
+&lt;/div>
 &lt;h2 id="環境">環境&lt;/h2>
 &lt;ul>
 &lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
-&lt;li>動作環境: VRChat&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
 &lt;/ul></description></item><item><title>Kumano Shrine</title><link>/project/2020-03-28-kumano-shrine/</link><pubDate>Sat, 28 Mar 2020 14:00:00 +0000</pubDate><guid>/project/2020-03-28-kumano-shrine/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
 &lt;p>「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p>
 &lt;p>まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p>
 &lt;p>その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br>結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://t.co/CksRQXFEN9">pic.twitter.com/CksRQXFEN9&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ) (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw">January 15, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br>結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://t.co/CksRQXFEN9">pic.twitter.com/CksRQXFEN9&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@Vket5祝祭のマルシェ (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw">January 15, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>Blenderでちまちまとメッシュを修正し（3か月かかりましたｗ）、完成したのがこちらです。STYLYに投稿してありますので、ぜひご覧ください。&lt;/p>
 &lt;div class="embed video-player">

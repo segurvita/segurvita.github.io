@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shrimp on Segur / せぎゅ</title><link>/tags/shrimp/</link><description>Recent content in Shrimp on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Tue, 03 Nov 2020 23:02:00 +0000</lastBuildDate><atom:link href="/tags/shrimp/index.xml" rel="self" type="application/rss+xml"/><item><title>赤海老</title><link>/project/2020-11-03-akaebi/</link><pubDate>Tue, 03 Nov 2020 23:02:00 +0000</pubDate><guid>/project/2020-11-03-akaebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
-&lt;p>赤海老（アカエビ）の3Dデータです！&lt;/p>
-&lt;p>甲殻類のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shrimp on Segur / せぎゅ</title><link>/tags/shrimp/</link><description>Recent content in Shrimp on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 21 Nov 2020 23:14:17 +0000</lastBuildDate><atom:link href="/tags/shrimp/index.xml" rel="self" type="application/rss+xml"/><item><title>バナメイ海老</title><link>/project/2020-11-21-vannamei-ebi/</link><pubDate>Sat, 21 Nov 2020 23:14:17 +0000</pubDate><guid>/project/2020-11-21-vannamei-ebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>バナメイ海老（バナメイエビ）の3Dデータです！&lt;/p>
+&lt;p>皮をむいた海老のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/5hYt0qu9a5M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/2DyCFgJQSAA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="リリース">リリース&lt;/h2>
 &lt;p>下記のオンラインショップで販売しております。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.v-market.work/ec/items/3907/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://booth.pm/ja/items/2501347">BOOTH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.v-market.work/ec/items/4131/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/2541205">BOOTH&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="展示">展示&lt;/h2>
 &lt;p>以下のイベントで展示させていただきました。&lt;/p>
@@ -24,5 +24,32 @@ src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
 &lt;h2 id="環境">環境&lt;/h2>
 &lt;ul>
 &lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
-&lt;li>動作環境: VRChat&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
+&lt;/ul></description></item><item><title>赤海老</title><link>/project/2020-11-03-akaebi/</link><pubDate>Tue, 03 Nov 2020 23:02:00 +0000</pubDate><guid>/project/2020-11-03-akaebi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>赤海老（アカエビ）の3Dデータです！&lt;/p>
+&lt;p>甲殻類のフォトグラメトリーがやってみたいと思い、作ってみました。&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/5hYt0qu9a5M" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="リリース">リリース&lt;/h2>
+&lt;p>下記のオンラインショップで販売しております。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.v-market.work/ec/items/3907/detail/">バーチャルマーケットβ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://segur.booth.pm/items/2501347">BOOTH&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="展示">展示&lt;/h2>
+&lt;p>以下のイベントで展示させていただきました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.v-market.work/v5/">バーチャルマーケット5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://newview.design/cypher/photogrammetry/">NEWVIEW CYPHER Photogrammetry&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;div class="embed video-player">
+&lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
+src="https://gallery.styly.cc/embed?g=285b4754-5c8b-4ade-afb3-848564c76a6f">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Blender, Photoshop, Unity&lt;/li>
+&lt;li>動作環境: STYLY, VRChat&lt;/li>
 &lt;/ul></description></item></channel></rss>
