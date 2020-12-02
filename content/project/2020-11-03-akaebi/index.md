@@ -10,7 +10,7 @@ summary = "赤海老の3Dデータです。BOOTHで販売しています。VKet5
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BOOTH", "Blender", "FBX", "Food", "Photogrammetry", "Shrimp", "Trnio", "Unity", "xR"]
+tags = ["BOOTH", "Blender", "FBX", "Food", "Photogrammetry", "Shrimp", "Trnio", "Unity", "Vket", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -43,7 +43,7 @@ external_link = ""
 下記のオンラインショップで販売しております。
 
 - [バーチャルマーケットβ](https://www.v-market.work/ec/items/3907/detail/)
-- [BOOTH](https://booth.pm/ja/items/2501347)
+- [BOOTH](https://segur.booth.pm/items/2501347)
 
 
 
@@ -60,6 +60,6 @@ external_link = ""
 ## 環境
 
 - 開発環境: Blender, Photoshop, Unity
-- 動作環境: VRChat
+- 動作環境: STYLY, VRChat
 
 
