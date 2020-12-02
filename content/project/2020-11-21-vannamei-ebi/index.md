@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "イワシ山盛り"
+title = "バナメイ海老"
 
 # Date this page was created.
-date = 2020-04-30T21:32:00
+date = 2020-11-21T23:14:17
 
 # Project summary to display on homepage.
-summary = "山盛りにしたイワシの3Dデータです。BOOTHで販売しています。VKet4に展示しました。"
+summary = "バナメイ海老の3Dデータです。BOOTHで販売しています。VKet5に展示しました。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BOOTH", "Blender", "FBX", "Fish", "Food", "Photogrammetry", "Trnio", "Unity", "Vket", "xR"]
+tags = ["BOOTH", "Blender", "FBX", "Food", "Photogrammetry", "Shrimp", "Trnio", "Unity", "Vket", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -19,7 +19,7 @@ external_link = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "イワシ山盛り"
+  caption = "バナメイ海老"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -31,19 +31,19 @@ external_link = ""
 
 ## 概要
 
-まな板の上に山盛りのイワシの3Dデータです！
+バナメイ海老（バナメイエビ）の3Dデータです！
 
-スーパーの鮮魚売り場でいわしが安売りしていたので衝動買いし、フォトグラメトリで作成しました。
+皮をむいた海老のフォトグラメトリーがやってみたいと思い、作ってみました。
 
-{{<tweet 1228577507453984768>}}
+{{<youtube 2DyCFgJQSAA>}}
 
 
 
 ## リリース
 下記のオンラインショップで販売しております。
 
-- [BOOTH](https://segur.booth.pm/items/2024989)
-- [バーチャルマーケットβ](https://www.v-market.work/ec/items/2504/detail/)
+- [バーチャルマーケットβ](https://www.v-market.work/ec/items/4131/detail/)
+- [BOOTH](https://segur.booth.pm/items/2541205)
 
 
 
@@ -51,13 +51,10 @@ external_link = ""
 
 以下のイベントで展示させていただきました。
 
-- [xR Tech Nagoya #10](https://vrm-nagoya.connpass.com/event/167144/)
-- [xR Tech Nagoya #11](https://vrm-nagoya.connpass.com/event/170700/)
-- [バーチャルマーケット4 / 鮮魚せぎゅ](https://www.v-market.work/v4/catalog/circle/932)
+- [バーチャルマーケット5](https://www.v-market.work/v5/)
 - [NEWVIEW CYPHER Photogrammetry](https://newview.design/cypher/photogrammetry/)
 
 {{<styly 285b4754-5c8b-4ade-afb3-848564c76a6f>}}
-
 
 
 ## 環境

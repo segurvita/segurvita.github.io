@@ -10,7 +10,7 @@ summary = "バーチャルマーケット4に出店したブースです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Art", "Photogrammetry", "Unity", "VKet", "VRChat", "xR"]
+tags = ["Art", "Photogrammetry", "Unity", "Vket", "VRChat", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

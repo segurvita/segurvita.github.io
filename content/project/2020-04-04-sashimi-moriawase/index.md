@@ -10,7 +10,7 @@ summary = "刺身の盛合せの3Dデータです。BOOTHで販売していま�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BOOTH", "Blender", "FBX", "Fish", "Food", "Photogrammetry", "Trnio", "Unity", "xR"]
+tags = ["BOOTH", "Blender", "FBX", "Fish", "Food", "Photogrammetry", "Trnio", "Unity", "Vket", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -41,7 +41,7 @@ external_link = ""
 ## リリース
 下記のオンラインショップで販売しております。
 
-- [BOOTH](https://booth.pm/ja/items/1947294)
+- [BOOTH](https://segur.booth.pm/items/1947294)
 - [バーチャルマーケットβ](https://www.v-market.work/ec/items/789/detail/)
 
 
@@ -53,12 +53,15 @@ external_link = ""
 - [xR Tech Nagoya #10](https://vrm-nagoya.connpass.com/event/167144/)
 - [xR Tech Nagoya #11](https://vrm-nagoya.connpass.com/event/170700/)
 - [バーチャルマーケット4 / 鮮魚せぎゅ](https://www.v-market.work/v4/catalog/circle/932)
+- [NEWVIEW CYPHER Photogrammetry](https://newview.design/cypher/photogrammetry/)
+
+{{<styly 285b4754-5c8b-4ade-afb3-848564c76a6f>}}
 
 
 
 ## 環境
 
 - 開発環境: Blender, Photoshop, Unity
-- 動作環境: VRChat
+- 動作環境: STYLY, VRChat
 
 
