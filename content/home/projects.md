@@ -38,12 +38,8 @@ subtitle = "成果物"
     tag = "Library"
 
   [[content.filter_button]]
-    name = "JavaScript"
-    tag = "JavaScript"
-
-  [[content.filter_button]]
-    name = "Ruby"
-    tag = "Ruby"
+    name = "Photogrammetry"
+    tag = "Photogrammetry"
 
   [[content.filter_button]]
     name = "Unity"
