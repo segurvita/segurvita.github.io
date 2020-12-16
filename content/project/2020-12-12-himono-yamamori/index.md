@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "バナメイ海老"
+title = "干物詰合せ"
 
 # Date this page was created.
-date = 2020-11-21T23:14:17
+date = 2020-12-12T09:46:00
 
 # Project summary to display on homepage.
-summary = "バナメイ海老の3Dデータです。販売中です！VKet5に展示しました。"
+summary = "箱詰めの干物の3Dデータです。絶賛販売中です！VKet5に展示しました。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BOOTH", "Blender", "FBX", "Food", "Photogrammetry", "Shrimp", "Trnio", "Unity", "Vket", "xR"]
+tags = ["BOOTH", "Blender", "FBX", "Fish", "Food", "Photogrammetry", "Trnio", "Unity", "Vket", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -19,7 +19,7 @@ external_link = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "バナメイ海老"
+  caption = "干物詰合せ"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -31,19 +31,19 @@ external_link = ""
 
 ## 概要
 
-バナメイ海老（バナメイエビ）の3Dデータです！
+干物の詰合せの3Dデータです！
 
-皮をむいた海老のフォトグラメトリーがやってみたいと思い、作ってみました。
+憧れの箱詰めを買ってみたら、すごい迫力だったので、フォトグラメトリーで作ってみました！
 
-{{<youtube 2DyCFgJQSAA>}}
+{{<youtube 041BZMCrIuE>}}
 
 
 
 ## リリース
 下記のオンラインショップで販売しております。
 
-- [バーチャルマーケットβ](https://www.v-market.work/ec/items/4131/detail/)
-- [BOOTH](https://segur.booth.pm/items/2541205)
+- [バーチャルマーケットβ](https://www.v-market.work/ec/items/4389/detail/)
+- [BOOTH](https://segur.booth.pm/items/2596615)
 
 
 
