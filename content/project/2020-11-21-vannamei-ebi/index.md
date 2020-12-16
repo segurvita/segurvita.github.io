@@ -6,7 +6,7 @@ title = "バナメイ海老"
 date = 2020-11-21T23:14:17
 
 # Project summary to display on homepage.
-summary = "バナメイ海老の3Dデータです。BOOTHで販売しています。VKet5に展示しました。"
+summary = "バナメイ海老の3Dデータです。販売中です！VKet5に展示しました。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
