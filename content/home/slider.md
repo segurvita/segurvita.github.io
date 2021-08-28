@@ -27,7 +27,7 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "For more info"
-  cta_url = "/project/zepping-maguro/"
+  cta_url = "/project/2019-08-18-zepping-maguro/"
 
 [[item]]
   title = "Masscat vs Maguro"
@@ -45,7 +45,7 @@ height = "500px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
   cta_label = "For more info"
-  cta_url = "/project/masscat-vs-maguro/"
+  cta_url = "/project/2019-11-04-masscat-vs-maguro/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
@@ -59,7 +59,7 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "For more info"
-  cta_url = "/project/luminaries/"
+  cta_url = "/project/2019-11-09-luminaries/"
   # cta_icon_pack = "fas"
   # cta_icon = "link"
 
@@ -73,7 +73,7 @@ height = "500px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "For more info"
-  cta_url = "/project/masscat-follows-ball/"
+  cta_url = "/project/2019-02-07-masscat-follows-ball/"
   # cta_icon_pack = "fas"
   # cta_icon = "link"
 
