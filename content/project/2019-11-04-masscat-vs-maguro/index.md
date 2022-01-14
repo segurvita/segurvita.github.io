@@ -10,7 +10,7 @@ summary = "ますきゃっと様とマグロ様の熾烈な戦いをVRで表現�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Art", "Masscat", "Particle Live", "Playmaker", "STYLY", "Unity", "xR"]
+tags = ["Art", "Masscat", "Music Video", "Particle Live", "Playmaker", "STYLY", "Unity", "xR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -44,13 +44,11 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-STYLY Avatar Diorama Awards 2019へ応募するために作りました。
+STYLY Avatar Diorama Awards 2019 へ応募するために作りました。
 
 コンセプトは **爽快感** です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！
 
 {{<styly 2d37c169-fdec-11e9-bea5-06540631ffe6>}}
-
-
 
 ### ストーリー
 
@@ -64,8 +62,6 @@ Tuna (Tuna Monster) has attacked the city! Come on! Everyone's hero Masscat prev
 
 ![image](/img/masscat-vs-maguro/image03.PNG)
 
-
-
 ## 概要
 
 - 開発環境: STYLY, Unity, Playmaker
@@ -74,4 +70,3 @@ Tuna (Tuna Monster) has attacked the city! Come on! Everyone's hero Masscat prev
 ## リリース
 
 - [STYLY GALLERY / Masscat vs Maguro](https://gallery.styly.cc/segur/2d37c169-fdec-11e9-bea5-06540631ffe6)
-
