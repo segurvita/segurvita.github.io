@@ -47,10 +47,10 @@
 &lt;iframe src="https://www.youtube.com/embed/xlsDVLfQ-Sw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="概要">概要&lt;/h2>
-&lt;p>STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p>
+&lt;p>STYLY ParticleLive Awards 2019 へ応募するために作りました。&lt;/p>
 &lt;p>コンセプトは &lt;strong>大漁旗&lt;/strong> ！&lt;/p>
-&lt;p>大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。&lt;/p>
-&lt;p>普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。&lt;/p>
+&lt;p>大漁旗に描かれているコミカルでパワフルな景色を VR で再現してみました。&lt;/p>
+&lt;p>普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30 秒の作品に収めました。&lt;/p>
 &lt;p>Do you know Japanese fishermen flags?&lt;/p>
 &lt;p>I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.&lt;/p>
 &lt;p>The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.&lt;/p>
@@ -70,7 +70,7 @@ src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0">
 &lt;/iframe>
 &lt;/div>
 &lt;h2 id="リリース">リリース&lt;/h2>
-&lt;p>5種類のプラットフォームにリリースしています！&lt;/p>
+&lt;p>5 種類のプラットフォームにリリースしています！&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0">STYLY / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://madewith.lookingglassfactory.com/app/97/">Looking Glass / Zepping Maguro&lt;/a>&lt;/li>
@@ -81,7 +81,7 @@ src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0">
 &lt;ul>
 &lt;li>&lt;a href="https://awrd.com/creatives/detail/8619295">STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://connpass.com/event/141161/">パーティクルライブミートアップ vol.2 at TIMEMACHINE&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a>（野良）&lt;/li>
+&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏の xR 自由研究発表祭【すたみと#3 特別編】&lt;/a>（野良）&lt;/li>
 &lt;/ul></description></item><item><title>Girls in the Box</title><link>/project/2019-03-31-girls-in-the-box/</link><pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate><guid>/project/2019-03-31-girls-in-the-box/</guid><description>&lt;p>Looking Glassハッカソンに参加した際、5人のチームで開発したゲームです。&lt;/p>
 &lt;p>Looking Glassを複数台使うことでゲーム進行が有利になるとおもしろいのでは？という考えから、ランゲームを作りました。
 3台のLooking Glassを使用したところ、HDMIのポートが足りなかったり、ビデオメモリが足りなかったりトラブルが続出しましたが、何とか3台同時接続に成功しました。&lt;/p>

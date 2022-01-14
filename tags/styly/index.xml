@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>STYLY on Segur / せぎゅ</title><link>/tags/styly/</link><description>Recent content in STYLY on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/styly/index.xml" rel="self" type="application/rss+xml"/><item><title>Led Matrix with IoT and VR</title><link>/project/2020-10-10-led-iot-vr/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/2020-10-10-led-iot-vr/</guid><description>&lt;p>「VR と IoT を組み合わせて何か面白いことしましょう！」&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>STYLY on Segur / せぎゅ</title><link>/tags/styly/</link><description>Recent content in STYLY on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 06 Nov 2021 13:00:00 +0000</lastBuildDate><atom:link href="/tags/styly/index.xml" rel="self" type="application/rss+xml"/><item><title>「時の水面」@ワコンピ XRツアー京都・萬福寺</title><link>/project/2021-11-06-wacompi/</link><pubDate>Sat, 06 Nov 2021 13:00:00 +0000</pubDate><guid>/project/2021-11-06-wacompi/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+&lt;p>覇優雅エミさん/たこやきさん(VIRTUALOUT SYNDROMES) の楽曲「時の水面 - Demon in Blood - ver.MAX」の AR ミュージックビデオを制作させていただきました！&lt;/p>
+&lt;p>&lt;a href="http://grater-records.com/wacompi_xr/">ワコンピ XR ツアー京都・萬福寺&lt;/a> というイベントで体験会が開催されました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">覇優雅エミさん/たこやきさん(VIRTUALOUT SYNDROMES)の楽曲のARミュージックビデオを制作させていただけることになりましたー！！&lt;br>「&lt;a href="https://twitter.com/hashtag/%E3%83%AF%E3%82%B3%E3%83%B3%E3%83%94?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ワコンピ&lt;/a> XRツアー京都・萬福寺」で体験できますー！&lt;a href="https://t.co/SUSDvCirzC">https://t.co/SUSDvCirzC&lt;/a> &lt;a href="https://t.co/VrcVrsvjqe">pic.twitter.com/VrcVrsvjqe&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1449358945420668929?ref_src=twsrc%5Etfw">October 16, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>今回は、hacha さんとの共同制作で、私は主に歌詞演出を担当させていただきました。&lt;/p>
+&lt;p>「同じ演出なんだけど、歌詞が違う」みたいなオブジェクトの量産が必要でして、 Prefab Variant を利用してみたところ、効果抜群でした！&lt;/p>
+&lt;p>普段あまり使わない機能だったのですが、今後も使っていこうと思います。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今日は勉強会でPrefabVariantについて語りました。&lt;br>&lt;br>XR系のミュージックビデオ制作で&lt;br>「同じ演出なんだけど歌詞だけ違う」&lt;br>みたいなオブジェクトを量産しなきゃいけない時、PrefabVariantを使うと便利だよというお話です。&lt;a href="https://twitter.com/hashtag/XRMV?src=hash&amp;amp;ref_src=twsrc%5Etfw">#XRMV&lt;/a> &lt;a href="https://twitter.com/hashtag/Unity?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Unity&lt;/a> &lt;a href="https://t.co/b6ecHthfDx">pic.twitter.com/b6ecHthfDx&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1453735163511259150?ref_src=twsrc%5Etfw">October 28, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>モデリングも担当しまして、 Houdini で障子等を作りました！
+組子の本数をパラメータで指定できます！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">&lt;a href="https://twitter.com/hashtag/Houdini?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Houdini&lt;/a> で障子作ってる！&lt;br>&lt;br>組子の本数をパラメータで指定できるようにしました！&lt;br>（最終成果物には反映されない無駄なこだわり）&lt;br>&lt;br>OBJファイルなら無料版でも出力できるのでHoudiniオススメです。 &lt;a href="https://t.co/R3CU0GuZja">pic.twitter.com/R3CU0GuZja&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1451170100111757312?ref_src=twsrc%5Etfw">October 21, 2021&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;p>実は VTuber さんに関わる仕事をするというのは 2021 年の夢だったのですが、叶っちゃいました！
+いろいろ大変でしたが、とても充実したお仕事ができて良かったです！&lt;/p>
+&lt;h2 id="環境">環境&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Houdini, Unity&lt;/li>
+&lt;li>動作環境: STYLY&lt;/li>
+&lt;/ul>
+&lt;h2 id="体験会">体験会&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="http://grater-records.com/wacompi_xr/">ワコンピ XR ツアー京都・萬福寺&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Led Matrix with IoT and VR</title><link>/project/2020-10-10-led-iot-vr/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/2020-10-10-led-iot-vr/</guid><description>&lt;p>「VR と IoT を組み合わせて何か面白いことしましょう！」&lt;/p>
 &lt;p>そんな風に &lt;a href="https://twitter.com/onCube_jp">SensitiveCube&lt;/a> さんに誘われて、２人での制作が始まりました。&lt;/p>
 &lt;p>たまたま私が LED Matrix というデバイスを持っていたので、最初にこんな技術デモを制作しました。&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">VR空間内でお絵描きすると、自宅の8x8LEDに反映される仕組みを作ってみました！&lt;br>個人サーバーを介して、VR(STYLY)内の仮想LEDの状態を、自宅内の物理LEDへ反映させてます。&lt;br>PlaymakerのWWW Objectと、MQTTを組み合わせて実現してます。&lt;br>右下はMQTTのメッセージを可視化させたものです。&lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a> &lt;a href="https://twitter.com/hashtag/IoT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#IoT&lt;/a> &lt;a href="https://t.co/YEL02dHsJN">pic.twitter.com/YEL02dHsJN&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1301404377387683846?ref_src=twsrc%5Etfw">September 3, 2020&lt;/a>&lt;/blockquote>
@@ -99,7 +123,7 @@ src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
 &lt;h2 id="展示">展示&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://vrm-nagoya.connpass.com/event/170700/">xR Tech Nagoya #11&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Masscat vs Maguro</title><link>/project/2019-11-04-masscat-vs-maguro/</link><pubDate>Mon, 04 Nov 2019 23:50:00 +0000</pubDate><guid>/project/2019-11-04-masscat-vs-maguro/</guid><description>&lt;p>STYLY Avatar Diorama Awards 2019へ応募するために作りました。&lt;/p>
+&lt;/ul></description></item><item><title>Masscat vs Maguro</title><link>/project/2019-11-04-masscat-vs-maguro/</link><pubDate>Mon, 04 Nov 2019 23:50:00 +0000</pubDate><guid>/project/2019-11-04-masscat-vs-maguro/</guid><description>&lt;p>STYLY Avatar Diorama Awards 2019 へ応募するために作りました。&lt;/p>
 &lt;p>コンセプトは &lt;strong>爽快感&lt;/strong> です！大好きな「ますきゃっと」と大好きな「マグロ」の夢のコラボレーションです！&lt;/p>
 &lt;div class="embed video-player">
 &lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
@@ -126,10 +150,10 @@ src="https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6">
 &lt;iframe src="https://www.youtube.com/embed/xlsDVLfQ-Sw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
 &lt;h2 id="概要">概要&lt;/h2>
-&lt;p>STYLY ParticleLive Awards 2019へ応募するために作りました。&lt;/p>
+&lt;p>STYLY ParticleLive Awards 2019 へ応募するために作りました。&lt;/p>
 &lt;p>コンセプトは &lt;strong>大漁旗&lt;/strong> ！&lt;/p>
-&lt;p>大漁旗に描かれているコミカルでパワフルな景色をVRで再現してみました。&lt;/p>
-&lt;p>普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30秒の作品に収めました。&lt;/p>
+&lt;p>大漁旗に描かれているコミカルでパワフルな景色を VR で再現してみました。&lt;/p>
+&lt;p>普段何気なく食べているマグロの寿司・刺身、シーチキンの缶詰は、マグロ漁に支えられています。そんな漁師の皆さんへの感謝の気持ちを込めて、30 秒の作品に収めました。&lt;/p>
 &lt;p>Do you know Japanese fishermen flags?&lt;/p>
 &lt;p>I tried to reproduce the comical and powerful ocean view depicted on the Japanese fishermen flags with a hologram.&lt;/p>
 &lt;p>The tuna sushi, sashimi and canned food you usually eat casually are supported by tuna fishing. Tuna fishing is a manual labor of 16 hours a day with a schedule of 4 hours for Netting and 12 hours for Lifting the net.&lt;/p>
@@ -149,7 +173,7 @@ src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0">
 &lt;/iframe>
 &lt;/div>
 &lt;h2 id="リリース">リリース&lt;/h2>
-&lt;p>5種類のプラットフォームにリリースしています！&lt;/p>
+&lt;p>5 種類のプラットフォームにリリースしています！&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://gallery.styly.cc/segur/6092f32f-be92-11e9-b34d-4783bb2170d0">STYLY / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://madewith.lookingglassfactory.com/app/97/">Looking Glass / Zepping Maguro&lt;/a>&lt;/li>
@@ -160,7 +184,7 @@ src="https://gallery.styly.cc/embed?g=6092f32f-be92-11e9-b34d-4783bb2170d0">
 &lt;ul>
 &lt;li>&lt;a href="https://awrd.com/creatives/detail/8619295">STYLY ParticleLive Awards / Zepping Maguro (Exquisite tuna)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://connpass.com/event/141161/">パーティクルライブミートアップ vol.2 at TIMEMACHINE&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏のxR自由研究発表祭【すたみと#3 特別編】&lt;/a>（野良）&lt;/li>
+&lt;li>&lt;a href="https://standalone-vr.connpass.com/event/143354/">夏の xR 自由研究発表祭【すたみと#3 特別編】&lt;/a>（野良）&lt;/li>
 &lt;/ul></description></item><item><title>Ramen Segur</title><link>/project/2019-07-21-ramen-segur/</link><pubDate>Sun, 21 Jul 2019 21:00:00 +0000</pubDate><guid>/project/2019-07-21-ramen-segur/</guid><description>&lt;div class="embed video-player">
 &lt;iframe height="360" width="640" frameborder="0" allowfullscreen="allowfullscreen"
 src="https://gallery.styly.cc/embed?g=2d199f5a-ab07-11e9-b34d-4783bb2170d0">
