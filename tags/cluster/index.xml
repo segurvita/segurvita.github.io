@@ -2,7 +2,7 @@
 &lt;p>&lt;a href="https://cluster.mu/e/39dd66cb-c741-4b84-a4b0-9233876e29f8">Cluster GAMEJAM 2020 in SUMMER&lt;/a>に投稿させていただきました。
 同僚と一緒に参加し、私は最初の夏ステージの制作を担当しました！&lt;/p>
 &lt;p>VRで落ちるの楽しいです！！&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">&lt;a href="https://twitter.com/hashtag/ClusterGAMEJAM?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ClusterGAMEJAM&lt;/a> では、最初の夏ステージの制作を担当しました！&lt;br>VRで落ちるの楽しいですよ！！高所恐怖症の人は、デスクトップモードかスマホで遊んでみてね！&lt;br>&lt;br>ちなみにゲーム制作している中で、高さ-100kmより下に物を置くとUnityが警告を出すという知見を得ましたｗ &lt;a href="https://t.co/HFTHSRTtgC">pic.twitter.com/HFTHSRTtgC&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@Vket6ラグーナ-コンキリエ-21 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1290133649317179393?ref_src=twsrc%5Etfw">August 3, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">&lt;a href="https://twitter.com/hashtag/ClusterGAMEJAM?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ClusterGAMEJAM&lt;/a> では、最初の夏ステージの制作を担当しました！&lt;br>VRで落ちるの楽しいですよ！！高所恐怖症の人は、デスクトップモードかスマホで遊んでみてね！&lt;br>&lt;br>ちなみにゲーム制作している中で、高さ-100kmより下に物を置くとUnityが警告を出すという知見を得ましたｗ &lt;a href="https://t.co/HFTHSRTtgC">pic.twitter.com/HFTHSRTtgC&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1290133649317179393?ref_src=twsrc%5Etfw">August 3, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;h2 id="環境">環境&lt;/h2>
 &lt;ul>
@@ -17,7 +17,7 @@
 &lt;p>「2020年は広域フォトグラメトリーやるぞ！」ということで、1月から作り始めたのが本作品です。&lt;/p>
 &lt;p>まずは、iPhone 11 Proの超広角レンズで、神社をさまざまな角度から動画撮影しました。&lt;/p>
 &lt;p>その動画をFFmpegで8000枚ほどの静止画に分割し、それを3DF Zephyrでメッシュ化しました。テクスチャ付メッシュの出力までの40時間ほどかかりました！その間、PCが触れなくて辛かったです。&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br>結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://t.co/CksRQXFEN9">pic.twitter.com/CksRQXFEN9&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@Vket6ラグーナ-コンキリエ-21 (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw">January 15, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今度は動画から約8000枚抽出してフォトグラってみました！１回操作ミスって8時間分のデータが吹っ飛び、泣そうになったけど、めげずにやり直しましたｗ&lt;br>結果的に、画像の入力からテクスチャ付メッシュの出力までに40時間かかりました！&lt;a href="https://twitter.com/hashtag/Photogrammetry?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Photogrammetry&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw">#フォトグラメトリ&lt;/a> &lt;a href="https://t.co/CksRQXFEN9">pic.twitter.com/CksRQXFEN9&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@リアルメタバースエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1217425064913596416?ref_src=twsrc%5Etfw">January 15, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>Blenderでちまちまとメッシュを修正し（3か月かかりましたｗ）、完成したのがこちらです。STYLYに投稿してありますので、ぜひご覧ください。&lt;/p>
 &lt;div class="embed video-player">
