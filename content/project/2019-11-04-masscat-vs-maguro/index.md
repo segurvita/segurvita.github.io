@@ -58,9 +58,9 @@ STYLY Avatar Diorama Awards 2019 へ応募するために作りました。
 
 Tuna (Tuna Monster) has attacked the city! Come on! Everyone's hero Masscat prevents Maguro attacks! Good luck Masscat!
 
-![image](/img/masscat-vs-maguro/image01.PNG)
+![image](./masscat-vs-maguro-01.png)
 
-![image](/img/masscat-vs-maguro/image03.PNG)
+![image](./masscat-vs-maguro-03.png)
 
 ## 概要
 

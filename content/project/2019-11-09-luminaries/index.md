@@ -57,11 +57,11 @@ url_code = ""
 
 がありましたので、これらを組み合わせてゲームを作りました！
 
-![image](/img/luminaries/slide04.png)
+![image](./luminaries-04.png)
 
 プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！
 
-![image](/img/luminaries/slide05.png)
+![image](./luminaries-05.png)
 
 MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！
 
@@ -69,7 +69,7 @@ MIDIキーボードは、プレイヤーの操作だけでなく、音やエフ�
 
 加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！
 
-![image](/img/luminaries/slide07.png)
+![image](./luminaries-07.png)
 
 このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！
 

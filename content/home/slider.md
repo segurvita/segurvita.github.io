@@ -55,7 +55,7 @@ height = "500px"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "luminaries/slide01.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "luminaries/featured.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "For more info"

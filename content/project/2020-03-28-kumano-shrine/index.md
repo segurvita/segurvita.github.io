@@ -83,7 +83,7 @@ xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclust
 
 [cluster / Vナゴヤドーム](https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55)
 
-[<img width="400" src="/img/kumano-shrine/cluster-shrine.png" />](https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55)
+[![](./cluster-shrine.png)](https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55)
 
 
 ### STYLYバージョン
