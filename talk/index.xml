@@ -1,12 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 28 Mar 2020 19:00:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>広域フォトグラメトリーやってみた</title><link>/talk/2020-03-28-xr-tech-nagoya-11/</link><pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate><guid>/talk/2020-03-28-xr-tech-nagoya-11/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 10 Sep 2022 18:55:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>STYLY Studio 入門</title><link>/talk/2022-09-10-xram-015/</link><pubDate>Sat, 10 Sep 2022 18:55:00 +0900</pubDate><guid>/talk/2022-09-10-xram-015/</guid><description>&lt;p>xRAM の主催の中野さんからお声かけいただきまして、登壇しました！（嬉しい！）&lt;/p>
+&lt;p>STYLY Studio のユーザーが1人でも増えたらと思い、チュートリアル動画を作って発表しました。
+それがこちらです！&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/GN9sPtO3-DA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>制限時間8分のLTの中で再生するため、だいぶ早口の動画になってしまいましたｗ&lt;/p>
+&lt;p>Filmora という動画編集ソフトを使ってみたんですが、とても使いやすかったです！&lt;/p>
+&lt;p>スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/9141959109a14d1a914d1fbe602cf6f4"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div></description></item><item><title>広域フォトグラメトリーやってみた</title><link>/talk/2020-03-28-xr-tech-nagoya-11/</link><pubDate>Sat, 28 Mar 2020 19:00:00 +0900</pubDate><guid>/talk/2020-03-28-xr-tech-nagoya-11/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=jgb9BcYHSoo&amp;amp;t=3176s">YouTube&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>イワシのフォトグラメトリーやってみた</title><link>/talk/2020-02-29-xr-tech-nagoya-10/</link><pubDate>Sat, 29 Feb 2020 19:00:00 +0900</pubDate><guid>/talk/2020-02-29-xr-tech-nagoya-10/</guid><description/></item><item><title>マグロ様のパーティクルライブを作ってみた</title><link>/talk/2019-12-21-xr-tech-nagoya-08/</link><pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate><guid>/talk/2019-12-21-xr-tech-nagoya-08/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
+&lt;/ul></description></item><item><title>イワシのフォトグラメトリーやってみた</title><link>/talk/2020-02-29-xr-tech-nagoya-10/</link><pubDate>Sat, 29 Feb 2020 19:00:00 +0900</pubDate><guid>/talk/2020-02-29-xr-tech-nagoya-10/</guid><description>&lt;p>今回はポスター登壇でした！&lt;/p>
+&lt;h2 id="展示ポスター">展示ポスター&lt;/h2>
+&lt;p>&lt;img src="./xRTechNagoya10_01_photogrammetry.jpg" alt="xRTechNagoya10_01_photogrammetry">
+&lt;img src="./xRTechNagoya10_02_particle_live.jpg" alt="xRTechNagoya10_02_particle_live">&lt;/p></description></item><item><title>マグロ様のパーティクルライブを作ってみた</title><link>/talk/2019-12-21-xr-tech-nagoya-08/</link><pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate><guid>/talk/2019-12-21-xr-tech-nagoya-08/</guid><description>&lt;p>xR Tech Nagoya のミチクサさんからお声をかけていただきまして、登壇しました！
+バーチャル登壇は初めてだったので緊張しましたｗ&lt;/p>
+&lt;p>発表スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/965229b2f3d64a2486cb9f3afa6cb2cd"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="リンク">リンク&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s">YouTube&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya">発表資料&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="バーチャル登壇について">バーチャル登壇について&lt;/h2>
 &lt;p>今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p>
+&lt;p>&lt;img src="./xRTechNagoya08_stage.avif" alt="xRTechNagoya08_stage">&lt;/p>
 &lt;p>以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p>
 &lt;p>&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ParticleLive on Segur / せぎゅ</title><link>/tags/particlelive/</link><description>Recent content in ParticleLive on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate><atom:link href="/tags/particlelive/index.xml" rel="self" type="application/rss+xml"/><item><title>マグロ様のパーティクルライブを作ってみた</title><link>/talk/2019-12-21-xr-tech-nagoya-08/</link><pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate><guid>/talk/2019-12-21-xr-tech-nagoya-08/</guid><description>&lt;h2 id="リンク">リンク&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ParticleLive on Segur / せぎゅ</title><link>/tags/particlelive/</link><description>Recent content in ParticleLive on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 21 Dec 2019 14:20:00 +0900</lastBuildDate><atom:link href="/tags/particlelive/index.xml" rel="self" type="application/rss+xml"/><item><title>マグロ様のパーティクルライブを作ってみた</title><link>/talk/2019-12-21-xr-tech-nagoya-08/</link><pubDate>Sat, 21 Dec 2019 14:20:00 +0900</pubDate><guid>/talk/2019-12-21-xr-tech-nagoya-08/</guid><description>&lt;p>xR Tech Nagoya のミチクサさんからお声をかけていただきまして、登壇しました！
+バーチャル登壇は初めてだったので緊張しましたｗ&lt;/p>
+&lt;p>発表スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/965229b2f3d64a2486cb9f3afa6cb2cd"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="リンク">リンク&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=yNlyg1axMRg&amp;amp;t=6175s">YouTube&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya">発表資料&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="バーチャル登壇について">バーチャル登壇について&lt;/h2>
 &lt;p>今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。&lt;/p>
+&lt;p>&lt;img src="./xRTechNagoya08_stage.avif" alt="xRTechNagoya08_stage">&lt;/p>
 &lt;p>以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。&lt;/p>
 &lt;p>&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/p></description></item></channel></rss>
