@@ -53,7 +53,7 @@ url_slides = "https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-
 projects = ["2019-08-18-zepping-maguro"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://speakerdeck.com/segur/maguroyang-falsepateikururaibuwozuo-tutemita-da-xr-tech-nagoya"
 url_video = "https://www.youtube.com/watch?v=yNlyg1axMRg&t=6175s"
 url_code = ""
 
@@ -68,6 +68,13 @@ url_code = ""
   focal_point = ""
 +++
 
+xR Tech Nagoya のミチクサさんからお声をかけていただきまして、登壇しました！
+バーチャル登壇は初めてだったので緊張しましたｗ
+
+発表スライドはこちらです！
+
+{{<speakerdeck 965229b2f3d64a2486cb9f3afa6cb2cd>}}
+
 ## リンク
 
 - [YouTube](https://www.youtube.com/watch?v=yNlyg1axMRg&t=6175s)
@@ -76,6 +83,8 @@ url_code = ""
 ## バーチャル登壇について
 
 今回のバーチャル登壇用に、VRChatワールド内でスライドが回転する仕組みを作りました。
+
+![xRTechNagoya08_stage](./xRTechNagoya08_stage.avif)
 
 以下に技術説明を公開しておりますので、ご興味がある方はご参照ください。
 

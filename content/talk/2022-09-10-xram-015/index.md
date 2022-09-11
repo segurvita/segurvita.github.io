@@ -1,27 +1,27 @@
 +++
-title = "イワシのフォトグラメトリーやってみた"
+title = "STYLY Studio 入門"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-02-29T19:00:00+09:00
-date_end = 2020-02-29T21:00:00+09:00
+date = 2022-09-10T18:55:00+09:00
+date_end = 2020-09-10T19:05:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2020-02-29T19:00:00+09:00
+publishDate = 2020-09-10T18:55:00+09:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Segur"]
 
 # Location of event.
-location = "名古屋 / VRChat"
+location = "cluster"
 
 # Name of event and optional event URL.
-event = "xR Tech Nagoya #10"
-event_url = "https://vrm-nagoya.connpass.com/event/167144/"
+event = "xRAM #015"
+event_url = "https://xram.connpass.com/event/256578/"
 
 # Abstract. What's your talk about?
-abstract = "VRChat会場にて登壇をさせていただきました。"
+abstract = "STYLY Studio の使い方について解説しました！"
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -31,7 +31,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Photogrammetry", "VRChat"]
+tags = ["cluster", "STYLY"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -42,7 +42,7 @@ tags = ["Photogrammetry", "VRChat"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = ""
+url_slides = "https://speakerdeck.com/segur/xram-number-015-styly-studio-ru-men"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -50,11 +50,11 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["2020-04-30-iwashi-yamamori"]
+projects = []
 
 # Links (optional).
-url_pdf = ""
-url_video = ""
+url_pdf = "https://speakerdeck.com/segur/xram-number-015-styly-studio-ru-men"
+url_video = "https://youtu.be/GN9sPtO3-DA"
 url_code = ""
 
 # Featured image
@@ -68,9 +68,17 @@ url_code = ""
   focal_point = ""
 +++
 
-今回はポスター登壇でした！
+xRAM の主催の中野さんからお声かけいただきまして、登壇しました！（嬉しい！）
 
-## 展示ポスター
+STYLY Studio のユーザーが1人でも増えたらと思い、チュートリアル動画を作って発表しました。
+それがこちらです！
 
-![xRTechNagoya10_01_photogrammetry](./xRTechNagoya10_01_photogrammetry.jpg)
-![xRTechNagoya10_02_particle_live](./xRTechNagoya10_02_particle_live.jpg)
+{{<youtube GN9sPtO3-DA>}}
+
+制限時間8分のLTの中で再生するため、だいぶ早口の動画になってしまいましたｗ
+
+Filmora という動画編集ソフトを使ってみたんですが、とても使いやすかったです！
+
+スライドはこちらです！
+
+{{<speakerdeck 9141959109a14d1a914d1fbe602cf6f4>}}

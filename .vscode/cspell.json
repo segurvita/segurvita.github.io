@@ -1,5 +1,5 @@
 {
-    "version": "0.1",
+    "version": "0.2",
     "language": "en",
     "words": [
         "akai",
@@ -15,6 +15,7 @@
         "choco",
         "cushen",
         "disqus",
+        "filmora",
         "footnotereturnlinkcontents",
         "formspree",
         "frameborder",
@@ -38,6 +39,7 @@
         "ments",
         "mononou",
         "moriawase",
+        "mozallowfullscreen",
         "newview",
         "nhizr",
         "peaceiris",
@@ -53,6 +55,8 @@
         "shogo",
         "shortcode",
         "shortname",
+        "slideshare",
+        "speakerdeck",
         "styly",
         "subdir",
         "submodule",
@@ -61,6 +65,7 @@
         "timemachine",
         "vket",
         "virtualout",
+        "webkitallowfullscreen",
         "yamamori",
         "youtube",
         "zepping"
