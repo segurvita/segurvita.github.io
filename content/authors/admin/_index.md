@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "STYLY Studio Engineer"
+role = "STYLY Studio Lead Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -107,11 +107,5 @@ user_groups = []
 
 +++
 
-segurと書いてせぎゅと読みます！（仏語読み）
+Psychic VR Labで『STYLY Studio』開発チームのリードエンジニアを担当。日本バーチャルリアリティ学会認定上級VR技術者。Unity認定プログラマー。XRMV制作者。個人活動として、魚介類のモデル制作・販売・Vketへの出展等を精力的に行っている。Segurを『せぎゅ』と読むのはフランス語読み。
 
-本業はSTYLY Studioの開発リーダーをやっております！
-
-趣味で魚介類のモデルを制作・販売してます！ http://segur.booth.pm
-
-XRMVも作ります！
-気になる方はDMください！
