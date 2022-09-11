@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "IoT / xR Engineer"
+role = "STYLY Studio Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,8 +24,7 @@ email = "segur.opus@gmail.com"
 # List (academic) interests or hobbies
 interests = [
   "xR (VR/AR/MR)",
-  "IoT",
-  "ガジェット"
+  "Unity",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,16 +33,16 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "工学府　機械システム工学専攻　修士課程"
-  institution = "横浜国立大学大学院"
+  course = "上級バーチャルリアリティ技術者"
+  institution = "日本バーチャルリアリティ学会"
 
 [[education.courses]]
   course = "Unity認定プログラマー"
   institution = "Unity Technologies"
 
 [[education.courses]]
-  course = "バーチャルリアリティ技術者"
-  institution = "日本バーチャルリアリティ学会"
+  course = "工学府　機械システム工学専攻　修士課程"
+  institution = "横浜国立大学大学院"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -108,4 +107,11 @@ user_groups = []
 
 +++
 
-xRエンジニア。IoTエンジニア。Unity認定プログラマー。ガジェットが大好きなギーク。毎日バックパックPCを背負ってる。中学時代にベルギー、高校時代にイギリスで過ごす。日本から少年誌を毎月輸入するくらい日本のマンガ文化にのめりこみ、大学受験を機に日本へ移住。2019年、Looking Glassに感銘を受け、xR開発を始める。
+segurと書いてせぎゅと読みます！（仏語読み）
+
+本業はSTYLY Studioの開発リーダーをやっております！
+
+趣味で魚介類のモデルを制作・販売してます！ http://segur.booth.pm
+
+XRMVも作ります！
+気になる方はDMください！
