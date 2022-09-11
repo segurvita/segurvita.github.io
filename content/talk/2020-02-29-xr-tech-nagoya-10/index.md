@@ -68,3 +68,9 @@ url_code = ""
   focal_point = ""
 +++
 
+今回はポスター登壇でした！
+
+## 展示ポスター
+
+![xRTechNagoya10_01_photogrammetry](./xRTechNagoya10_01_photogrammetry.jpg)
+![xRTechNagoya10_02_particle_live](./xRTechNagoya10_02_particle_live.jpg)
