@@ -58,11 +58,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "The Virtual Reality Society of Japan / 日本バーチャルリアリティ学会"
   organization_url = "https://vrsj.org/"
-  title = "日本VR学会認定　Virtual Reality Specialist / バーチャルリアリティ技術者"
+  title = "Senior Virtual Reality Specialist / 上級バーチャルリアリティ技術者"
   url = "https://vrsj.org/events/seminar/"
-  date_start = "2019-12-15"
-  date_end = "2019-12-15"
-  description = "VR技術者認定試験は、VRの理論・技術の習得を確かめる試験です。"
+  date_start = "2022-08-23"
+  date_end = "2022-08-23"
+  description = "日本VR学会が運営しているVR技術者認定試験の「セオリーコース」と「アプリケーションコース」の両方に合格しました！両コースに合格したため、「上級バーチャルリアリティ技術者」の資格が認められております。"
 
 [[item]]
   organization = "xR Tech Nagoya 11"
