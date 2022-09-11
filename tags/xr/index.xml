@@ -326,7 +326,7 @@ src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
 &lt;p>xR Tech Nagoyaの運営の方々が作成したVナゴヤドームというclusterワールドに、Kumano Shrineの低ポリゴン版（10万ポリゴン）が展示されています。
 エレベーターの上にありますので、是非ご覧になってください。&lt;/p>
 &lt;p>&lt;a href="https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55">cluster / Vナゴヤドーム&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55">&lt;!-- raw HTML omitted -->&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cluster.mu/w/6bbc58f2-9fd7-4c03-85d4-52147bdcfd55">&lt;img src="./cluster-shrine.png" alt="">&lt;/a>&lt;/p>
 &lt;h3 id="stylyバージョン">STYLYバージョン&lt;/h3>
 &lt;p>高ポリゴン版（140万ポリゴン）をSTYLYに投稿しております。VR機材がなくても、PCさえあれば、Webブラウザで視聴可能です！&lt;/p>
 &lt;p>&lt;a href="https://gallery.styly.cc/scene/a2f51be0-7085-11ea-834c-06540631ffe6">STYLY / Kumano Shrine&lt;/a>&lt;/p>
@@ -428,14 +428,14 @@ src="https://gallery.styly.cc/embed?g=a2f51be0-7085-11ea-834c-06540631ffe6">
 &lt;li>MIDIキーボード (AKAI mpk mini play)&lt;/li>
 &lt;/ul>
 &lt;p>がありましたので、これらを組み合わせてゲームを作りました！&lt;/p>
-&lt;p>&lt;img src="/img/luminaries/slide04.png" alt="image">&lt;/p>
+&lt;p>&lt;img src="./luminaries-04.png" alt="image">&lt;/p>
 &lt;p>プレイヤーを操作して、道中に登場するノーツを取りながらハイスコアを目指すゲームです！&lt;/p>
-&lt;p>&lt;img src="/img/luminaries/slide05.png" alt="image">&lt;/p>
+&lt;p>&lt;img src="./luminaries-05.png" alt="image">&lt;/p>
 &lt;p>MIDIキーボードは、プレイヤーの操作だけでなく、音やエフェクトにも影響します！&lt;/p>
 &lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今回、チーム5はこんなんつくりましたー&lt;br>VFXとサウンドにこだわってます！&lt;a href="https://twitter.com/hashtag/%E3%82%8B%E3%81%8D%E3%81%AF%E3%81%8F?src=hash&amp;amp;ref_src=twsrc%5Etfw">#るきはく&lt;/a>　おつかれさまでしたー &lt;a href="https://t.co/J635SATkfN">pic.twitter.com/J635SATkfN&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@STYLY Studioエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1193491843352129542?ref_src=twsrc%5Etfw">November 10, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>加えて、ゲームをプレイしている人の後ろに人だかりができると、Azure Kinectで撮影したポイントクラウドがVFXで表示されます！&lt;/p>
-&lt;p>&lt;img src="/img/luminaries/slide07.png" alt="image">&lt;/p>
+&lt;p>&lt;img src="./luminaries-07.png" alt="image">&lt;/p>
 &lt;p>このように折り重なるサウンドとVFXによって、すごく盛り上がるゲームとなりました！！&lt;/p>
 &lt;h2 id="概要">概要&lt;/h2>
 &lt;ul>
@@ -460,8 +460,8 @@ src="https://gallery.styly.cc/embed?g=2d37c169-fdec-11e9-bea5-06540631ffe6">
 みんなのヒーロー「ますきゃっと」がマグロの攻撃を防ぎます！
 がんばれますきゃっと！&lt;/p>
 &lt;p>Tuna (Tuna Monster) has attacked the city! Come on! Everyone&amp;rsquo;s hero Masscat prevents Maguro attacks! Good luck Masscat!&lt;/p>
-&lt;p>&lt;img src="/img/masscat-vs-maguro/image01.PNG" alt="image">&lt;/p>
-&lt;p>&lt;img src="/img/masscat-vs-maguro/image03.PNG" alt="image">&lt;/p>
+&lt;p>&lt;img src="./masscat-vs-maguro-01.png" alt="image">&lt;/p>
+&lt;p>&lt;img src="./masscat-vs-maguro-03.png" alt="image">&lt;/p>
 &lt;h2 id="概要">概要&lt;/h2>
 &lt;ul>
 &lt;li>開発環境: STYLY, Unity, Playmaker&lt;/li>
