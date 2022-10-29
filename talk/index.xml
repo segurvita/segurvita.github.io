@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 10 Sep 2022 18:55:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>STYLY Studio 入門</title><link>/talk/2022-09-10-xram-015/</link><pubDate>Sat, 10 Sep 2022 18:55:00 +0900</pubDate><guid>/talk/2022-09-10-xram-015/</guid><description>&lt;p>xRAM の主催の中野さんからお声かけいただきまして、登壇しました！（嬉しい！）&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Fri, 28 Oct 2022 20:20:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>STYLY Studioのテストをブラウザ自動操作で効率化する</title><link>/talk/2022-10-28-xr-study-group/</link><pubDate>Fri, 28 Oct 2022 20:20:00 +0900</pubDate><guid>/talk/2022-10-28-xr-study-group/</guid><description>&lt;p>Psychic VR Lab 主催の XR 勉強会で登壇しました！&lt;/p>
+&lt;p>XR 界隈の人に自動テストの魅力を伝えたく、PC 自動操作による GUI テストの自動化について発表しました。&lt;/p>
+&lt;p>それがこちらです！&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/bIm0gr7gxkE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/c5715b05ac6148498f200d05296fc8d7"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div></description></item><item><title>STYLY Studio 入門</title><link>/talk/2022-09-10-xram-015/</link><pubDate>Sat, 10 Sep 2022 18:55:00 +0900</pubDate><guid>/talk/2022-09-10-xram-015/</guid><description>&lt;p>xRAM の主催の中野さんからお声かけいただきまして、登壇しました！（嬉しい！）&lt;/p>
 &lt;p>STYLY Studio のユーザーが1人でも増えたらと思い、チュートリアル動画を作って発表しました。
 それがこちらです！&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
