@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ChatGPT on Segur / せぎゅ</title><link>/tags/chatgpt/</link><description>Recent content in ChatGPT on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/chatgpt/index.xml" rel="self" type="application/rss+xml"/><item><title>ずんだもんBOT</title><link>/project/2023-06-07-zundamon-bot/</link><pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate><guid>/project/2023-06-07-zundamon-bot/</guid><description>&lt;p>「ずんだもん」と会話できるシステムを作りました！&lt;/p>
+&lt;p>ずんだもんとおしゃべりしたい！&lt;/p>
+&lt;p>という気持ちだけで作りました。&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">何番煎じかわからないけど、ずんだもんと会話するシステムをためしに作ってみましたー&lt;br>&lt;br>OpenAIのAPI勉強できて良かった！&lt;a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ChatGPT&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ずんだもん&lt;/a> &lt;a href="https://t.co/ZHs5qukjTt">pic.twitter.com/ZHs5qukjTt&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@STYLYエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1655770414327681025?ref_src=twsrc%5Etfw">May 9, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="登壇資料">登壇資料&lt;/h2>
+&lt;p>社内のAIコンテストの応募作品として作りました。&lt;/p>
+&lt;p>そのときの登壇資料はこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/ea0dec7117dd43359651e94ade2e5812"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="looking-glass-portrait-対応">Looking Glass Portrait 対応&lt;/h2>
+&lt;p>後日、Looking Glass Portraitにも対応しました！&lt;/p>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">以前作った「ずんだもんBOT」をLookingGlassPortraitに対応させました！&lt;br>&lt;br>ひさびさに裸眼立体視コンテンツ作った！楽しい！&lt;a href="https://twitter.com/hashtag/ChatGPT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ChatGPT&lt;/a> &lt;a href="https://twitter.com/hashtag/%E3%81%9A%E3%82%93%E3%81%A0%E3%82%82%E3%82%93?src=hash&amp;amp;ref_src=twsrc%5Etfw">#ずんだもん&lt;/a> &lt;a href="https://twitter.com/hashtag/LookingGlass?src=hash&amp;amp;ref_src=twsrc%5Etfw">#LookingGlass&lt;/a> &lt;a href="https://t.co/pGRY0CUFee">pic.twitter.com/pGRY0CUFee&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@STYLYエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1666281387815751681?ref_src=twsrc%5Etfw">June 7, 2023&lt;/a>&lt;/blockquote>
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
+&lt;h2 id="概要">概要&lt;/h2>
+&lt;ul>
+&lt;li>開発環境: Unity&lt;/li>
+&lt;li>動作環境: Windows (Looking Glass Portrait)&lt;/li>
+&lt;/ul>
+&lt;h2 id="利用技術">利用技術&lt;/h2>
+&lt;p>主に以下の技術を利用しています。&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>OpenAI API&lt;/td>
+&lt;td>回答文生成に使いました。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>VOICEVOX&lt;/td>
+&lt;td>音声合成に使いました。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>UniVRM&lt;/td>
+&lt;td>キャラクターモデルの制御に使いました。&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Looking Glass Portrait&lt;/td>
+&lt;td>裸眼立体視ディスプレイとして利用しました。&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="クレジット">クレジット&lt;/h2>
+&lt;ul>
+&lt;li>音声: &lt;code>VOICEVOX:ずんだもん&lt;/code>&lt;/li>
+&lt;li>３Ｄモデル: &lt;code>SSS LLC.&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="本ソフトウェアの配布について">本ソフトウェアの配布について&lt;/h2>
+&lt;p>ずんだもん（人型）３Ｄモデルセット利用規約により、本ソフトウェアを配布することはできません。なにとぞご了承ください。
+映像作品、配信、放送には利用できます。&lt;/p></description></item></channel></rss>
