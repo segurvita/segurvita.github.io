@@ -25,7 +25,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://speakerdeck.com/segur/zundamonbot"
 url_video = ""
 url_code = ""
 
