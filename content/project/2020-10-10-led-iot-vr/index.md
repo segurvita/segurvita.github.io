@@ -99,3 +99,9 @@ VR 空間内のブロックの状態が、リアルタイムに現実世界の L
 
 - [Arduino で 8x8 の LED Matrix を光らせる](https://qiita.com/segur/items/c56a70189c56acff6100)
 - [Firebase Cloud Functions で MQTT Publisher を作ってみた](https://qiita.com/segur/items/bf9a31b6906a99a7ae26)
+
+## Special Thanks
+
+Sensitive Cube
+https://www.artstation.com/artwork/w6LKgL
+
