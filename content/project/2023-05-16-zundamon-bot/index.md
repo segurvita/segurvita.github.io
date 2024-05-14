@@ -50,7 +50,7 @@ url_code = ""
 
 という気持ちだけで作りました。
 
-{{<tweet 1655770414327681025>}}
+{{<twitter user="segur_vita" id="1655770414327681025" >}}
 
 
 ## 登壇資料
@@ -66,7 +66,7 @@ url_code = ""
 
 後日、Looking Glass Portraitにも対応しました！
 
-{{<tweet 1666281387815751681>}}
+{{<twitter user="segur_vita" id="1666281387815751681" >}}
 
 
 ## 概要

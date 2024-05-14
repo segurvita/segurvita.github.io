@@ -57,11 +57,11 @@ Looking Glassにキャラクターを表示して遊んでいたときに思い�
 
 Leap Motionによって、両手の動きを検出し、ズームや回転等の操作をすることができるんです！
 
-{{<tweet 1109754332092624896>}}
+{{<twitter user="segur_vita" id="1109754332092624896" >}}
 
 バックパックPCと組み合わせて、歩き展示をしたかったので、片手操作モードも実装しましたｗ
 
-{{<tweet 1108794958318702592>}}
+{{<twitter user="segur_vita" id="1108794958318702592" >}}
 
 [Looking Glass Library](https://madewith.lookingglassfactory.com/app/128/) にリリースしましたので、Looking Glassをお持ちの方はぜひ、遊んでみてください。
 
