@@ -4,7 +4,6 @@ title = "STYLY Studioのテストをブラウザ自動操作で効率化する"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2022-10-28T20:20:00+09:00
-date_end = 2020-10-28T20:30:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
