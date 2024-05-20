@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "PolySpatial Environment Diffuse Shader"
+title = "Platform Watcher"
 
 # Date this page was created.
-date = 2024-05-06T00:00:00
+date = 2024-05-11T16:00:00
 
 # Project summary to display on homepage.
-summary = "Apple Vision Pro用に作った、部屋の明るさを反映するShaderです。"
+summary = "UnityのSwitch Platform忘れを検出するためのEditor拡張ツールです。"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Apple Vision Pro", "Library", "Open UPM", "Shader", "Unity"]
+tags = ["Editor", "Library", "Open UPM", "Unity"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://openupm.com/packages/com.segur.poly-spatial-environment-diffuse-shader/"
+external_link = "https://openupm.com/packages/com.segur.platform-watcher/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
