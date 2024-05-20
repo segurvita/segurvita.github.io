@@ -10,7 +10,7 @@ summary = "Apple Vision Pro用に作った、部屋の明るさを反映するSh
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Apple Vision ProS", "Library", "Open UPM", "Shader", "Unity"]
+tags = ["Apple Vision Pro", "Library", "Open UPM", "Shader", "Unity"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://openupm.com/packages/com.segur.poly-spatial-environment-diffuse-shader/"
