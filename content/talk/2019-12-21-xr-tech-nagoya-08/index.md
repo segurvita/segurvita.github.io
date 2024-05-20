@@ -4,7 +4,6 @@ title = "マグロ様のパーティクルライブを作ってみた"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2019-12-21T14:20:00+09:00
-date_end = 2019-12-21T14:50:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).

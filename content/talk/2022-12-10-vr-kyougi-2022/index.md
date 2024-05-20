@@ -1,26 +1,26 @@
 +++
-title = "STYLY Studioのテストをブラウザ自動操作で効率化する"
+title = "都市のAR化を実装した話"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-10-28T20:20:00+09:00
+date = 2022-12-10T16:20:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2020-10-28T20:20:00+09:00
+publishDate = 2022-12-10T16:20:00+09:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Segur"]
 
 # Location of event.
-location = "東京 / Psychic VR Lab"
+location = "cluster"
 
 # Name of event and optional event URL.
-event = "XR勉強会 by STYLY"
-event_url = "https://styly.connpass.com/event/261100/"
+event = "VR Kyougi 2022"
+event_url = "https://xram.connpass.com/event/261514/"
 
 # Abstract. What's your talk about?
-abstract = "STYLY Studio の自動テストについて解説しました！"
+abstract = "STYLY Studioの都市テンプレート機能について解説しました！"
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -41,7 +41,7 @@ tags = ["STYLY"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://speakerdeck.com/segur/styly-studionotesutowoburauzazi-dong-cao-zuo-dexiao-lu-hua-suru"
+url_slides = ""
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -52,29 +52,21 @@ url_slides = "https://speakerdeck.com/segur/styly-studionotesutowoburauzazi-dong
 projects = []
 
 # Links (optional).
-url_pdf = "https://speakerdeck.com/segur/styly-studionotesutowoburauzazi-dong-cao-zuo-dexiao-lu-hua-suru"
-url_video = "https://youtu.be/bIm0gr7gxkE"
+url_pdf = ""
+url_video = ""
 url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "自動テストについて発表しました。"
+  caption = "STYLY Studioの都市テンプレート機能について発表しました。"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
-Psychic VR Lab 主催の XR 勉強会で登壇しました！
+xRAMの主催者の中野さんからお声がけいただき、登壇させていただきました！
 
-XR 界隈の人に自動テストの魅力を伝えたく、PC 自動操作による GUI テストの自動化について発表しました。
-
-それがこちらです！
-
-{{<youtube bIm0gr7gxkE>}}
-
-スライドはこちらです！
-
-{{<speakerdeck c5715b05ac6148498f200d05296fc8d7>}}
+STYLY Studioの都市テンプレート機能のユーザーが一人でも増えればと思い、動画を作成して発表しました。

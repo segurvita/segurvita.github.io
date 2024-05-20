@@ -4,7 +4,6 @@ title = "STYLY Studio 入門"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2022-09-10T18:55:00+09:00
-date_end = 2020-09-10T19:05:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).

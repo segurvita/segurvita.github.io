@@ -4,7 +4,6 @@ title = "広域フォトグラメトリーやってみた"
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date = 2020-03-28T19:00:00+09:00
-date_end = 2020-03-28T21:00:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
