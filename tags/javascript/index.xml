@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>JavaScript on Segur / せぎゅ</title><link>/tags/javascript/</link><description>Recent content in JavaScript on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml"/><item><title>Led Matrix with IoT and VR</title><link>/project/2020-10-10-led-iot-vr/</link><pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate><guid>/project/2020-10-10-led-iot-vr/</guid><description>&lt;p>「VR と IoT を組み合わせて何か面白いことしましょう！」&lt;/p>
 &lt;p>そんな風に &lt;a href="https://twitter.com/onCube_jp">SensitiveCube&lt;/a> さんに誘われて、２人での制作が始まりました。&lt;/p>
 &lt;p>たまたま私が LED Matrix というデバイスを持っていたので、最初にこんな技術デモを制作しました。&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">VR空間内でお絵描きすると、自宅の8x8LEDに反映される仕組みを作ってみました！&lt;br>個人サーバーを介して、VR(STYLY)内の仮想LEDの状態を、自宅内の物理LEDへ反映させてます。&lt;br>PlaymakerのWWW Objectと、MQTTを組み合わせて実現してます。&lt;br>右下はMQTTのメッセージを可視化させたものです。&lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a> &lt;a href="https://twitter.com/hashtag/IoT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#IoT&lt;/a> &lt;a href="https://t.co/YEL02dHsJN">pic.twitter.com/YEL02dHsJN&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@都市ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1301404377387683846?ref_src=twsrc%5Etfw">September 3, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">VR空間内でお絵描きすると、自宅の8x8LEDに反映される仕組みを作ってみました！&lt;br>個人サーバーを介して、VR(STYLY)内の仮想LEDの状態を、自宅内の物理LEDへ反映させてます。&lt;br>PlaymakerのWWW Objectと、MQTTを組み合わせて実現してます。&lt;br>右下はMQTTのメッセージを可視化させたものです。&lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a> &lt;a href="https://twitter.com/hashtag/IoT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#IoT&lt;/a> &lt;a href="https://t.co/YEL02dHsJN">pic.twitter.com/YEL02dHsJN&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1301404377387683846?ref_src=twsrc%5Etfw">September 3, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>VR 空間内のブロックの状態が、リアルタイムに現実世界の LED へ反映されます！&lt;/p>
 &lt;p>この技術デモをベースに &lt;a href="https://twitter.com/onCube_jp">SensitiveCube&lt;/a> さんが、よりリッチな空間にしたものがこちらです！&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">さきほど &lt;a href="https://twitter.com/hashtag/Unity%E9%81%93%E5%A0%B4?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Unity道場&lt;/a> さんで紹介してもらったLチカの動画はこちらです。VR空間内でお絵かきすると自宅のLEDが光ります！&lt;a href="https://twitter.com/onCube_jp?ref_src=twsrc%5Etfw">@onCube_jp&lt;/a>さんにモデリング・シーン制作をやっていただきました！試作時は色鉛筆だったものが、ライトセイバー風レーザーポインターに進化してて超かっこいいです！&lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a> &lt;a href="https://twitter.com/hashtag/IoT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#IoT&lt;/a> &lt;a href="https://t.co/vOiJxWd7wJ">pic.twitter.com/vOiJxWd7wJ&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@都市ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1314857582956220416?ref_src=twsrc%5Etfw">October 10, 2020&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">さきほど &lt;a href="https://twitter.com/hashtag/Unity%E9%81%93%E5%A0%B4?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Unity道場&lt;/a> さんで紹介してもらったLチカの動画はこちらです。VR空間内でお絵かきすると自宅のLEDが光ります！&lt;a href="https://twitter.com/onCube_jp?ref_src=twsrc%5Etfw">@onCube_jp&lt;/a>さんにモデリング・シーン制作をやっていただきました！試作時は色鉛筆だったものが、ライトセイバー風レーザーポインターに進化してて超かっこいいです！&lt;a href="https://twitter.com/hashtag/STYLY?src=hash&amp;amp;ref_src=twsrc%5Etfw">#STYLY&lt;/a> &lt;a href="https://twitter.com/hashtag/IoT?src=hash&amp;amp;ref_src=twsrc%5Etfw">#IoT&lt;/a> &lt;a href="https://t.co/vOiJxWd7wJ">pic.twitter.com/vOiJxWd7wJ&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1314857582956220416?ref_src=twsrc%5Etfw">October 10, 2020&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;p>光り輝くセイバーがとてもかっこいいシーンになりました！&lt;/p>
 &lt;h2 id="利用技術">利用技術&lt;/h2>
@@ -67,71 +67,71 @@
 &lt;h2 id="special-thanks">Special Thanks&lt;/h2>
 &lt;p>Sensitive Cube
 &lt;a href="https://www.artstation.com/artwork/w6LKgL">https://www.artstation.com/artwork/w6LKgL&lt;/a>&lt;/p></description></item><item><title>Advent Calendar 2019</title><link>/project/2019-12-01-advent-calendar-2019/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>/project/2019-12-01-advent-calendar-2019/</guid><description>&lt;p>2019年のアドベントカレンダーは11分野に挑戦中です！&lt;/p>
-&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！&lt;br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br>&lt;br>さて・・・まだ進捗40%だぞっと（震える）&lt;br> &lt;a href="https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Qiita&lt;/a> &lt;a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@都市ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019&lt;/a>&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">&lt;p lang="ja" dir="ltr">今年のアドベントカレンダーは10分野に挑戦中！！&lt;br>Photogrammetry, Docker, Git, C#, Python, Node.js, C++, Java, VTuber Tech, Unityの順&lt;br>あ、AdventarにVRChatもあるから、全部で11分野だ・・・&lt;br>&lt;br>さて・・・まだ進捗40%だぞっと（震える）&lt;br> &lt;a href="https://twitter.com/hashtag/Qiita?src=hash&amp;amp;ref_src=twsrc%5Etfw">#Qiita&lt;/a> &lt;a href="https://t.co/qbJFReZR3x">pic.twitter.com/qbJFReZR3x&lt;/a>&lt;/p>&amp;mdash; segur(せぎゅ)@ARエンジニア (@segur_vita) &lt;a href="https://twitter.com/segur_vita/status/1200682329364025347?ref_src=twsrc%5Etfw">November 30, 2019&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th align="left">日付&lt;/th>
-&lt;th align="left">カレンダー&lt;/th>
-&lt;th align="left">記事&lt;/th>
+&lt;th style="text-align:left">日付&lt;/th>
+&lt;th style="text-align:left">カレンダー&lt;/th>
+&lt;th style="text-align:left">記事&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td align="left">12/01&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/photogrammetry">Photogrammetry&lt;/a> 主催&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/c859a13a22fe1cb58739">1杯のラーメンの写真をいっぱい撮って3Dモデルにした話&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/01&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/photogrammetry">Photogrammetry&lt;/a> 主催&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/c859a13a22fe1cb58739">1杯のラーメンの写真をいっぱい撮って3Dモデルにした話&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/02&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/docker">Docker&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/0c9270e0c48805c600fb">初学者向けDockerfileハンズオン&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/02&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/docker">Docker&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/0c9270e0c48805c600fb">初学者向けDockerfileハンズオン&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/03&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/git">Git&lt;/a> 主催&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/1fb600400230a037587d">初学者向けGitコマンドハンズオン&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/03&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/git">Git&lt;/a> 主催&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/1fb600400230a037587d">初学者向けGitコマンドハンズオン&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/05&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/c-sharp-2">C#&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/b13045e6f3a9949e0503">【Unity】シーンの重複読み込みをLINQで防ぐ&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/05&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/c-sharp-2">C#&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/b13045e6f3a9949e0503">【Unity】シーンの重複読み込みをLINQで防ぐ&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/07&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/python">Python&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/e470e13196daa01093ee">Blenderを使わずにPythonだけで3Dアニメーションを作ってみよう！【FBX SDK Python】&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/07&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/python">Python&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/e470e13196daa01093ee">Blenderを使わずにPythonだけで3Dアニメーションを作ってみよう！【FBX SDK Python】&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/08&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/nodejs">Node.js&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/6eebb70ec2de03016dde">初学者向けpackage.jsonハンズオン&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/08&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/nodejs">Node.js&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/6eebb70ec2de03016dde">初学者向けpackage.jsonハンズオン&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/10&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/cpp">C++&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/9e20a1d29bf397f1f843">C++版FBX SDK入りのDockerイメージを作ってみる&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/10&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/cpp">C++&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/9e20a1d29bf397f1f843">C++版FBX SDK入りのDockerイメージを作ってみる&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/12&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/java">Java&lt;/a> 主催&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/89f1b60963c3e5333872">JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/12&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/java">Java&lt;/a> 主催&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/89f1b60963c3e5333872">JavaのanyMatchって、C#でいうAnyだっけ？つまり、JavaScriptのsomeだよね？もう対応表つくるわ！&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/15&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/vtuber">VTuber Tech&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/15&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/vtuber">VTuber Tech&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/edaad893d06f6e27eae7">バーチャル登壇用にスライド回転機構を作る&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/19&lt;/td>
-&lt;td align="left">&lt;a href="https://adventar.org/calendars/3950">VRChat&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/a4520ef31ddaf9c18f87">【VRChat】VRC_TriggerのActions一覧&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/19&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://adventar.org/calendars/3950">VRChat&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/a4520ef31ddaf9c18f87">【VRChat】VRC_TriggerのActions一覧&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td align="left">12/25&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/advent-calendar/2019/unity">Unity&lt;/a>&lt;/td>
-&lt;td align="left">&lt;a href="https://qiita.com/segur/items/9da1dd179e4061d39e21">AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a>&lt;/td>
+&lt;td style="text-align:left">12/25&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/advent-calendar/2019/unity">Unity&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://qiita.com/segur/items/9da1dd179e4061d39e21">AnimationCurveを使わずにVRMをC#で走らせてみる【Unity】&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>yaml-scraper</title><link>/project/2019-06-23-yaml-scraper/</link><pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate><guid>/project/2019-06-23-yaml-scraper/</guid><description/></item><item><title>swagger-scraper</title><link>/project/2019-06-21-swagger-scraper/</link><pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate><guid>/project/2019-06-21-swagger-scraper/</guid><description/></item><item><title>swagger-rm-example</title><link>/project/2018-10-25-swagger-rm-example/</link><pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate><guid>/project/2018-10-25-swagger-rm-example/</guid><description/></item></channel></rss>
