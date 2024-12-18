@@ -14,18 +14,13 @@
 
 ## 開発ツール導入
 
-Hugoをインストールしてください。Macの場合、Homebrewでインストールできます。
+Hugo Extended v0.122.0 をインストールしてください。
 
-```bash
-brew install hugo
-```
+実行ファイルは以下から入手できます。
 
-Windowsの場合、ChocolateyでHugo Extendedをインストールします。
+https://github.com/gohugoio/hugo/releases/tag/v0.122.0
 
-```bash
-choco install hugo-extended
-```
-
+Homebrewだと、0.122.0をインストールできないようなので、ご注意ください。
 
 
 ## 開発環境構築
