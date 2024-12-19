@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Wed, 06 Nov 2024 19:00:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>STYLYの都市テンプレート</title><link>/talk/2024-11-06-plateau-lt-07/</link><pubDate>Wed, 06 Nov 2024 19:00:00 +0900</pubDate><guid>/talk/2024-11-06-plateau-lt-07/</guid><description>&lt;p>主催者の方からお声がけいただき、登壇させていただきました！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Wed, 18 Dec 2024 21:15:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>VisionProで部屋の明るさを反映させるシェーダーを作った話</title><link>/talk/2024-12-18-osaka-xr-meeting/</link><pubDate>Wed, 18 Dec 2024 21:15:00 +0900</pubDate><guid>/talk/2024-12-18-osaka-xr-meeting/</guid><description>&lt;p>スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/59063d603f74499eb3679f21f4c4e24a"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div>
+&lt;p>暗い場所でVision Proアプリを起動したときに、アバターがキレイに見えない問題を解決するために、シェーダーを作りました。&lt;/p>
+&lt;p>完成したシェーダーはOpenUPMで公開していますので、ぜひご活用ください！&lt;/p>
+&lt;p>&lt;a href="https://openupm.com/packages/com.segur.poly-spatial-environment-diffuse-shader/">https://openupm.com/packages/com.segur.poly-spatial-environment-diffuse-shader/&lt;/a>&lt;/p></description></item><item><title>STYLYの都市テンプレート</title><link>/talk/2024-11-06-plateau-lt-07/</link><pubDate>Wed, 06 Nov 2024 19:00:00 +0900</pubDate><guid>/talk/2024-11-06-plateau-lt-07/</guid><description>&lt;p>主催者の方からお声がけいただき、登壇させていただきました！&lt;/p>
 &lt;p>スライドはこちらです！&lt;/p>
 &lt;div class="embed video-player">
 &lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/570ee676a1be4e0c9ca0e6a14d08229b"
