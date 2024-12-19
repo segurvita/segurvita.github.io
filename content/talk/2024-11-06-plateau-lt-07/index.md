@@ -13,7 +13,7 @@ publishDate = 2024-11-06T19:00:00+09:00
 authors = ["Segur"]
 
 # Location of event.
-location = "zoom"
+location = "東京 / Zoom"
 
 # Name of event and optional event URL.
 event = "PLATEAU LT 07"
