@@ -1,26 +1,26 @@
 +++
-title = "STYLYの都市テンプレート"
+title = "VisionProで部屋の明るさを反映させるシェーダーを作った話"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2024-11-06T19:00:00+09:00
+date = 2024-12-18T21:15:00+09:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2024-11-06T19:00:00+09:00
+publishDate = 2024-11-18T21:15:00+09:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Segur"]
 
 # Location of event.
-location = "東京 / Zoom"
+location = "大阪 / Zoom"
 
 # Name of event and optional event URL.
-event = "PLATEAU LT 07"
-event_url = "https://asciistartup.connpass.com/event/329248/"
+event = "XRミーティング"
+event_url = "https://osaka-driven-dev.connpass.com/event/337920/"
 
 # Abstract. What's your talk about?
-abstract = "STYLY Studioの都市テンプレート機能について解説しました！"
+abstract = "VisionPro向けにシェーダーを自作した話をしました！"
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -30,7 +30,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["STYLY"]
+tags = ["Apple Vision Pro", "Shader", "Unity"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -41,7 +41,7 @@ tags = ["STYLY"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "https://speakerdeck.com/segur/stylynodu-shi-tenpureto"
+url_slides = "https://speakerdeck.com/segur/visionprodebu-wu-noming-rusawofan-ying-saserusiedawozuo-tutahua"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -49,10 +49,10 @@ url_slides = "https://speakerdeck.com/segur/stylynodu-shi-tenpureto"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["2024-05-06-environment-diffuse-shader"]
 
 # Links (optional).
-url_pdf = "https://speakerdeck.com/segur/stylynodu-shi-tenpureto"
+url_pdf = "https://speakerdeck.com/segur/visionprodebu-wu-noming-rusawofan-ying-saserusiedawozuo-tutahua"
 url_video = ""
 url_code = ""
 
@@ -60,17 +60,20 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "STYLY Studioの都市テンプレート機能について発表しました。"
+  caption = "VisionPro向けにシェーダーを自作した話をしました！"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
 
-主催者の方からお声がけいただき、登壇させていただきました！
 
 スライドはこちらです！
 
-{{<speakerdeck 570ee676a1be4e0c9ca0e6a14d08229b>}}
+{{<speakerdeck 59063d603f74499eb3679f21f4c4e24a>}}
 
-STYLY Studioの都市テンプレート機能のユーザーが一人でも増えればと思い、発表しました。
+暗い場所でVision Proアプリを起動したときに、アバターがキレイに見えない問題を解決するために、シェーダーを作りました。
+
+完成したシェーダーはOpenUPMで公開していますので、ぜひご活用ください！
+
+https://openupm.com/packages/com.segur.poly-spatial-environment-diffuse-shader/
