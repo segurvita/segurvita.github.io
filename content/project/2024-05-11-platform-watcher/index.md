@@ -10,7 +10,7 @@ summary = "UnityのSwitch Platform忘れを検出するためのEditor拡張ツ�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Editor", "Library", "Open UPM", "Unity"]
+tags = ["Editor", "Library", "OpenUPM", "Unity"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://openupm.com/packages/com.segur.platform-watcher/"
