@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Wed, 18 Dec 2024 21:15:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>VisionProで部屋の明るさを反映させるシェーダーを作った話</title><link>/talk/2024-12-18-osaka-xr-meeting/</link><pubDate>Wed, 18 Dec 2024 21:15:00 +0900</pubDate><guid>/talk/2024-12-18-osaka-xr-meeting/</guid><description>&lt;p>スライドはこちらです！&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks on Segur / せぎゅ</title><link>/talk/</link><description>Recent content in Recent &amp; Upcoming Talks on Segur / せぎゅ</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy; {year}</copyright><lastBuildDate>Mon, 24 Feb 2025 21:00:00 +0900</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml"/><item><title>日本発売前のVisionProを50人に被せた話</title><link>/talk/2025-02-24-xr-developers-meeting/</link><pubDate>Mon, 24 Feb 2025 21:00:00 +0900</pubDate><guid>/talk/2025-02-24-xr-developers-meeting/</guid><description>&lt;p>XR開発者集会のごんびぃーさんにお声がけいただき、LTさせていただきました！&lt;/p>
+&lt;p>VisionProが北米で先行発売されてから日本発売されるまでの４ヶ月間で、50人に被せましたというお話です。&lt;/p>
+&lt;p>スライドはこちらです！&lt;/p>
+&lt;div class="embed video-player">
+&lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/e308d55cd25d42d49b2099ed74966fae"
+allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 720px; height: 405px;"
+data-ratio="1.78343949044586">
+&lt;/iframe>
+&lt;/div></description></item><item><title>VisionProで部屋の明るさを反映させるシェーダーを作った話</title><link>/talk/2024-12-18-osaka-xr-meeting/</link><pubDate>Wed, 18 Dec 2024 21:15:00 +0900</pubDate><guid>/talk/2024-12-18-osaka-xr-meeting/</guid><description>&lt;p>スライドはこちらです！&lt;/p>
 &lt;div class="embed video-player">
 &lt;iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/59063d603f74499eb3679f21f4c4e24a"
 allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
