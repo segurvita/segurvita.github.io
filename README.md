@@ -22,6 +22,13 @@ https://github.com/gohugoio/hugo/releases/tag/v0.122.0
 
 Homebrewだと、0.122.0をインストールできないようなので、ご注意ください。
 
+Chocolateyなら、以下のコマンドでインストールできます。
+
+```bash
+choco install hugo-extended --version=0.122.0
+```
+
+
 
 ## 開発環境構築
 
