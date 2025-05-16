@@ -13,3 +13,12 @@
 
 # Hugo
 resources/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+.directory
