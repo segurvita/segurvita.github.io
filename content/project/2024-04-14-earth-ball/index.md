@@ -10,7 +10,7 @@ summary = "Apple Vision Proと巨大アースボールを使って弾道ミサ�
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["BOOTH", "Houdini", "FBX", "Food", "Substance Painter"]
+tags = ["Game", "Apple Vision Pro", "Unity"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://x.com/segur_vita/status/1779497635633926338"
